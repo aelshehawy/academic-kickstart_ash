@@ -48,8 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  
-  For a direct email link, use "mailto:ashrakatelshehawy@gmail.com".
+  link:  "mailto:ashrakatelshehawy@gmail.com"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AshaElshehawy
@@ -75,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-I am currently a visiting scholar at the University of Houston and Research Associate at the Mannheim Center of European Social Research (MZES) at the University of Mannheim. is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Doctoral Student at the University of Oxford.  I hold a Masters Degree in Political Science from the University of Mannheim, where I focused on Advanced Quantitative Methods. I hold a Bachelors degree in Political Science and Psychology also from the University of Mannheim. I was a visiting undergraduate student at Trinity College Dublin. In Mannheim I was involved in research projects at Gesis and Mannheim Center for European Social Research, I taught Research Design, and was part of the editorial team of the American Political Science Review. Before joining Oxford I was a visiting scholar at the University of Houston.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I have been born and raised in Alexandria, Egypt. I've had the amazing opportunity to be a part of the Egyptian Swimming National Team for seven years, travelling around for my swimming competitions, especially in Arabic countries
