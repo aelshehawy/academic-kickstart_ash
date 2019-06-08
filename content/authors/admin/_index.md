@@ -69,9 +69,9 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 I am a Doctoral Student at the University of Oxford.  I hold a Masters Degree in Political Science from the University of Mannheim, where I focused on Advanced Quantitative Methods. I hold a Bachelors degree in Political Science and Psychology also from the University of Mannheim. I was a visiting undergraduate student at Trinity College Dublin. In Mannheim I was involved in research projects at Gesis and Mannheim Center for European Social Research, I taught Research Design, and was part of the editorial team of the American Political Science Review. Before joining Oxford I was a visiting scholar at the University of Houston.
