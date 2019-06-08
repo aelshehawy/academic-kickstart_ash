@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+role: Doctoral Student
 
 # Organizations/Affiliations
 organizations:
@@ -30,7 +30,7 @@ education:
   courses:
   - course: DPhil (PhD) in Politics
     institution: University of Oxford, Oxford, United Kingdom
-    year:  2022
+    year: 2022
   - course: MA in Political Science (Research Track: Advanced Quantitative Methods)
     institution: University of Mannheim, Mannheim, Germany
     year: 2018
@@ -46,9 +46,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link:  "mailto:ashrakatelshehawy@gmail.com"
+# - icon: envelope
+#  icon_pack: fas
+#  link:  "mailto:ashrakatelshehawy@gmail.com"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AshaElshehawy
