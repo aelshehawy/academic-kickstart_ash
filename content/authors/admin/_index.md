@@ -30,7 +30,7 @@ education:
   courses:
   - course: DPhil (PhD) in Politics
     institution: University of Oxford, Oxford, United Kingdom
-    year: expected 2022
+    year:  2022
   - course: MA in Political Science (Research Track: Advanced Quantitative Methods)
     institution: University of Mannheim, Mannheim, Germany
     year: 2018
