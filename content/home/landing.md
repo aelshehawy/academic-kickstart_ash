@@ -14,3 +14,13 @@ subtitle = ""
 weight = 30
 
 +++
+
+I undertook the following further academic training:
+
+- 2019 Empirical Implications of Theoretical Models (EITM) Summer Institute at the Hobby School of Public Affairs, University of Houston, USA
+- Scientific Programming with Python at the Hewlett Packard Enterprise Data Science Institute (HPE DSI), University of Houston, USA
+
+
+
+
+
