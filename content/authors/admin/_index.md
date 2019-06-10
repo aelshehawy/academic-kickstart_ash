@@ -35,6 +35,9 @@ education:
   - course: BA in Political Science and Psychology
     institution: University of Mannheim
     year: 2016
+  - course: Visiting Undergraduate Student (Faculties: Political Science, Sociology, and Psychology)
+    institution: Trinity College Dublin
+    year: 2015
 
 
 # Social/Academic Networking
