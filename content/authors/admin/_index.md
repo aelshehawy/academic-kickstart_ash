@@ -26,7 +26,7 @@ interests:
 - Political Economy of Islam
 - Islamic Institutions
 - Economic Sanctions
-- Computational Text Analysis and Natural Language Processing
+- Computational Text Analysis and NLP
 - Information Retrieval
 
 
@@ -35,7 +35,7 @@ education:
   - course: DPhil (PhD) in Politics
     institution: University of Oxford
     year: 2022
-  - course: MA in Political Science (Track: Advanced Quantitative Methods)
+  - course: MA in Political Science (Advanced Quantitative Methods)
     institution: University of Mannheim 
     year: 2018
   - course: BA in Political Science and Psychology
