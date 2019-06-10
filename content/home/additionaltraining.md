@@ -1,4 +1,6 @@
 
++++
+
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -21,3 +23,5 @@ date_format = "Jan 2006"
   
   1.  Ash
   2.  Ash
++++
+
