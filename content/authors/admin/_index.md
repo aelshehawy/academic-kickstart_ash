@@ -22,6 +22,12 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Comparative Political Economy and Development
+- Economic Origins of State- and Nation-Building
+- Political Economy of Islam
+- Islamic Institutions
+- Economic Sanctions
+- Computational Text Analysis
+- Information Retrieval
 
 
 education:
@@ -47,7 +53,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:ashrakatelshehawy@gmail.com"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AshaElshehawy
@@ -74,6 +80,6 @@ user_groups:
 ---
 
 
-I am a visiting scholar at the Department of Political Science of the University of Houston. In October 2019 I will be joining the Department of Politics and International Relations at the University of Oxford as a Doctoral Student. My research interests include
+I am a visiting scholar at the Department of Political Science of the University of Houston. In October 2019 I will be joining the Department of Politics and International Relations at the University of Oxford as a Doctoral Student. My research interests include . My regional focus is North Africa and the Middle East.
 
-I have been born and raised in the beatiful city Alexandria, Egypt. I am a former professional swimmer for the Egyptian Swimming National Team. I still come up with what I believe to be my best ideas when I am doing labs in the pool.
+I have been born and raised in the beatiful city Alexandria, Egypt. I am a former professional swimmer for the Egyptian Swimming National Team. I still come up with what I believe to be my best ideas when I am doing labs in the pool. I love reading about Islamic Art and Architecture.
