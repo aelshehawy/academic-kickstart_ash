@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed comparitive political economy of authoritarian regimes with a focus on aspects related to colonialism and state-building, I am also interested in investigating propaganda methods of Islamic and state Institutions using methods of text analysis.
 
 interests:
 - Comparative Political Economy and Development
@@ -26,7 +26,7 @@ interests:
 - Political Economy of Islam
 - Islamic Institutions
 - Economic Sanctions
-- Computational Text Analysis
+- Computational Text Analysis and Natural Language Processing
 - Information Retrieval
 
 
@@ -35,8 +35,8 @@ education:
   - course: DPhil (PhD) in Politics
     institution: University of Oxford
     year: 2022
-  - course: MA in Political Science
-    institution: University of Mannheim
+  - course: MA in Political Science (Track: Advanced Quantitative Methods)
+    institution: University of Mannheim 
     year: 2018
   - course: BA in Political Science and Psychology
     institution: University of Mannheim
