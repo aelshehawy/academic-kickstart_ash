@@ -35,7 +35,7 @@ education:
   - course: BA in Political Science and Psychology
     institution: University of Mannheim
     year: 2016
-  - course: Visiting Undergraduate Student (Faculties: Political Science, Sociology, and Psychology)
+  - course: Visiting Undergraduate Student 
     institution: Trinity College Dublin
     year: 2015
 
@@ -73,6 +73,7 @@ user_groups:
 - Visitors
 ---
 
-I am a visiting scholar at the Department of Political Science of the University of Houston. In October 2019 I will be joining the Department of Politics and International Relations at the University of Oxford as a Doctoral Student. My research interests include 
 
-Apart from that I am a former professional swimmer for the Egyptian Swimming National Team. I still come up with a lot of ideas when I am doing labs in the pool.
+I am a visiting scholar at the Department of Political Science of the University of Houston. In October 2019 I will be joining the Department of Politics and International Relations at the University of Oxford as a Doctoral Student. My research interests include
+
+I have been born and raised in the beatiful city Alexandria, Egypt. I am a former professional swimmer for the Egyptian Swimming National Team. I still come up with what I believe to be my best ideas when I am doing labs in the pool.
