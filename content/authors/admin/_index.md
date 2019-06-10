@@ -28,7 +28,7 @@ education:
   courses:
   - course: DPhil (PhD) in Politics
     institution: University of Oxford
-    year: 2018
+    year: 2022
   - course: MA in Political Science
     institution: University of Mannheim
     year: 2018
