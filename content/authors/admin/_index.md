@@ -22,27 +22,20 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Comparative Political Economy and Development
-- Economic Origins of State- and Nation-Building
-- Political Economy of Islam
-- Islamic Institutions
-- Economic Sanctions
-- Computational Text Analysis
-- Information Retrieval
+
 
 education:
   courses:
   - course: DPhil (PhD) in Politics
     institution: University of Oxford
-    year: 2022
+    year: 2018
   - course: MA in Political Science
     institution: University of Mannheim
     year: 2018
   - course: BA in Political Science and Psychology
     institution: University of Mannheim
     year: 2016
-  - course: Visiting Undergraduate Student (Faculties: Political Science, Sociology, and Psychology)
-    institution: Trinity College Dublin
-    year: 2016
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
