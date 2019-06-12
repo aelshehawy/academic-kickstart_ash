@@ -1,5 +1,7 @@
++++
 widget = "hero"
 headless = true  # This file represents a page section.
+weight= 60
 
 # ... Put Your Section Options Here (title etc.) ...
 
@@ -22,3 +24,5 @@ hero_media = "screenshotalazhar.png"
 # Note. An optional note to show underneath the links.
 [cta_note]
   label = ""
+  
+  +++
