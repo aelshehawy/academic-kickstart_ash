@@ -20,8 +20,8 @@ hero_media = "colonization.jpg"
    color = "white"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  #gradient_start = "#4bb4e3"
+  #gradient_end = "#2b94c3"
   
   # Background image.
   # image = ""  # Name of image in `static/img/`.
@@ -38,12 +38,7 @@ hero_media = "colonization.jpg"
   label = "Get Started"
   icon_pack = "fas"
   icon = "download"
-  
-[cta_alt]
-  url = "https://sourcethemes.com/academic/"
-  label = ""
 
 # Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release <!-- V --></a>'
+
 +++
