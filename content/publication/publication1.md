@@ -12,7 +12,7 @@ publication: The very best
 publication_short: The best
 abstract: This is the long abstract
 abstract_short: This is the short abstract
-image_preview: /img/sample-815141_640.jpg
+image_preview: static/img/colonization.jpg
 selected: false
 url_pdf: 'http://jultika.oulu.fi/files/isbn9789514293801.pdf'
 url_preprint: 'http://jultika.oulu.fi/files/isbn9789514293801.pdf'
