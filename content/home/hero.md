@@ -3,12 +3,12 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 80  # Order that this section will appear.
 
 title = "Academic"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hero-academic.png"
+hero_media = "screenshotalzhar.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -17,7 +17,7 @@ hero_media = "hero-academic.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+   color = "white"
   
   # Background gradient.
   gradient_start = "#4bb4e3"
