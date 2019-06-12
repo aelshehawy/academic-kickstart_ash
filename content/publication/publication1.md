@@ -7,7 +7,7 @@ publication_types:
   - '2'
 header:
   caption: caption
-  image: /img/bubbles-wide.jpg
+  image: static/img/colonization.jpg
 publication: The very best
 publication_short: The best
 abstract: This is the long abstract
