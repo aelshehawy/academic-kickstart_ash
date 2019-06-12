@@ -1,6 +1,7 @@
 +++
 widget = "portfolio"  # Use the Portfolio widget
-headless = true  # This file represents a page section.
+headless = false  # This file represents a page section.
+weight=
 
 # ... Put Your Section Options Here (title etc.) ...
 
