@@ -70,6 +70,5 @@ highlight = true
 
 image = "colonization.jpg"
 caption = "CBOW Word Embedding Example 1 context window"
-preview_only: false
 
 +++
