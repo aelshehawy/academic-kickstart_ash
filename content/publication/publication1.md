@@ -5,7 +5,7 @@ date = "2019-01-01"
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Sebastian Sternberg"]
+authors = ["Ashrakat Elshehawy"]
 
 # Publication type.
 # Legend:
@@ -23,10 +23,10 @@ publication = "*Working Paper*"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = Nada nada nada
+abstract = "Nada nada nada"
 
 
-abstract_short = nada "
+abstract_short = "nada "
 
 # Featured image thumbnail (optional)
 image_preview = ""
