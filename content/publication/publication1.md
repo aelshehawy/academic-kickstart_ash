@@ -67,8 +67,17 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+
 [header]
 image = "colonization.jpg"
 caption = "CBOW Word Embedding Example 1 context window"
 
 +++
+image:
+  # Caption (optional)
+  caption: "Photo by [Academic](https://sourcethemes.com/academic/)"
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point: "Center"
+  # Show image only in page previews?
+  preview_only: false
