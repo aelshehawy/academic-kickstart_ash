@@ -29,7 +29,7 @@ abstract = "Nada nada nada"
 abstract_short = "nada "
 
 # Featured image thumbnail (optional)
-image_preview = "colonization.jpg"
+#image_preview = "colonization.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -72,7 +72,7 @@ highlight = true
 image = "colonization.jpg"
 caption = "CBOW Word Embedding Example 1 context window"
 
-+++
+
 image:
   # Caption (optional)
   caption: "Photo by [Academic](https://sourcethemes.com/academic/)"
@@ -81,3 +81,4 @@ image:
   focal_point: "Center"
   # Show image only in page previews?
   preview_only: false
++++
