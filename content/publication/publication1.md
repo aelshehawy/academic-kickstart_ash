@@ -29,7 +29,7 @@ abstract = "Nada nada nada"
 abstract_short = "nada "
 
 # Featured image thumbnail (optional)
-image_preview = "static/img/colonization.jpg"
+image_preview = "colonization.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
