@@ -1,75 +1,77 @@
+---
+title: "My Awesome Academic Publication Example"
+authors:
+- Cassio Batista
+date: "2019-06-01T00:00:00Z"
+doi: ""
 
-+++
-title = "Automatic Detection of Vague Language in Court Decisions."
-date = "2019-01-01"
-draft = false
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ashrakat Elshehawy"]
+# Schedule page publish date (NOT publication's date).
+publishDate: "2019-06-01T00:00:00Z"
 
 # Publication type.
-# Legend:
-# 0 = Uncategorized
-# 1 = Conference paper
-# 2 = Journal article
-# 3 = Manuscript
-# 4 = Report
-# 5 = Book
-# 6 = Book section
-publication_types = ["1"]
+# Legend: 
+#   0 = Uncategorized; 
+#   1 = Conference paper;
+#   2 = Journal article;
+#   3 = Preprint / Working Paper; 
+#   4 = Report; 
+#   5 = Book; 
+#   6 = Book section;
+#   7 = Thesis; 
+#   8 = Patent
+publication_types: ["1"]
 
-# Publication name and optional abbreviated version.
-publication = "*Working Paper*"
-publication_short = ""
+# Publication name and optional abbreviated publication name.
+publication: In *Proceedings of the Awesome Academic Conference (AAConf'19)*
+publication_short: In *Proc. of AAConf 2019*
 
-# Abstract and optional shortened version.
-abstract = "Nada nada nada"
+abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
+# Summary. An optional shortened abstract.
+summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-abstract_short = "nada "
+tags:
+- Source Themes
+featured: true
 
-# Featured image thumbnail (optional)
-#image_preview = "colonization.jpg"
-
-# Is this a selected publication? (true/false)
-selected = true
-
-# Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
-
-# Tags (optional).
-#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
-
-# Links (optional).
-url_pdf = ""
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
-
-# Does this page contain LaTeX math? (true/false)
-math = true
-
-# Does this page require source code highlighting? (true/false)
-highlight = true
+links:
+#url_pdf:  
+url_code: https://github.com/gcushen/hugo-academic
+#url_dataset: '#'
+url_project: https://themes.gohugo.io/academic/
+#url_poster: '#'
+#url_slides: ''
+url_source: https://sourcethemes.com/academic/
+#url_video: 
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: "My awesome academic caption"
+  focal_point: ""
+  preview_only: true
 
-[header]
-image = "screenshotazhar.png"
-caption = "CBOW Word Embedding Example 1 context window"
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+#- internal-project []
 
-+++
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ""
+
+# Social sharing
+#   Enable this publication to be shared
+social:
+  twitter: "AshaElshehawy"
+  facebook: ""
+  #linkedin: ""
+  reddit:  ""
+  email: ""
+---
