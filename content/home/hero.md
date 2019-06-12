@@ -1,6 +1,7 @@
 +++
 widget = "blank"
 headless = true  # This file represents a page section.
+weight=70
 
 # ... Put Your Section Options Here (title etc.) ...
 {{< figure library="1" src="books.jpg" title="A caption" >}}
