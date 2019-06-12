@@ -48,8 +48,8 @@ url_source: https://sourcethemes.com/academic/
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: "My awesome academic caption"
-  focal_point: ""
-  preview_only: true
+  focal_point: "center"
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
