@@ -23,13 +23,13 @@ publication = "*Working Paper*"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "In this paper, I seek to develop a measurement for vague language in written constitutional court rulings. I use two different methods to approach this: a dictionary approach expanded using *word embeddings*, and a machine learning classifier. For the machine learning classifier, I use a large manually annotated data set and benchmark traditional NLP classifier vs. two different types of deep learning classifiers (CNNs and RNNs). I find that while the dictionary achieves a reasonable predictive performance, the deep learning classifiers are superior in capturing semantic meaning and classifying unseen instances."
+abstract = Nada nada nada
 
 
-abstract_short = "In this paper, I seek to develop a measurement for vague language in written constitutional court rulings. I use two different methods to approach this: a dictionary approach expanded using *word embeddings*, and a *machine learning classifier* (using both traditional NLP classifiers and recent deep learning classifiers). "
+abstract_short = nada "
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "colonization.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
