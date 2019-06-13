@@ -18,8 +18,8 @@ authors = ["Ashrakat Elshehawy"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = ""
-publication_short = ""
+publication = "Working Paper"
+publication_short = "Working Paper"
 
 # Abstract and optional shortened version.
 abstract = "nadnada"
