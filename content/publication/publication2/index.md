@@ -1,7 +1,7 @@
 +++
-title = "Text-Analysis of Al-Azhar narratives: How a religious institution keeps authoritarianism in tact"
-date = 2019-06-12T00:00:00
-draft = true
+title = "Text-Analysis of Al-Azhar narratives"
+date = 2019-09-01T00:00:00
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Ashrakat Elshehawy"]
@@ -15,14 +15,14 @@ authors = ["Ashrakat Elshehawy"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "Working Paper"
-publication_short = "l"
+publication = "Bankról, pénzről, tőzsdéről [On Banks, Money and Exchanges]"
+publication_short = "Bankról, pénzről, tőzsdéről"
 
 # Abstract and optional shortened version.
-abstract = "An overview of the mainstream."
+abstract = "An overview of the mainstream economics view of money functions and the sociological and Austrian views. While microeconomic theories of money try to understand it as a medium of exchange, unit of account and store of value, the conclusion of payment transactions is a distinct function. Lessons for new money-like instrument creation and electronic payment systems from the evolution of money."
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -37,7 +37,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Text-Analysis", "NLP","Political Islam","Middle East"]
+tags = ["economics", "finance"]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
