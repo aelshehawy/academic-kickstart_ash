@@ -1,6 +1,6 @@
 +++
 title = "Text-Analysis of Al-Azhar narratives: How a religious institution keeps authoritarianism in tact"
-date = 2019-06-14T00:00:00
+date = 2019-06-12T00:00:00
 draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,7 +15,7 @@ authors = ["Ashrakat Elshehawy"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "Working Paper"
