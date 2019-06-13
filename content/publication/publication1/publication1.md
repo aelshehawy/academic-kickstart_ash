@@ -1,10 +1,10 @@
 +++
-title = "Lessons from the first year of the liberalized rail freight market for re-regulation"
+title = "The Propaganda Value of Refugees"
 date = 2004-09-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniel Antal"]
+authors = ["Ashrakat Elshehawy","Nikolay Marinov","Federico Nanni","Harald Schön"]
 
 # Publication type.
 # Legend:
@@ -18,14 +18,14 @@ authors = ["Daniel Antal"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Közlekedéstudományi Szemle [Scientific Review of Transport]"
-publication_short = "Scientific Review of Transport"
+publication = "Working Paper"
+publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "An empirical review of various problems in Hungary's newly liberalized rail freight market. I conducted the survey with the help of railway undertakings and authorities in my capacity as Commissioner for Rail Regulation. The findings were used to support the government bill to establish the rules of the liberalized railways in Hungary, subsequently the Act on Rail Transport 2005/183."
+abstract = "An empirical review."
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -33,15 +33,15 @@ selected = true
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["market-report"]
+#projects = ["Text-Analysis"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["railways", "regulation", "market-report", "Hungary"]
+#tags = ["railways", "regulation", "market-report", "Hungary"]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "pdf", url = "http://old.ktenet.hu/061kozl_szemle/binx/09_2005.pdf"}]
+#url_custom = [{name = "pdf", url = "http://old.ktenet.hu/061kozl_szemle/binx/09_2005.pdf"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
