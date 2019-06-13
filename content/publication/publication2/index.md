@@ -1,6 +1,6 @@
 +++
 title = "Text-Analysis of Al-Azhar narratives: How a religious institution keeps authoritarianism in tact"
-date = 2010-06-14T00:00:00
+date = 2019-06-14T00:00:00
 draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -22,7 +22,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "nadnada"
 
 # Is this a selected publication? (true/false)
 selected = false
