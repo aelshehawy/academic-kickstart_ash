@@ -6,7 +6,7 @@ title = " U.S. Statements and Actions on Sanctions, Computer-Assisted-Text Appro
 date = 2017-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Ex ante and ex post grant evaluation"
+summary = "Data Collection Project of US Sanctions using text-analysis and machine learning techniques"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["royalties", "pcr"]`
