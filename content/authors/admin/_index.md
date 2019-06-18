@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed comparitive political economy of authoritarian regimes with a focus on aspects related to colonialism and state-building, I am also interested in investigating propaganda methods of Islamic and state Institutions using methods of text analysis.
+bio:  My research interests include comparitive political economy of authoritarian regimes. I focus on aspects related to colonialism and state-building, the political economy of Islamic institutions, informal social-welfare by non-state actors, and business-politics relationships in the Middle East. I am also interested in investigating propaganda methods and conspiracy theories using methods of computional text analysis.
 
 interests:
 - Comparative Political Economy and Development
@@ -80,6 +80,6 @@ user_groups:
 ---
 
 
-I am a visiting scholar at the Department of Political Science of the University of Houston. In October 2019 I will be joining the Department of Politics and International Relations at the University of Oxford as a Doctoral Student. My research interests include . My regional focus is North Africa and the Middle East.
+I am a visiting scholar at the Department of Political Science of the University of Houston. In October 2019 I will be joining the Department of Politics and International Relations at the University of Oxford as a Doctoral Student. My research interests include comparitive political economy of authoritarian regimes. I focus on aspects related to colonialism and state-building, the political economy of Islamic institutions, informal social-welfare by non-state actors, and business-politics relationships in the Middle East. I am also interested in investigating propaganda methods and conspiracy theories using methods of computional text analysis. I have a lot of fun exploring how Arabic text can be a valuable resource in understanding important developments and relationships in the Arab world.  
 
-I have been born and raised in the beatiful city Alexandria, Egypt. I am a former professional swimmer for the Egyptian Swimming National Team. I still come up with what I believe to be my best ideas when I am doing labs in the pool. I love reading about Islamic Art and Architecture.
+I have been born and raised in the beautiful city Alexandria, Egypt. I am a former professional swimmer for the Egyptian Swimming National Team, for which I competed professionally for several years. I come up with what I believe to be my best ideas while doing those endless labs in the pool. I love reading about Islamic Art and Architecture.
