@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Grants"
+title = " U.S. Statements and Actions on Sanctions, Computer-Assisted-Text Approach"
 
 # Date this page was created.
 date = 2017-04-27T00:00:00
@@ -10,7 +10,7 @@ summary = "Ex ante and ex post grant evaluation"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["royalties", "pcr"]`
-tags = ["grants", "ex ante", "ex post"]
+tags = ["Text-Analysis", "Machine-learning", "Sanctions"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -45,12 +45,7 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-Governments, the EU, international organizations and private donors often support causes of public interest with grants and donations. In some cases, these grants are aimed to help starting or sustaining economic activities. In other cases, they are supporting artistic activities or education.
-
-I had been involved in the professional assessment of granting schemes and grant applications since 2000. I have learned and taught various assessment methods to evaluated EU and national grants to support valuable public infrastructure, energy savings, health investments and other causes.  
-
-Since I work with the creative industries, I had transferred some of this methodology to supporting music and film creation. Grants are essential to maintain the diversity and artistic quality of European music and films, and they can be essential to jump start young industries like smartphone application development. 
-
-In my experience, many music grants schemes are inefficient, because they are not based on an objective assessment of musician’s needs and market conditions. In some cases, they are supporting politically interesting ‘pet projects’ that have little lasting effects. Occasionally they give too large or too many grants for certain activities that crowds out private investment of artists. 
+Our project provides a new measure to be used by researchers interested in a complete and exhaustive data set of economic sanctions by the U.S. We use web-scraping and text-analysis techniques to collect a set of government documents where the U.S. Congress or President issued a sanction-related text on foreign nations or entities.  We employ supervised machine-learning to identify all documents connected to sanctions-activities by the U.S. and their associated violations. 
+We document the precise nature of the data-gathering process and code for each sanctions case a set of variables that provide comprehensive details, for example, about the senders, targets, issues, measures, conditionality, and trajectory. 
 
 
