@@ -38,7 +38,7 @@ url_code = ""
 
 [image]
   # Caption (optional)
-  caption = "Photo by Erich Ferdinand"
+  caption = "I took this picture of the Texas State Capitol in Austin during my academic post in Texas"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
