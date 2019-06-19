@@ -1,7 +1,7 @@
 +++
 title = "Heretics and Infidels: International Legal Commitments and the Enforcement of Human
 Rights"
-date = 2018-06-01T00:00:00
+date = 1998-09-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
