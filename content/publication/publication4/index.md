@@ -1,5 +1,5 @@
 +++
-title = "Heretics or Infedels"
+title = "Heretics or Infedels Economic Sanctions and the Enforcement of Human Rights Standards"
 date = 2019-06-01T00:00:00
 draft = false
 
