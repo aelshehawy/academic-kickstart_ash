@@ -1,11 +1,10 @@
 +++
-title = "Heretics and Infidels: International Legal Commitments and the Enforcement of Human
-Rights"
-date = 1998-09-01T00:00:00
+title = "Heretics or Infedels"
+date = 2018-09-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniella Donna", "Ashrakat Elshehawy","Nikolay Marinov","Federico Nanni"]
+authors = ["Daniella Donno", "Ashrakat Elshehawy"]
 
 # Publication type.
 # Legend:
@@ -16,7 +15,7 @@ authors = ["Daniella Donna", "Ashrakat Elshehawy","Nikolay Marinov","Federico Na
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Bankról, pénzről, tőzsdéről [On Banks, Money and Exchanges]"
@@ -59,3 +58,5 @@ math = false
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+Original title in Hungarian: _Pénzfunkciók fejlődésben_.
