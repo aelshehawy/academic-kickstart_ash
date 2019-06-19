@@ -1,12 +1,10 @@
 +++
-title = "Legislating Coercion: Congress, the President and the Design of U.S. Sanctions
-
-"
+title = "Legislating Coercion: Congress, the President and the Design of U.S. Sanctions"
 date = 2019-06-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ashrakat Elshehawy", "Nikolay Marinov", "Federico Nanni","Jordan Tama"]
+authors = ["Ashrakat Elshehawy","Nikolay Marionv", "Federico Nanni", "Jordan Tama"]
 
 # Publication type.
 # Legend:
@@ -24,7 +22,8 @@ publication = "Working Paper"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract="In this paper, we study how Congress makes its voice heard in American foreign policy in the area of economic statecraft. Unlike the President, who can alter sanctions policy with the stroke of a pen, Congress cannot change legislation easily in the face of difficulty to anticipate future contingencies. Congress may be able to craft detailed legislation. Congress can also try to allow the President more discretion on the final decision on sanctions. We would predict that when legislation involves more future uncertainty, Congress is more likely to build-in clauses allowing the President flexibility. We also predict that in cases Congress wants to deter future challenges to policy, and to send a signal to governments contemplating some behavior, it will be less likely to offer discretion to the President. Finally, where undermining Presidential bargaining powers can have grave consequences, such as in issues of terrorism, Congress is more likely to defer to the President. We use web-scraping and text-analysis techniques to identify cases where the U.S. Congress or President discussed or imposed sanctions on foreign nations or entities. We use this dataset to study how Congress designs economic sanctions."
+abstract = "In this paper, we study how Congress makes its voice heard in American foreign policy in the area of economic statecraft. Unlike the President, who can alter sanctions policy with the stroke of a pen, Congress cannot change legislation easily in the face of difficulty to anticipate future contingencies. Congress may be able to craft detailed legislation. Congress can also try to allow the President more discretion on the final decision on sanctions. We would predict that when legislation involves more future uncertainty, Congress is more likely to build-in clauses allowing the President flexibility. We also predict that in cases Congress wants to deter future challenges to policy, and to send a signal to governments contemplating some behavior, it will be less likely to offer discretion to the President. Finally, where undermining Presidential bargaining powers can have grave consequences, such as in issues of terrorism, Congress is more likely to defer to the President. We use web-scraping and text-analysis techniques to identify cases where the U.S. Congress or President discussed or imposed sanctions on foreign nations or entities. We use this dataset to study how Congress designs economic sanctions."
+
 # Is this a selected publication? (true/false)
 selected = false
 
