@@ -44,6 +44,9 @@ education:
   - course: Visiting Undergraduate Student 
     institution: Trinity College Dublin
     year: 2015
+  - course: German Abitur
+    institution: Deutsche Schule der Borromaerinnen Alexandria DSBA
+    year: 2013
 
 
 # Social/Academic Networking
@@ -84,4 +87,4 @@ I am a visiting scholar at the Department of Political Science of the University
 
 My research interests include comparitive political economy of authoritarian regimes. I focus on aspects related to colonialism and state-building, the political economy of Islamic institutions, informal social-welfare by non-state actors, and business-politics relationships in the Middle East. My research also draws on questions about how foreign policy tools, such as economic sanctions, interact with domestic politics. I am also interested in investigating propaganda methods and conspiracy theories using methods of computional text analysis. I am currently very excited about expanding knowledge regarding how Arabic text can be a valuable resource in understanding the political and economic decision-making process in the Arab world.  
 
-I have been born and raised in the beautiful city Alexandria, Egypt. I am a former professional swimmer for the Egyptian Swimming National Team, for which I competed professionally for several years. I find myself thinking more clearly while doing  labs in the pool. I love reading about Islamic Art and Architecture and the Ottoman Empire.
+I have been born and raised in the beautiful city Alexandria, Egypt. I am a former professional swimmer for the Egyptian Swimming National Team, for which I competed professionally for several years. I still find myself thinking more clearly while doing all those endless labs at the pool. I enjoy reading about Islamic Art and Architecture and the Ottoman Empire.
