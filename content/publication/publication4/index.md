@@ -1,6 +1,6 @@
 +++
 title = "Heretics or Infedels Economic Sanctions and the Enforcement of Human Rights Standards"
-date = 2019-07-01T00:00:00
+date = 2019-06-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
