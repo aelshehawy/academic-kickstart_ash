@@ -1,6 +1,6 @@
 +++
 title = "Heretics or Infedels Economic Sanctions and the Enforcement of Human Rights Standards"
-date = 2019-06-01T00:00:00
+date = 2019-07-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -22,7 +22,7 @@ publication = "Working Paper"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "an overview"
+abstract = "More information coming soon..."
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -52,7 +52,7 @@ math = false
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**John Liu*](https://www.flickr.com/photos/8047705@N02/5427063703/)"
+  #caption = "Image credit: [**John Liu*](https://www.flickr.com/photos/8047705@N02/5427063703/)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
