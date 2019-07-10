@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = " U.S. Statements and Actions on Sanctions, Computer-Assisted-Text Approach"
+title = " Text-Analysis of Islamic narratives"
 
 # Date this page was created.
 date = 2019-07-01T00:00:00
 
 # Project summary to display on homepage.
-summary = "Data Collection Project of US Sanctions using text-analysis and machine learning techniques"
+summary = "Data Collection Project of narratives used by Islamic Oppositions against state istitutions"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["royalties", "pcr"]`
-tags = ["Text-Analysis", "Machine-learning", "Sanctions","NLP"]
+tags = ["Text-Analysis", "Machine-learning","NLP", "Political Islam","Political Opposition"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -38,14 +38,13 @@ url_code = ""
 
 [image]
   # Caption (optional)
-  caption = "I took this picture of the Texas State Capitol in Austin during my academic post in Texas"
+ # caption = "I took this picture of the Texas State Capitol in Austin during my academic post in Texas"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  focal_point = "TopRight"
 +++
 
-Our project provides a new measure to be used by researchers interested in a complete and exhaustive data set of economic sanctions by the U.S. We use web-scraping and text-analysis techniques to collect a set of government documents where the U.S. Congress or President issued a sanction-related text on foreign nations or entities.  We employ supervised machine-learning to identify all documents connected to sanctions-activities by the U.S. and their associated violations. 
-We document the precise nature of the data-gathering process and code for each sanctions case a set of variables that provide comprehensive details, for example, about the senders, targets, issues, measures, conditionality, and trajectory. 
+
 
 
