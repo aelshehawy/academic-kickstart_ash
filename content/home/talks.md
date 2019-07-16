@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
-title = "Conferences and Presentations"
+title = "Recent and Upcoming Conferences and Presentations"
 subtitle = ""
 
 [content]
