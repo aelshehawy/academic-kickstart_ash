@@ -1,5 +1,5 @@
 +++
-title = "IC2C2 International Conference on Computational Social Sciences - Quantifying Attention to Foreign Elections with Text Analysis of U.S. Congress and the Presidency"
+title = "IC2C2 International Conference on Computational Social Sciences \\ - Quantifying Attention to Foreign Elections with Text Analysis of U.S. Congress and the Presidency"
 date = 2017-07-01T00:00:00  # Schedule page publish date.
 draft = false
 
