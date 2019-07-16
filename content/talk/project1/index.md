@@ -1,5 +1,5 @@
 +++
-title = "IC2C2 International Conference on Computational Social Sciences \\ - Quantifying Attention to Foreign Elections with Text Analysis of U.S. Congress and the Presidency"
+title = "IC2C2 International Conference on Computational Social Sciences \ - Quantifying Attention to Foreign Elections with Text Analysis of U.S. Congress and the Presidency"
 date = 2017-07-01T00:00:00  # Schedule page publish date.
 draft = false
 
@@ -30,7 +30,7 @@ selected = false
 #   Simply enter your project's filename without extension.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-projects = ["deep-learning"]
+projects = ["sanctions"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
