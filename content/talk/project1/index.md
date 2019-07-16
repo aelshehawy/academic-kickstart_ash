@@ -1,5 +1,5 @@
 +++
-title = "IC2C2 International Conference on Computational Social Sciences"
+title = "IC2C2 International Conference on Computational Social Sciences - Quantifying Attention to Foreign Elections with Text Analysis of U.S. Congress and the Presidency"
 date = 2017-07-01T00:00:00  # Schedule page publish date.
 draft = false
 
@@ -17,7 +17,7 @@ abstract = "We use web-scraping and text-analysis techniques to identify cases i
 
 # Name of event and optional event URL.
 event = "IC2C2 International Conference on Computational Social Sciences"
-event_url = "https://example.org"
+event_url = "https://ic2s2.org/2017/"
 
 # Location of event.
 location = "Cologne, Germany"
@@ -56,14 +56,14 @@ caption = "My caption :smile:"
 
 +++
 
-{{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /alert %}}
+#{{% alert note %}}
+#Click on the **Slides** button above to view the built-in slides feature.
+#{{% /alert %}}
 
-Slides can be added in a few ways:
+#Slides can be added in a few ways:
 
-- **Create** slides using Academic's *Slides* feature and link using `url_slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+#- **Create** slides using Academic's *Slides* feature and link using `url_slides` parameter in the front matter of the talk #file
+#- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+#- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes]##(https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+#Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
