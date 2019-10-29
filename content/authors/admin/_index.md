@@ -62,7 +62,7 @@ social:
   link: https://twitter.com/AshElshehawy
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=zLC4_ZsAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/aelshehawy
