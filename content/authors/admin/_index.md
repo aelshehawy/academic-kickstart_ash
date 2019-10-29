@@ -10,15 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Visiting Scholar
+role: Doctoral Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Houston
-  url: ""
+- name: University of Oxford
+  url: "http://www.ox.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio:  My research interests include comparitive political economy of authoritarian regimes. I am interested in aspects related to colonialism and state-building, the political economy of Islamic institutions, informal social-welfare by non-state actors, and business-politics relationships in the Middle East. My research also draws on questions about how foreign policy tools, such as economic sanctions, interact with domestic politics. I am also interested in investigating propaganda methods and conspiracy theories using methods of computional text analysis. 
 
 interests:
 - Comparative Political Economy and Development
@@ -59,7 +58,7 @@ social:
   link: "mailto:ashrakatelshehawy@gmail.com"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/AshaElshehawy
+  link: https://twitter.com/AshElshehawy
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -73,7 +72,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+# email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -81,7 +80,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
 
 I am a doctoral student at the Department of Politics and International Relations at the University of Oxford.
 
