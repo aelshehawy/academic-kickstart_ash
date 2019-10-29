@@ -2,7 +2,7 @@
 +++
 title = "Zurich Text as Data Conference -  Foreign Interventions in German Elections"
 date = 2019-10-25T00:00:00  # Schedule page publish date.
-draft = true
+draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -10,7 +10,7 @@ draft = true
 #time_end = 2030-06-01T15:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ashrakat Elshehawy","Nikolay Marinov","Federico Nanni","Harald Schön:]
+authors = ["Ashrakat Elshehawy","Nikolay Marinov","Federico Nanni","Harald Schön"]
 
 # Abstract and optional shortened version.
 abstract = "We use this the crisis set off by the arrival of asylum-seekers in Germany to test a theory of the use of propaganda as a strategy by a non-democratic state against a democratic state. We argue that a non-democracy on a collision course with a democracy will use propaganda discourse to punish recalcitrant elite, and will do so especially near elections while promoting frames that weaken the opponent’s institutions. We test these propositions on a corpus of half a million publications, covering Kremlin-backed media channels broadcasting in German, and German media. We find that Kremlin-backed channels are more likely to publish refugee stories near elections in Germany and that they push conspiracy theories at the expense of discussing economic or crime-related aspects of immigration. Our work has implications for the rise of propaganda discourse in Europe and beyond, and for democratic politics under foreign autocratic pressure."
