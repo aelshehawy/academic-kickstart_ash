@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Houston, USA"
   date_start = "2019-01-01"
-  date_end = ""
+  date_end = "2019-06-30"
   description = ""
  # Responsibilities include:
   
@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Mannheim, Germany"
   date_start = "2018-08-01"
-  date_end = ""
+  date_end = "2019-09-30"
  # description = """Taught electronic engineering and researched semiconductor physics."""
 
 [[experience]]
