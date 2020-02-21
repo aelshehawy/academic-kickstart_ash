@@ -18,10 +18,12 @@ organizations:
   url: "http://www.ox.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio:  My research interests incorporates prospects of comparative political economy of authoritarian regimes. I am interested in aspects related to colonialism and state-building, the political economy of Islamic institutions, informal social-welfare by non-state actors, and business-politics relationships in the Middle East. My research also draws on questions about how foreign policy tools, such as economic sanctions, interact with domestic politics. I am also interested in Arabic Text Analysis and investigating propaganda methods and conspiracy theories using methods of NLP and computational text analysis. 
+bio:  My research interests incorporates prospects of comparative political economy of the Middle East.  I focus on aspects related to economic history of state-institutions, local public good provision, informal social-welfare, the political economy of Islamic institutions, with a regional focus of the Middle East. My research also draws on questions about how foreign policy tools, such as economic sanctions, interact with domestic politics. My research also draws on questions about how foreign policy tools, such as economic sanctions, interact with domestic politics. I am also interested in Arabic Text Analysis and investigating propaganda methods and conspiracy theories using methods of NLP and computational text analysis. 
 
 interests:
-- Comparative Political Economy and Development
+- Comparative Political Economy 
+- Local Capacity and Economic Development
+- Local Public Good Provision
 - Economic Origins of State- and Nation-Building
 - Political Economy of Islam
 - Islamic Institutions
@@ -84,6 +86,9 @@ user_groups:
 
 I am a doctoral student at the Department of Politics and International Relations at the University of Oxford.
 
-My research interests lies in the field of comparative political economy. I focus on aspects related to colonialism and state-building, the political economy of Islamic institutions, informal social-welfare by non-state actors, and business-politics relationships in the Middle East. My research also draws on questions about how foreign policy tools, such as economic sanctions, interact with domestic politics. I am also very interested in investigating propaganda methods and conspiracy theories using methods of computational text analysis. I am currently excited about employing text-analysis on corpora of Arabic text, as it is a valuable resource in understanding the political and economic decision-making process in the Arab world.  
+# My research interests lies in the field of comparative political economy. I focus on aspects related to colonialism and state-building, the political economy of Islamic institutions, informal social-welfare by non-state actors, and business-politics relationships in the Middle East. My research also draws on questions about how foreign policy tools, such as economic sanctions, interact with domestic politics. I am also very interested in investigating propaganda methods and conspiracy theories using methods of computational text analysis. I am currently excited about employing text-analysis on corpora of Arabic text, as it is a valuable resource in understanding the political and economic decision-making process in the Arab world.  
+
+My research interests lie in the field of comparative political economy. I focus on aspects related to economic history of state-institutions, local public good provision, informal social-welfare, the political economy of Islamic institutions, with a regional focus of the Middle East. My research also draws on questions about how foreign policy tools, such as economic sanctions, interact with domestic politics. I am also very interested in investigating propaganda methods and the spread of conspiracy theories using methods of computational text analysis. I am currently excited about employing text analysis on corpora of Arabic text, as it is a valuable resource in understanding the political and economic decision-making process in the Arab world. 
+
 
 I have been born and raised in the beautiful city Alexandria, Egypt. I am a former professional swimmer for the Egyptian Swimming National Team, for which I competed professionally for several years. I still find myself thinking more clearly while doing all those endless labs at the pool. I enjoy reading about Islamic Art and Architecture and the Ottoman Empire.
