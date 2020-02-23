@@ -33,7 +33,7 @@ title = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["400px", "0", "400px", "0"]
+  padding = ["200px", "0", "200px", "0"]
 
 [advanced]
  # Custom CSS. 
