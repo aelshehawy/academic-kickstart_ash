@@ -31,10 +31,14 @@ title = ""
   # Text color (true=light or false=dark).
   text_color_light = false
 
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]
+
 [advanced]
  # Custom CSS. 
- #css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url('/img/headers/books.png');"
+ css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url('/img/headers/books.png');"
  
  # CSS class.
- #css_class = "aboutme-header"
+ css_class = "aboutme-header"
 +++
