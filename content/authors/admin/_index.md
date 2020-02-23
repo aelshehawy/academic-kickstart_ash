@@ -81,6 +81,7 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ""
   
+  
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
@@ -94,3 +95,8 @@ My research interests lie in the field of comparative political economy. I focus
 
 
 I have been born and raised in the beautiful city Alexandria, Egypt. I am a former professional swimmer for the Egyptian Swimming National Team, for which I competed professionally for several years. I still find myself thinking more clearly while doing all those endless labs at the pool. I enjoy reading about Islamic Art and Architecture and the Ottoman Empire.
+
+
+header:
+  image: "header.png"
+  caption: "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
