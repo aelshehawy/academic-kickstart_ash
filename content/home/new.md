@@ -2,7 +2,7 @@
 # About widget.
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear in.
 
 title = ""
@@ -25,7 +25,7 @@ title = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "headers/header.png"  # Name of image in `static/img/`.
+  # image = "headers/books.png"  # Name of image in `static/img/`.
   image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -33,7 +33,7 @@ title = ""
 
 [advanced]
  # Custom CSS. 
- css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url('/img/headers/tree.jpg');"
+ css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url('/img/headers/books.png');"
  
  # CSS class.
  css_class = "aboutme-header"
