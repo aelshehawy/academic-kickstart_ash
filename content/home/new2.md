@@ -37,8 +37,8 @@ title = ""
 
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "background-image:linear-gradient( url('/img/headers/books.png');"
  
  # CSS class.
- css_class = ""
+ css_class = "aboutme-heade"
 +++
