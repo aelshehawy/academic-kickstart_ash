@@ -12,7 +12,11 @@
   #name = "Posts"
  # url = "#posts"
  # weight = 20
-
+[[main]]
+  name = "My new page"  # A link title for your page.
+  url = "example/"  # The URL of your page.
+  weight = 15  # The position of your page in the menu.
+  
 [[main]]
   name = "Research - أبحاثي"
   url = "#publications"
