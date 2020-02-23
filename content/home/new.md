@@ -3,7 +3,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear in.
+weight = 10  # Order that this section will appear in.
 
 title = ""
 
@@ -33,8 +33,8 @@ title = ""
 
 [advanced]
  # Custom CSS. 
- css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url('/img/headers/books.png');"
+ #css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url('/img/headers/books.png');"
  
  # CSS class.
- css_class = "aboutme-header"
+ #css_class = "aboutme-header"
 +++
