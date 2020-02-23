@@ -87,6 +87,10 @@ social:
 user_groups:
 - Researchers
 - Visitors
+
+header:
+  image: "header.png"
+  caption: "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 ---
 
 I am a doctoral student at the Department of Politics and International Relations at the University of Oxford.
@@ -97,6 +101,4 @@ My research interests lie in the field of comparative political economy. I focus
 I have been born and raised in the beautiful city Alexandria, Egypt. I am a former professional swimmer for the Egyptian Swimming National Team, for which I competed professionally for several years. I still find myself thinking more clearly while doing all those endless labs at the pool. I enjoy reading about Islamic Art and Architecture and the Ottoman Empire.
 
 
-header:
-  image: "header.png"
-  caption: "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
+
