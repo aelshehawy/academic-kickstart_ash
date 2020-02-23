@@ -25,7 +25,7 @@ title = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-   image = "headers/tazahor.jpg"  # Name of image in `static/img/`.
+   image = "headers/arabicart.jpg"  # Name of image in `static/img/`.
    image_position = "center"  # Options include `left`, `center` (default), or `right`.
    image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
@@ -37,7 +37,7 @@ title = ""
   padding = ["200px", "0", "200px", "0"]
 [advanced]
  # Custom CSS. 
- css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url('/img/headers/tazahor.jpg');"
+ css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url('/img/headers/arabicart.jpg');"
  
  # CSS class.
  css_class = "aboutme-header"
