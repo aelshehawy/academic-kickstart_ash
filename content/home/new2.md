@@ -3,7 +3,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear in.
+weight = 20  # Order that this section will appear in.
 
 title = ""
 
@@ -25,20 +25,16 @@ title = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "headers/arabicart.jpg"  # Name of image in `static/img/`.
+  # image = "headers/tazahor.jpg"  # Name of image in `static/img/`.
   image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = false
 
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["200px", "100px", "200px", "100px"]
-
 [advanced]
  # Custom CSS. 
- css_style = "background-image:linear-gradient( url('/img/headers/books.png');"
+ css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url('/img/headers/tazahor.jpg');"
  
  # CSS class.
- css_class = "aboutme-heade"
+ css_class = "aboutme-header"
 +++
