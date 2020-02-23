@@ -33,11 +33,11 @@ title = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["130px", "0", "130px", "0"]
+  padding = ["200px", "100px", "200px", "100px"]
 
 [advanced]
  # Custom CSS. 
- css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url('/img/headers/arabicart.jpg');"
+ css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2)),  url('/img/headers/arabicart.jpg');"
  
  # CSS class.
  css_class = "aboutme-header"
