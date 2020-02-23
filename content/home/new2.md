@@ -25,7 +25,7 @@ title = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "headers/tazahor.jpg"  # Name of image in `static/img/`.
+  # image = "headers/luxor.jpg"  # Name of image in `static/img/`.
   image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -37,7 +37,7 @@ title = ""
 
 [advanced]
  # Custom CSS. 
- css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url('/img/headers/tazahor.jpg');"
+ css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url('/img/headers/luxor.jpg');"
  
  # CSS class.
  css_class = "aboutme-header"
