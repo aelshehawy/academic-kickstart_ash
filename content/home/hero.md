@@ -8,7 +8,7 @@ weight = 70  # Order that this section will appear.
 title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-#hero_media = "colonization.jpg"
+hero_media = "colonization.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
