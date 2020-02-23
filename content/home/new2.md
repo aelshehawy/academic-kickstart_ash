@@ -33,12 +33,12 @@ title = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["200px", "100px", "200px", "100px"]
+  padding = ["200px", "0px", "200px", "0px"]
 
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),  url('/img/headers/books.png');"
  
  # CSS class.
- css_class = ""
+ css_class = "aboutme-header"
 +++
