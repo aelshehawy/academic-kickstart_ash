@@ -37,7 +37,7 @@ title = ""
 
 [advanced]
  # Custom CSS. 
- css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),  url('/img/headers/books.png');"
+ css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),  url('/img/headers/luxor.png');"
  
  # CSS class.
  css_class = "aboutme-header"
