@@ -88,9 +88,6 @@ user_groups:
 - Researchers
 - Visitors
 
-header:
-  image: "header.png"
-  caption: "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 ---
 
 I am a doctoral student at the Department of Politics and International Relations at the University of Oxford.
