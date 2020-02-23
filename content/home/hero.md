@@ -34,6 +34,12 @@ hero_media = "colonization.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 
+[advanced]
+ # Custom CSS. 
+ css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url('/img/headers/colonization.jpg');"
+ 
+ # CSS class.
+ css_class = "aboutme-header"
 
 # Note. An optional note to show underneath the links.
 +++
