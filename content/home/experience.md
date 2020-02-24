@@ -33,7 +33,7 @@ date_format = "Jan 2006"
  # """
 
 [[experience]]
-  title = "Research Assosciate"
+  title = "Research Associate"
   company = "Mannheim Center for European Social Research (MZES), University of Mannheim"
   company_url = ""
   location = "Mannheim, Germany"
