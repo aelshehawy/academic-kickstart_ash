@@ -37,10 +37,10 @@
   url = "#contact"
   weight = 50
   
-[[main]]
-  name = "Blog - مدونتي  "
-  url = "#blog"
-  weight = 70
+  [main]]
+  name = "Blog - مدونتي "  # Title of the link.
+  url = "landing/"  # Widget Page folder name.
+  weight = 70  # Position of the link in the navigation bar.
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
