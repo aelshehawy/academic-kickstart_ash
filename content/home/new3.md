@@ -3,7 +3,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear in.
+weight = 70  # Order that this section will appear in.
 
 title = "Dissertation Project"
 
@@ -25,7 +25,7 @@ title = "Dissertation Project"
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "headers/Egyptian-Coastline.png"  # Name of image in `static/img/`.
+  image = "headers/Egyptian-Coastline.png"  # Name of image in `static/img/`.
   image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -33,7 +33,7 @@ title = "Dissertation Project"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["100px", "0", "100px", "0"]
+  padding = ["150px", "0", "150px", "0"]
 
 [advanced]
  # Custom CSS. 
