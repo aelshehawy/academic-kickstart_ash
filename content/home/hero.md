@@ -24,7 +24,7 @@ hero_media ="Egyptian-Coastline.png"
   #gradient_end = "#2b94c3"
   
   # Background image.
-   image = "Egyptian-Coastline.png"  # Name of image in `static/img/`.
+   image = "colonization.jpg"  # Name of image in `static/img/`.
    image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -45,9 +45,8 @@ hero_media ="Egyptian-Coastline.png"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+  label = ''
 +++
 
-More infomration for my dissertation project will be updated soon.
+More information on my dissertation project will be updated soon.
 
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
