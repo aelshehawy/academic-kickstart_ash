@@ -8,10 +8,10 @@
   url = "#about"
   weight = 10
   
-[[main]]
-  name = "Academic positions - وظائف أكاديمية"
-  url = "#experience"
-  weight = 20
+#[[main]]
+#  name = "Academic positions - وظائف أكاديمية"
+ # url = "#experience"
+ # weight = 20
 
 #[[main]]
   #name = "Posts"
@@ -24,7 +24,7 @@
   
 [[main]]
   name = "Research - أبحاثي"
-  url = "#publications"
+  url = "#hero"
   weight = 25
 
 [[main]]
