@@ -37,7 +37,7 @@
   url = "#contact"
   weight = 50
   
-  [main]]
+ [[main]]
   name = "Blog - مدونتي "  # Title of the link.
   url = "landing/"  # Widget Page folder name.
   weight = 70  # Position of the link in the navigation bar.
