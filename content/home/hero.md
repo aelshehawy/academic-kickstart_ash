@@ -5,9 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Academic"
+title = "Dissertation Project"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
+hero_media ="Egyptian-Coastline.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -24,10 +25,10 @@ title = "Academic"
   
   # Background image.
    image = "Egyptian-Coastline.png"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
