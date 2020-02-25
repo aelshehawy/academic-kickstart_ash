@@ -24,7 +24,7 @@ hero_media = "colonization.jpg"
   #gradient_end = "#2b94c3"
   
   # Background image.
-   image = "colonization.jpg"  # Name of image in `static/img/`.
+   image = "Egyptian-Coastline.png"  # Name of image in `static/img/`.
    image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -36,10 +36,10 @@ hero_media = "colonization.jpg"
 
 [advanced]
  # Custom CSS. 
- css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url('/img/headers/colonization.jpg');"
+ css_style = ""
  
  # CSS class.
- css_class = "aboutme-header"
+ css_class = ""
 
 # Note. An optional note to show underneath the links.
 +++
