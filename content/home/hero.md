@@ -17,11 +17,11 @@ hero_media ="Egyptian-Coastline.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "white"
+   color = "#e7e7e7"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  #gradient_start = "#4bb4e3"
+  #gradient_end = "#2b94c3"
   
   # Background image.
    image = "Egyptian-Coastline.png"  # Name of image in `static/img/`.
