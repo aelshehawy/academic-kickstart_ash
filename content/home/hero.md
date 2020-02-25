@@ -37,7 +37,7 @@ hero_media = "colonization.jpg"
 [advanced]
 [advanced]
  # Custom CSS. 
- css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),  url('/img/headers/books.png');"
+ css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),  url('/img/headers/colonization.jpg');"
  
  # CSS class.
  css_class = "aboutme-header"
