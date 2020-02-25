@@ -28,9 +28,14 @@
   weight = 25
 
 [[main]]
-  name = "Data - قاعدة بيانات "
+  name = "Data - قواعد بيانات "
   url = "#projects"
   weight = 40
+  
+ [[main]]
+  name = "Events - فعاليات "
+  url = "#talks"
+  weight = 45
 
 [[main]]
   name = "Contact - للتواصل معي "
