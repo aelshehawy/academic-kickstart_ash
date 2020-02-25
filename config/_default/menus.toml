@@ -24,12 +24,12 @@
   
 [[main]]
   name = "Research - أبحاثي"
-  url = "#publications"
+  url = "#new3"
   weight = 25
 
 [[main]]
   name = "Data - قاعدة بيانات "
-  url = "home/new3/"
+  url = "#projects"
   weight = 40
 
 [[main]]
