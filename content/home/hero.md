@@ -8,7 +8,7 @@ weight = 70  # Order that this section will appear.
 title = "Dissertation Project"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media ="Egyptian-Coastline.png"
+hero_media ="colonization.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
