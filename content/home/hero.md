@@ -17,7 +17,7 @@ hero_media ="Egyptian-Coastline.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "#e7e7e7"
+   color = "#f8f8f8"
   
   # Background gradient.
   #gradient_start = "#4bb4e3"
@@ -34,14 +34,14 @@ hero_media ="Egyptian-Coastline.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://sourcethemes.com/academic/docs/install/"
-  label = "Get Started"
-  icon_pack = "fas"
-  icon = "download"
+  url = ""
+  label = ""
+  icon_pack = ""
+  icon = ""
   
 [cta_alt]
-  url = "https://sourcethemes.com/academic/"
-  label = "View Documentation"
+  url = ""
+  label = ""
 
 # Note. An optional note to show underneath the links.
 [cta_note]
