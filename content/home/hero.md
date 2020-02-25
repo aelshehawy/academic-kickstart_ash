@@ -24,7 +24,7 @@ hero_media = "colonization.jpg"
   #gradient_end = "#2b94c3"
   
   # Background image.
-   image = "Egyptian-Coastline.png"  # Name of image in `static/img/`.
+   image = "colonization.jpg"  # Name of image in `static/img/`.
    image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -35,11 +35,12 @@ hero_media = "colonization.jpg"
 #   Remove a link/note by deleting a cta/note block.
 
 [advanced]
+[advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),  url('/img/headers/books.png');"
  
  # CSS class.
- css_class = ""
+ css_class = "aboutme-header"
 
 # Note. An optional note to show underneath the links.
 +++
