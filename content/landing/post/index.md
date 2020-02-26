@@ -15,10 +15,10 @@ weight = 25
 
 
 +++
-While at Oxford I met a Kaelyn Apple, who is studying towards a MA degree in history at Oxford.
-She is historian and an incoming student in Fall 2020 to the PhD Programme of History at Yale.
-Her [youtube](https://www.youtube.com/channel/UCrD1Qi9M48e5o9fSC3vRdXw?view_as=subscriber) channel includes great content about.
-She also runs a [counseling service](https://theredheadacademic.com/counseling/)
+While at Oxford I met Kaelyn Grace Apple, who is studying towards her Mst degree in history at Oxford.
+She is historian and an incoming student in Fall 2020 to the PhD Programme of History at Yale. Previously she studied as an undergrad at UCLA.
+Her [youtube](https://www.youtube.com/channel/UCrD1Qi9M48e5o9fSC3vRdXw?view_as=subscriber) channel includes great content about access to higher education for aspiring students.
+She also runs an admission [counseling service](https://theredheadacademic.com/counseling/).
 
 
 {{< figure library="1" src="redhead.jpg" >}}
