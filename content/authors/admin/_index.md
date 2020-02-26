@@ -97,7 +97,7 @@ My research interests lie in the field of comparative political economy. I focus
 
 I have been born and raised in the beautiful city Alexandria, Egypt. I am a former professional swimmer for the Egyptian Swimming National Team, for which I competed professionally for several years. I still find myself thinking more clearly while doing all those endless laps at the pool. I enjoy reading about Islamic Art and Architecture and the Ottoman Empire.
 
-[View my CV]{{% staticref "files/cv.pdf" %}}
+You can view my [CV]{{% staticref "files/cv.pdf" %}} here. Download my CV {{% /staticref %}}.
 
 
 
