@@ -1,35 +1,17 @@
 +++
-# About widget.
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+# Custom widget.
+# An example of using the custom widget to create your own homepage section.
+# To create more sections, duplicate this file and edit the values below as desired.
+widget = "custom"
+active = true
+date = 2016-04-20T00:00:00
 weight = 100  # Order that this section will appear in.
+headless = true  # This file represents a page section.
 
-title = "My Personal Blog"
+# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
+title = "My personal blog"
+subtitle = ""
 
-# Choose the user profile to display
-# This should be the username of a profile in your `content/authors/` folder.
-# See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
-
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  image = "headers/alexandria.jpg"  # Name of image in `static/img/`.
-  image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
-  # Text color (true=light or false=dark).
-  text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -42,7 +24,6 @@ title = "My Personal Blog"
  # CSS class.
  css_class = ""
 +++
+Take a look at my personal [blog](https://5e569ddfda1c820008d2ea0f--ashrakatelshehawy.netlify.com/landing/). The main emphasis of my blog is to make academia more accessabile for Arab Researchers. I will post here about opportunities that I learn about as I navigate the academic world. Other than that, I will be posting about fascinating things I learn through my travel and in my home country. Expect some movie and book reviews.
 
-Take a look at my personal [blog](https://5e569afd22ee0f0007c2250c--ashrakatelshehawy.netlify.com/landing/). The main emphasis of my blog is to make academia more accessabile for Arab Researchers. 
-I will post here about opportunities that I learn about as I navigate the academic world. 
-Other than that, I will be posting about fascinating things I learn through my travel and in my home country. Expect some movie and book reviews.
+{{< figure library="1" src="alexandria_copy.jpg" title="" >}}
