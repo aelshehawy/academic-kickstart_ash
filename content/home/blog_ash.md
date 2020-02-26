@@ -37,10 +37,10 @@ title = "My Personal Blog"
 
 [advanced]
  # Custom CSS. 
- css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),  url('/img/headers/alexandria.jpg');"
+ css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url('/img/headers/alexandria.jpg');"
  
  # CSS class.
- css_class = "aboutme-header"
+ css_class = ""
 +++
 
 Take a look at my personal [blog](https://5e569afd22ee0f0007c2250c--ashrakatelshehawy.netlify.com/landing/). The main emphasis of my blog is to make academia more accessabile for Arab Researchers. 
