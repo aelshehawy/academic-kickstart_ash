@@ -15,14 +15,14 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["150px", "0", "150px", "0"]
+  #padding = ["150px", "0", "150px", "0"]
 
-[advanced]
+#[advanced]
  # Custom CSS. 
- css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url('/img/headers/alexandria.jpg');"
+ #css_style = ""
  
  # CSS class.
- css_class = ""
+ #css_class = ""
 +++
 Take a look at my personal [blog](https://5e569ddfda1c820008d2ea0f--ashrakatelshehawy.netlify.com/landing/). The main emphasis of my blog is to make academia more accessabile for Arab Researchers. I will post here about opportunities that I learn about as I navigate the academic world. Other than that, I will be posting about fascinating things I learn through my travel and in my home country. Expect some movie and book reviews.
 
