@@ -18,5 +18,5 @@ weight = 30
 
 
 
-{{< figure library="1" src="andalucia.jpg" title="" >}}{{< figure library="1" src="andalucia2.jpg" title="" >}}
+{{< figure library="1" src="andalucia.jpg" title="Alhambra, Granada, Spain" >}}{{< figure library="1" src="andalucia2.jpg" title="Generallife, Granada, Spain" >}}
 
