@@ -1,6 +1,6 @@
 
 +++
-title = "Sanction Workshop: Supranational Economic Statecraft:Sanction Success and Failure in a Comparative Perspective"
+title = "Sanction Workshop: Supranational Economic Statecraft: Sanction Success and Failure in a Comparative Perspective"
 date = 2017-10-01T00:00:00  # Schedule page publish date.
 draft = false
 
