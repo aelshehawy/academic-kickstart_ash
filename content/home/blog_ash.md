@@ -37,7 +37,7 @@ title = "My Personal Blog"
 
 [advanced]
  # Custom CSS. 
- css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url('/img/headers/alexandria.jpg');"
+ css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url('/img/headers/alexandria_copy.jpg');"
  
  # CSS class.
  css_class = ""
