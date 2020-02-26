@@ -14,7 +14,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -45,11 +45,11 @@ subtitle = ""
 
 [advanced]
  # Custom CSS. 
- css_style = ""
+ #css_style = ""
  
  # CSS class.
- css_class = ""
+ #css_class = ""
 +++
 
-{{< figure library="1" src="anadlucia.jpg" title="" >}}
+{{< figure library="1" src="ecucation.jpg" title="" >}}
 {{< figure library="1" src="anadlucia2.jpg" title="" >}}
