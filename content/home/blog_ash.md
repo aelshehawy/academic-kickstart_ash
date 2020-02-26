@@ -25,7 +25,7 @@ title = "My Personal Blog"
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "headers/alexandria.png"  # Name of image in `static/img/`.
+  image = "headers/alexandria.jpg"  # Name of image in `static/img/`.
   image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -37,12 +37,12 @@ title = "My Personal Blog"
 
 [advanced]
  # Custom CSS. 
- css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url('/img/headers/alexandria.png');"
+ css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url('/img/headers/alexandria.jpg');"
  
  # CSS class.
  css_class = "aboutme-header"
 +++
 
-Take a look at my personal [blog](https://5e5693db19010600090c9a60--ashrakatelshehawy.netlify.com/landing/). The main emphasis of my blog is to make academia more accessabile for Arab Researchers. 
+Take a look at my personal [blog](https://5e569afd22ee0f0007c2250c--ashrakatelshehawy.netlify.com/landing/). The main emphasis of my blog is to make academia more accessabile for Arab Researchers. 
 I will post here about opportunities that I learn about as I navigate the academic world. 
 Other than that, I will be posting about fascinating things I learn through my travel and in my home country. Expect some movie and book reviews.
