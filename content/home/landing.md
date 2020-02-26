@@ -12,7 +12,7 @@ title = "My Personal Blog"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 90
+weight = 110
 
 
 +++
