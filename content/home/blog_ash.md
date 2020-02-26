@@ -19,11 +19,11 @@ subtitle = ""
 
 [advanced]
  # Custom CSS. 
- css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url('/img/headers/alexandria_copy.jpg');"
+ css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url('/img/headers/alexandria.jpg');"
  
  # CSS class.
  css_class = ""
 +++
 Take a look at my personal [blog](https://5e569ddfda1c820008d2ea0f--ashrakatelshehawy.netlify.com/landing/). The main emphasis of my blog is to make academia more accessabile for Arab Researchers. I will post here about opportunities that I learn about as I navigate the academic world. Other than that, I will be posting about fascinating things I learn through my travel and in my home country. Expect some movie and book reviews.
 
-{{< figure library="1" src="alexandria_copy.jpg" title="" >}}
+{{< figure library="1" src="alexandria.jpg" title="" >}}
