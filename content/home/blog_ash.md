@@ -33,11 +33,11 @@ title = "My Personal Blog"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["100px", "0", "100px", "0"]
+  padding = ["150px", "0", "150px", "0"]
 
 [advanced]
  # Custom CSS. 
- css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url('/img/headers/alexandria.jpg');"
+ css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),  url('/img/headers/alexandria.jpg');"
  
  # CSS class.
  css_class = "aboutme-header"
