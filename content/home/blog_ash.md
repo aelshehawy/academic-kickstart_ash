@@ -43,6 +43,6 @@ title = "My Personal Blog"
  css_class = "aboutme-header"
 +++
 
-Take a look at my personal blog. The main emphasis of my blog is to make academia more accessabile for Arab Researchers. 
+Take a look at my personal [blog]({{<https://5e5693db19010600090c9a60--ashrakatelshehawy.netlify.com/landing/>}}). The main emphasis of my blog is to make academia more accessabile for Arab Researchers. 
 I will post here about opportunities that I learn about as I navigate the academic world. 
 Other than that, I will be posting about fascinating things I learn through my travel and in my home country. Expect some movie and book reviews.
