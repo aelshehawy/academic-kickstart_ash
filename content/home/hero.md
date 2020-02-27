@@ -48,6 +48,6 @@ hero_media ="colonization.jpg"
   label = ''
 +++
 
-More information on my dissertation project will be updated soon.
-####### Photo by:
+More information on my dissertation project will be updated soon. <\br>
+^Photo by:^
 
