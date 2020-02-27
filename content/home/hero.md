@@ -17,7 +17,7 @@ hero_media ="colonization.jpg"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "#f7efda"
+   color = "#faf6ed"
   
   # Background gradient.
   #gradient_start = "#4bb4e3"
@@ -35,19 +35,18 @@ hero_media ="colonization.jpg"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = ""
-  label = ""
+  label = "Photo by:"
   icon_pack = ""
   icon = ""
   
 [cta_alt]
   url = ""
-  label = ""
+  label = "Photo by:"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = ''
+  label = 'Photo by:'
 +++
 
-More information on my dissertation project will be updated soon. <\br>
-^Photo by:^
+More information on my dissertation project will be updated soon. 
 
