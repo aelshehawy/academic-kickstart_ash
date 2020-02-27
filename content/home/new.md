@@ -37,7 +37,7 @@ title = ""
 
 [advanced]
  # Custom CSS. 
- css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url('/img/headers/unsplash2.jpg');"
+ css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url('/img/headers/unsplash3.jpg');"
  
  # CSS class.
  css_class = "aboutme-header"
