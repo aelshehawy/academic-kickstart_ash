@@ -49,4 +49,5 @@ hero_media ="colonization.jpg"
 +++
 
 More information on my dissertation project will be updated soon.
+####### Photo by:
 
