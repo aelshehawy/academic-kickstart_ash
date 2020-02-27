@@ -15,7 +15,7 @@ weight = 1
 
 
 +++
-{{< figure library="1" src="education.jpg" title="English: Knowledge is light and ignorance is darkness" >}}
+{{< figure library="1" src="education.jpg" title="English: Knowledge is light and ignorance is darkness<br />Photo by: لبقع مصطفى التربية الفنية التشكيلية" >}}
 
 Growing up in the Middle East, specifically in Egypt, where economic inequality is a pressing problem, I have always wondered how one can become an academic and get a top-class education with modest financial resources. Academia seemed for unaccessible, especially for an Arab woman.
 
