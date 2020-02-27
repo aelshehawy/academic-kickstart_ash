@@ -16,7 +16,8 @@ weight = 2
 
 +++
 
-
-
-{{< figure library="1" src="andalucia.jpg" title="Alhambra, Granada, Spain" >}}{{< figure library="1" src="andalucia2.jpg" title="Generallife, Granada, Spain" >}}
-
+{{< figure library="1" src="andalucia.jpg" title="Photo by me: Alhambra, Granada, Spain" >}}
+{{< figure library="1" src="andalucia2.jpg" title="Photo by me: Generallife, Granada, Spain" >}}
+{{< figure library="1" src="andalucia3.jpg" title="Photo by me: Generallife, Granada, Spain" >}}
+{{< figure library="1" src="andalucia4.jpg" title="Photo by me: Moorish Architecture of Albaicín, view from Alhambra, Granada, Spain" >}}
+{{< figure library="1" src="andalucia5.jpg" title="Photo by me: Seville, Spain" >}}
