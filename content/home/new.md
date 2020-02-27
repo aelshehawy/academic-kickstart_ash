@@ -33,11 +33,11 @@ title = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["100px", "0", "100px", "0"]
+  padding = ["130px", "0", "130px", "0"]
 
 [advanced]
  # Custom CSS. 
- css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url('/img/headers/unsplash.jpg');"
+ css_style = "background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url('/img/headers/unsplash_copy.jpg');"
  
  # CSS class.
  css_class = "aboutme-header"
