@@ -9,6 +9,7 @@ title = "My Dissertation Project"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media ="colonization.jpg"
+title=" لبقع مصطفى التربية الفنية التشكيلية"
 
 [design.background]
   # Apply a background color, gradient, or image.
