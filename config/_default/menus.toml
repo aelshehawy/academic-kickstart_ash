@@ -44,7 +44,7 @@
   
  [[main]]
   name = "Blog - مدونتي "  # Title of the link.
-  url = "landing/"  # Widget Page folder name.
+  url = "blog/"  # Widget Page folder name.
   weight = 70  # Position of the link in the navigation bar.
 
 # Link to a PDF of your resume/CV from the menu.
