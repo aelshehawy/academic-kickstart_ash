@@ -30,7 +30,7 @@ Take a look at my personal [blog](https://5e57f564981ae5000aa7fa40--ashrakatelsh
 
 
 My first post discusses my personal motivation for starting this [blog](https://5e57f564981ae5000aa7fa40--ashrakatelshehawy.netlify.com/landing/). 
-"Growing up in the Middle East, specifically in Egypt, where economic inequality is a pressing problem, I have always wondered about the way to becoming an academic and get a top-class education. Academia seemed for unaccessible, especially for an Arab woman.<br/>
+"Growing up in the Middle East, specifically in Egypt, where economic inequality is a pressing problem, I have always wondered about the way to becoming an academic and get a top-class education. Academia seemed unaccessible, especially for Arab women.<br/>
 نشأت في الشرق الأوسط، وتحديداً في مصر، حيث  تمثل عدم المساواة الاقتصادية مشكلة ملحة. لطالما تساءلت كيف يمكن للمرء أن يصبح أكاديميًا ويحصل على تعليم عالي المستوى. بدت الأوساط الأكاديمية بعيدة المنال، خاصة بالنسبة للمرأة العربية.[Read more]((https://5e57f564981ae5000aa7fa40--ashrakatelshehawy.netlify.com/landing/))
 
 {{< figure library="1" src="alexandria.jpg" title="Alexandria, the pearl of the Mediterranean - taken by me" >}}
