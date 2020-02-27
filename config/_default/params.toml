@@ -50,7 +50,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "ashrakatelshehawy@gmail.com"
+email = "ashrakatelshehawy(AT)gmail(dot)com"
 phone = ""
 address = "Somerville College, Woodstock Road, Oxford, Oxfordshire, OX2 6HD"
 
