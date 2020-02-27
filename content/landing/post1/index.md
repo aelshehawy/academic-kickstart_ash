@@ -7,8 +7,8 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Access to Academia for Middle Eastern Students"
-subtitle = ""
+title = ""
+subtitle = "Access to Academia for Middle Eastern Students - العثور على الطريق للوسط الأكاديمي لطلاب الشرق الأوسط "
 
 # Order that this section will appear in.
 weight = 20
