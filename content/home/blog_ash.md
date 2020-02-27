@@ -29,9 +29,9 @@ Take a look at my personal [blog](https://5e569ddfda1c820008d2ea0f--ashrakatelsh
 ## Featured Post:
 
 
-My first post discusses my personal motivation for starting this [blog](www.ashrakatelshehawy.com/landing/). 
+My first post discusses my personal motivation for starting this [blog](ashrakatelshehawy.com/landing/). 
 "Growing up in the Middle East, specifically in Egypt, where economic inequality is a pressing problem, I have always wondered about the way to becoming an academic and get a top-class education. Academia seemed for unaccessible, especially for an Arab woman.<br/>
-نشأت في الشرق الأوسط، وتحديداً في مصر، حيث  تمثل عدم المساواة الاقتصادية مشكلة ملحة. لطالما تساءلت كيف يمكن للمرء أن يصبح أكاديميًا ويحصل على تعليم عالي المستوى. بدت الأوساط الأكاديمية بعيدة المنال، خاصة بالنسبة للمرأة العربية.[Read more]((www.ashrakatelshehawy.com/landing/))
+نشأت في الشرق الأوسط، وتحديداً في مصر، حيث  تمثل عدم المساواة الاقتصادية مشكلة ملحة. لطالما تساءلت كيف يمكن للمرء أن يصبح أكاديميًا ويحصل على تعليم عالي المستوى. بدت الأوساط الأكاديمية بعيدة المنال، خاصة بالنسبة للمرأة العربية.[Read more]((ashrakatelshehawy.com/landing/))
 
 {{< figure library="1" src="alexandria.jpg" title="Alexandria, the pearl of the Mediterranean - taken by me" >}}
 
