@@ -21,8 +21,9 @@ Her [youtube](https://www.youtube.com/channel/UCrD1Qi9M48e5o9fSC3vRdXw?view_as=s
 She also runs an admission [counseling service](https://theredheadacademic.com/counseling/).
 
 أثناء وجودي في أوكسفورد، قابلت كايلن جريس أبل، التي تدرس للحصول على درجة الماجستير في التاريخ في أكسفورد.
-هي مؤرخة وطالبة سوف تبدأ في خريف عام 2020 برنامج الدكتوراه في التاريخ والدراسات الأمريكيةالأفريقية في جامعة ييل. درست سابقا طالبة  في جامعة كاليفورنيا UCLA.
-تتضمن قناة YouTube الخاصة بها محتوى رائعًا حول الوصول إلى التعليم العالي للطلاب الطامحين.
+هي مؤرخة وطالبة سوف تبدأ في خريف عام 2020 برنامج الدكتوراه في التاريخ والدراسات الأمريكية الأفريقية في جامعة ييل.
+درست سابقا في جامعة كاليفورنيا.
+تتضمن قناة [يوتيوب](https://www.youtube.com/channel/UCrD1Qi9M48e5o9fSC3vRdXw?view_as=subscriber) الخاصة بها محتوى رائعًا حول الوصول إلى التعليم العالي للطلاب الطامحين.
 تدير أيضًا خدمة استشارات [القبول](https://theredheadacademic.com/counseling/).
 
 {{< figure library="1" src="redhead.jpg" >}}
