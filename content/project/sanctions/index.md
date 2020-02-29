@@ -6,7 +6,7 @@ title = " U.S. Statements and Actions on Sanctions, Computer-Assisted-Text Appro
 date = 2017-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Data Collection Project of US Sanctions using text-analysis and machine learning techniques"
+summary = "Data Collection Project of US Sanctions using Text-Analysis and Machine Learning Techniques"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["royalties", "pcr"]`
@@ -38,7 +38,7 @@ url_code = ""
 
 [image]
   # Caption (optional)
-  caption = "I took this picture of the Texas State Capitol in Austin during my academic post in Texas"
+  caption = "I took this picture of the Texas State Capitol in Austin during my academic visit in Texas"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
