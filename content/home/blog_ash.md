@@ -24,14 +24,14 @@ subtitle = ""
  # CSS class.
  #css_class = ""
 +++
-Take a look at my personal [blog](www.ashrakatelshehawy.com/blog). The main emphasis of my blog is to make academia more accessabile for Arab Researchers. I will post here about opportunities that I learn about as I navigate the academic world. Other than that, I will be posting about fascinating things I learn through my travel and in my home country. Expect some movie and book reviews.
+Take a look at my personal [blog](https://5e5be562815b1f0009a8f719--ashrakatelshehawy.netlify.com/blog/). The main emphasis of my blog is to make academia more accessabile for Arab Researchers. I will post here about opportunities that I learn about as I navigate the academic world. Other than that, I will be posting about fascinating things I learn through my travel and in my home country. Expect some movie and book reviews.
 
 ## Featured Post:
 
 
-My first post discusses my personal motivation for starting this [blog](www.ashrakatelshehawy.com/blog). 
+My first post discusses my personal motivation for starting this [blog](https://5e5be562815b1f0009a8f719--ashrakatelshehawy.netlify.com/blog/). 
 "Growing up in the Middle East, specifically in Egypt, where economic inequality is a pressing problem, I have always wondered about the way to becoming an academic and get a top-class education. Academia seemed unaccessible, especially for Arab women.<br/>
-نشأت في الشرق الأوسط، وتحديداً في مصر، حيث  تمثل عدم المساواة الاقتصادية مشكلة ملحة. لطالما تساءلت كيف يمكن للمرء أن يصبح أكاديميًا ويحصل على تعليم عالي المستوى. بدت الأوساط الأكاديمية بعيدة المنال، خاصة بالنسبة للمرأة العربية.[Read more](www.ashrakatelshehawy.com/blog)
+نشأت في الشرق الأوسط، وتحديداً في مصر، حيث  تمثل عدم المساواة الاقتصادية مشكلة ملحة. لطالما تساءلت كيف يمكن للمرء أن يصبح أكاديميًا ويحصل على تعليم عالي المستوى. بدت الأوساط الأكاديمية بعيدة المنال، خاصة بالنسبة للمرأة العربية.[Read more](https://5e5be562815b1f0009a8f719--ashrakatelshehawy.netlify.com/blog/)
 
 Other posts include:
 
