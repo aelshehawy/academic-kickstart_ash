@@ -11,7 +11,7 @@ title =""
 subtitle = "**Hazine** - A guide to researching the Middle East and beyond - دليل إلى البحث في الشرق الأوسط وخارجه "
 
 # Order that this section will appear in.
-weight = 3
+weight = 2
 
 
 +++
