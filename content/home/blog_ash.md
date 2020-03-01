@@ -34,8 +34,8 @@ My first post discusses my personal motivation for starting this [blog](https://
 نشأت في الشرق الأوسط، وتحديداً في مصر، حيث  تمثل عدم المساواة الاقتصادية مشكلة ملحة. لطالما تساءلت كيف يمكن للمرء أن يصبح أكاديميًا ويحصل على تعليم عالي المستوى. بدت الأوساط الأكاديمية بعيدة المنال، خاصة بالنسبة للمرأة العربية.[Read more](https://5e5bbf350f6b20000898c252--ashrakatelshehawy.netlify.com/blog/)
 
 Other posts include:
-- Hazine Blog, a guide to researching in the Middle East and beyond - دليل للبحث في الشرق الأوسط وخارجه
-- Andalusia, Art and Architecture - الأندلس، الفن والعمارة
+* Hazine Blog, a guide to researching in the Middle East and beyond - دليل للبحث في الشرق الأوسط وخارجه
+* Andalusia, Art and Architecture - الأندلس، الفن والعمارة
 
 
 {{< figure library="1" src="alexandria.jpg" title="Alexandria, the pearl of the Mediterranean - taken by me" >}}
