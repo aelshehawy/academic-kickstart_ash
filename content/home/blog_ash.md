@@ -33,11 +33,7 @@ My first post discusses my personal motivation for starting this [blog](https://
 "Growing up in the Middle East, specifically in Egypt, where economic inequality is a pressing problem, I have always wondered about the way to becoming an academic and get a top-class education. Academia seemed unaccessible, especially for Arab women.<br/>
 نشأت في الشرق الأوسط، وتحديداً في مصر، حيث  تمثل عدم المساواة الاقتصادية مشكلة ملحة. لطالما تساءلت كيف يمكن للمرء أن يصبح أكاديميًا ويحصل على تعليم عالي المستوى. بدت الأوساط الأكاديمية بعيدة المنال، خاصة بالنسبة للمرأة العربية.[Read more](https://5e5be562815b1f0009a8f719--ashrakatelshehawy.netlify.com/blog/)
 
-Other posts include:
-
-* Hazine Blog, a guide to researching in the Middle East and beyond - دليل للبحث في الشرق الأوسط وخارجه
-<br/>
-* Andalusia, Art and Architecture - الأندلس، الفن والعمارة
+Other posts include: Andalusia, Art and Architecture - الأندلس، الفن والعمارة
 
 
 {{< figure library="1" src="alexandria.jpg" title="Alexandria, the pearl of the Mediterranean - taken by me" >}}
