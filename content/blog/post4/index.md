@@ -17,4 +17,4 @@ weight = 5
 +++
 Posts I relate to in my daily live!
 
-{{< figure library="1" src="instagram1.png" title="Credits: Instagram account of the [**'dissertationcoach'**"](https://www.instagram.com/p/B9MjA-TJQWo/) >}} 
+{{< figure library="1" src="instagram1.png" title="Credits: Instagram account of the [**dissertationcoach**](https://www.instagram.com/p/B9MjA-TJQWo/)">}}
