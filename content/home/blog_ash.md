@@ -30,7 +30,7 @@ Take a look at my personal [blog](https://www.ashrakatelshehawy.com/blog/). The 
 
 
 My first post discusses my personal motivation for starting this [blog](https://www.ashrakatelshehawy.com/blog/). 
-"Growing up in the Middle East, specifically in Egypt, where economic inequality is a pressing problem, I have always wondered about the way to becoming an academic and get a top-class education. Academia seemed unaccessible, especially for Arab women.<br/>
+"Growing up in the Middle East, specifically in Egypt, where economic inequality is a pressing problem, I have always wondered about the way to becoming an academic and get a top-class education. Academia seemed inaccessible, especially for Arab women.<br/>
 نشأت في الشرق الأوسط، وتحديداً في مصر، حيث  تمثل عدم المساواة الاقتصادية مشكلة ملحة. لطالما تساءلت كيف يمكن للمرء أن يصبح أكاديميًا ويحصل على تعليم عالي المستوى. بدت الأوساط الأكاديمية بعيدة المنال، خاصة بالنسبة للمرأة العربية.[Read more](https://www.ashrakatelshehawy.com/blog/)
 
 Other posts include: Andalusia, Art and Architecture - الأندلس، الفن والعمارة
