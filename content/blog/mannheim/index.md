@@ -36,9 +36,17 @@ doctoral studies at the University of Oxford.
 
 
 **Funding opportunities for studies in Mannheim:** <br /> 
-Scholarships:<br /> 
-- Deutschlandstipendium <br /> 
-- Bronnbacherstipendium <br /> 
+Scholarships, [link](https://www2.uni-mannheim.de/stipendium/):<br /> 
+- Deutschlandstipendium: I was funded through this scholarship for the beginning of my Master studies (had to unfortunately terminate my funding, due to the attainment for another scholarship). <br /> 
+- Bronnbacherstipendium  <br /> 
+- Mannheimer Chancenstipendium <br /> 
+- Spitzensport-Stipendium MRN: This is an amazing opportuinity for athletes <br /> 
+- Mannheim-Stipendium <br /> 
+
 Exchange Semester/Year, [(Uni Mannheim Funding for Exchanges)](https://www.uni-mannheim.de/en/academics/going-abroad/studying-abroad/financing/scholarships/):<br /> 
-- Erasmus <br /> 
-- Promos <br /> 
+- Erasmus: Scholarship for Exchanges within Europe and Turkey. <br /> 
+- Promos: Undergraduates who want to study abroad outside of Europe. <br /> 
+- Baden-Württemberg Scholarship: Post-graduate scholarship for study abroad outside of Europe. <br />
+- Country specific funding [Link](https://www.uni-mannheim.de/en/academics/going-abroad/studying-abroad/financing/country-specific-support/#c36964)<br /> 
+I personally took a part in an exchange during my undergaduate degree, I spent a semester in 2015/2016 at Trinity College Dublin.
+
