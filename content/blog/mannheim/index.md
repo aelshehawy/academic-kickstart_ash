@@ -11,13 +11,13 @@ title = ""
 subtitle = "Studying at the University of Mannheim as an international student -  الدراسة في جامعة مانهايم للطلاب الأجانب "
 
 # Order that this section will appear in.
-weight = 1.5
+weight = 2
 
 
 
 +++
 
-{{< figure library="1" src="mannheimtestimonial.png" title="[Photo by Farina Stock <br /> Check it on the website](https://www.uni-mannheim.de/en/academics/programs/masters-program-in-political-science/)" >}}
+{{< figure library="1" src="mannheimtestimonial.png" title="Photo by Farina Stock <br /> [Check my statement on the University of Mannheim's website](https://www.uni-mannheim.de/en/academics/programs/masters-program-in-political-science/)" >}}
 
 
 I have studied in Mannheim for my undergraduate and graduate studies. 
@@ -39,6 +39,6 @@ doctoral studies at the University of Oxford.
 Scholarships:<br /> 
 - Deutschlandstipendium <br /> 
 - Bronnbacherstipendium <br /> 
-Exchange Semester/Year -[(Uni Mannheim Funding Page)](https://www.uni-mannheim.de/en/academics/going-abroad/studying-abroad/financing/scholarships/):<br /> 
+Exchange Semester/Year, [(Uni Mannheim Funding for Exchanges)](https://www.uni-mannheim.de/en/academics/going-abroad/studying-abroad/financing/scholarships/):<br /> 
 - Erasmus <br /> 
 - Promos <br /> 
