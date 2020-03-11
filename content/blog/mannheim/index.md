@@ -37,7 +37,7 @@ doctoral studies at the University of Oxford.
 
 **Funding opportunities for studies in Mannheim:** <br /> 
 Scholarships, [link](https://www2.uni-mannheim.de/stipendium/):<br /> 
-- Deutschlandstipendium: I was funded through this scholarship for the beginning of my Master studies (had to unfortunately terminate my funding, due to the attainment for another scholarship). <br /> 
+- Deutschlandstipendium: I was funded through this scholarship for the beginning of my Master studies (had to unfortunately terminate my funding, due to the attainment for another scholarship), my donor was the Ekhhard Foundation. <br /> 
 - Bronnbacherstipendium  <br /> 
 - Mannheimer Chancenstipendium <br /> 
 - Spitzensport-Stipendium MRN: This is an amazing opportuinity for athletes <br /> 
