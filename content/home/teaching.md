@@ -16,7 +16,7 @@ weight = 35
 
 +++
 
-- **Text Analysis (Online Class)** - Graduate Course <br/> Teaching Assistant for Prof. Nikolay Marinov <br/>Graduate Course <br/>Department of Political Science<br/> University of Houston <br/> Summer Semester <br/> May - Jne 2020 <br/>
+- **Text Analysis (Online Class)** - Graduate Course <br/> Teaching Assistant for Prof. Nikolay Marinov <br/>Graduate Course <br/>Department of Political Science<br/> University of Houston <br/> Summer Semester <br/> May - June 2020 <br/>
 - **211: Politics of the Middle East** - Undergraduate PPE (Politics, Philosophy, Economics) Course <br/> Instructor/Tutor<br/> Pembroke, St. Hughs, and Somerville College<br/> University of Oxford <br/> Trinity Term  <br/> April - June 2020
 - **Tutorial: Empirical Political Research in Political Science** - Ungdergraduate Course  <br/> Lecture by: Dr. Sean Carey<br/>  University of Mannheim, Germany<br/>Winter Semester 2017/2018<br/>October 2017 - January 2018 <br/>
 
