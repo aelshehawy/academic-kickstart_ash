@@ -16,9 +16,9 @@ weight = 35
 
 +++
 
-- Text Analysis [Online Class]
-- 211: Politics of the Middle East
-- Research Design
+- **Text Analysis (Online Class)**<br/> Teaching Assistant<br/>Graduate Course <br/>Department of Political Science<br/> University of Houston
+- **211: Politics of the Middle East**<br/> Instructor/Tutor<br/> Pembroke, St. Hughs, and Somerville College
+- **Research Design**
 
 
 
