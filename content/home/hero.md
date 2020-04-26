@@ -17,7 +17,7 @@ hero_media ="colonization.jpg"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "#ffffff"
+   color = "#ebebeb"
   
   # Background gradient.
   #gradient_start = "#4bb4e3"
