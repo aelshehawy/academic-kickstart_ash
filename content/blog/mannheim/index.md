@@ -3,7 +3,7 @@
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
-active = true
+active = false
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
@@ -40,7 +40,7 @@ Scholarships, [link](https://www2.uni-mannheim.de/stipendium/):<br />
 - Deutschlandstipendium: I was funded through this scholarship for the beginning of my Master studies (had to unfortunately terminate my funding, due to the attainment for another scholarship), my donor was the Ekhhard Foundation. <br /> 
 - Bronnbacherstipendium  <br /> 
 - Mannheimer Chancenstipendium <br /> 
-- Spitzensport-Stipendium MRN: This is an amazing opportuinity for athletes <br /> 
+- Spitzensport-Stipendium MRN: This is an amazing opportuinity for athletes, who wanna study at the University of Mannheim <br /> 
 - Mannheim-Stipendium <br /> 
 
 Exchange Semester/Year, [(Uni Mannheim Funding for Exchanges)](https://www.uni-mannheim.de/en/academics/going-abroad/studying-abroad/financing/scholarships/):<br /> 
