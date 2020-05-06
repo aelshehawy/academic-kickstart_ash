@@ -16,8 +16,7 @@ weight = 35
 
 +++
 ### Graduate:<br/>
-- **Text Analysis** -  Teaching Assistant <br/> Department of Political Science <br/> University of Houston - [Code and Slides](https://github.com/aelshehawy/Basics-of-Text-Analysis-for-Political-Science) ![alt text](https://github.com/aelshehawy/academic-kickstart_ash/tree/master/static/img/GitHub-Mark-64px.png "Logo Title Text 1")
-
+- **Text Analysis** -  Teaching Assistant <br/> Department of Political Science <br/> University of Houston <br/> [Code and Slides](https://github.com/aelshehawy/Basics-of-Text-Analysis-for-Political-Science)
 
 
 
