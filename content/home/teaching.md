@@ -15,13 +15,13 @@ subtitle = ""
 weight = 35
 
 +++
-## Graduate:<br/>
-- **Text Analysis** -  Teaching Assistant <br/> Department of Political Science <br/> University of Houston - [Code and Slides](https://github.com/aelshehawy/Basics-of-Text-Analysis-for-Political-Science) 
-<a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
+### Graduate:<br/>
+- **Text Analysis** -  Teaching Assistant <br/> Department of Political Science <br/> University of Houston - [Code and Slides](https://github.com/aelshehawy/Basics-of-Text-Analysis-for-Political-Science) ![alt text](https://github.com/aelshehawy/academic-kickstart_ash/tree/master/static/img/GitHub-Mark-64px.png "Logo Title Text 1")
 
 
 
-## Undergraduate:<br/>
+
+### Undergraduate:<br/>
 - **211: Politics of the Middle East**  <br/>  PPE (Politics, Philosophy, Economics) Degree <br/> Instructor/Tutor<br/> Pembroke, St. Hilda's, and Somerville Colleges<br/> University of Oxford <br/> Trinity Term - April - June 2020<br/> <br/> 
 - **201: Comparative Government**   <br/>  PPE (Politics, Philosophy, Economics) Degree <br/>Instructor/Tutor for Revisions<br/> University of Oxford <br/> Trinity Term - April - June 2020<br/> <br/> 
 - **Tutorial: Empirical Political Research in Political Science**   <br/> Lecture by: Dr. Sean Carey<br/>  University of Mannheim, Germany<br/>Winter Semester 2017 & 2018 - October 2017 - January 2018 
