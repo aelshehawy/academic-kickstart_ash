@@ -41,6 +41,7 @@ tags = ["Sanctions","Text-Analysis"]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+url_pdf = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2981486" 
 
 # Digital Object Identifier (DOI)
 doi = ""
