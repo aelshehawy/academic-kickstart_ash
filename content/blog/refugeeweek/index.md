@@ -35,9 +35,9 @@ hero_media ="refugee.png"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = ""
-  label = ""
-  icon_pack = ""
-  icon = ""
+  label = "Tweet about this!"
+  icon_pack = "fab"
+  icon = "twitter"
   
 [cta_alt]
   url = ""
