@@ -34,18 +34,17 @@ hero_media ="refugee.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = ""
+  url = "https://twitter.com/home"
   label = "Tweet about this!"
   icon_pack = "fab"
   icon = "twitter"
   
 [cta_alt]
-  url = ""
-  label = ""
+  url = "https://twitter.com/home"
+  label = "Tweet"
 
 # Note. An optional note to show underneath the links.
-[cta_note]
-  label = ''
+
   
 
 +++
