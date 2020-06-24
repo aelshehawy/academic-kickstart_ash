@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Refugee Week Event hosted By Somerville and Mansfield Colleges"
+title = "My Dissertation Project"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media ="colonization.jpg"
@@ -35,23 +35,19 @@ hero_media ="colonization.jpg"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = ""
-  label = "Photo:"
+  label = "Photo: Archival Photo - صوره ارشيفيه"
   icon_pack = ""
   icon = ""
   
 [cta_alt]
   url = ""
-  label = "Photo: "
+  label = "Photo: Archival Photo - صوره ارشيفيه"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = 'Photo: '
+  label = 'Photo: Archival Photo - صوره ارشيفيه'
 +++
 
-I am so honored and humbled to be able to say a few words about the importance of providing refugees with opportunities to access higher education at an event organized by Somerville and Mansfield Colleges of the University of Oxford.
+More information on my dissertation project will be updated soon. 
 
-Also honored to be able to introduce our distinguished speakers Natasha Kaplinsky OBE and Lord Dubs. Baroness Jan Royall Principal of Somerville College and Helen Mountfield QC Principal of Mansfield College, Oxford, thank you so much for your great efforts and wonderful words.
 
-You can watch the video on Youtube here: https://www.youtube.com/watch?v=uevVd6ws4b0
-
-يشرفني كثيرًا أن اتمكن من قول بضع كلمات حول أهمية إتاحة الفرص للاجئين للوصول إلى التعليم العالي في إطار فعالية نظمت من خلال كليات سومرفيل ومانسفيلد في جامعة أكسفورد
