@@ -8,7 +8,7 @@ weight = 1  # Order that this section will appear.
 title = "Speaking up for Refugees Event with Somerville and Mansfield College of the University of Oxford"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media ="refugee.jpg"
+hero_media ="refugee.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -24,7 +24,7 @@ hero_media ="refugee.jpg"
   #gradient_end = "#2b94c3"
   
   # Background image.
-   #image = "refugee.jpg"  # Name of image in `static/img/`.
+   #image = "refugee.png"  # Name of image in `static/img/`.
    image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -65,3 +65,4 @@ You can watch the video on Youtube [here](https://www.youtube.com/watch?v=uevVd6
 
 يشرفني كثيرًا أن اتمكن من قول بضع كلمات حول أهمية إتاحة الفرص للاجئين للوصول إلى التعليم العالي في إطار فعالية نظمت من خلال كليات سومرفيل ومانسفيلد في جامعة أكسفورد.
 
+{{< youtube uevVd6ws4b0 >}}
