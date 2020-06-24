@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Refugee Week Event"
+title = "Speaking up for Refugees Event with Somerville and Mansfield College of the University of Oxford"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media ="colonization.jpg"
+hero_media ="refugee.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -24,7 +24,7 @@ hero_media ="colonization.jpg"
   #gradient_end = "#2b94c3"
   
   # Background image.
-   #image = "colonization.jpg"  # Name of image in `static/img/`.
+   #image = "refugee.jpg"  # Name of image in `static/img/`.
    image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -35,17 +35,17 @@ hero_media ="colonization.jpg"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = ""
-  label = "Photo: Archival Photo - صوره ارشيفيه"
+  label = ""
   icon_pack = ""
   icon = ""
   
 [cta_alt]
   url = ""
-  label = "Photo: Archival Photo - صوره ارشيفيه"
+  label = ""
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = 'Photo: Archival Photo - صوره ارشيفيه'
+  label = ''
   
 [[item]]
 title = "My Title"
@@ -61,7 +61,7 @@ I am so honored and humbled to be able to say a few words about the importance o
 
 Also honored to be able to introduce our distinguished speakers Natasha Kaplinsky OBE and Lord Dubs. Baroness Jan Royall Principal of Somerville College and Helen Mountfield QC Principal of Mansfield College, Oxford, thank you so much for your great efforts and wonderful words.
 
-You can watch the video on Youtube here: https://www.youtube.com/watch?v=uevVd6ws4b0
+You can watch the video on Youtube [here](https://www.youtube.com/watch?v=uevVd6ws4b0)
 
 يشرفني كثيرًا أن اتمكن من قول بضع كلمات حول أهمية إتاحة الفرص للاجئين للوصول إلى التعليم العالي في إطار فعالية نظمت من خلال كليات سومرفيل ومانسفيلد في جامعة أكسفورد.
 
