@@ -33,6 +33,8 @@ My first post discusses my personal motivation for starting this [blog](https://
 "Growing up in the Middle East, specifically in Egypt, where economic inequality is a pressing problem, I have always wondered about the way to becoming an academic and get a top-class education. Academia seemed inaccessible, especially for Arab women.<br/>
 نشأت في الشرق الأوسط، وتحديداً في مصر، حيث  تمثل عدم المساواة الاقتصادية مشكلة ملحة. لطالما تساءلت كيف يمكن للمرء أن يصبح أكاديميًا ويحصل على تعليم عالي المستوى. بدت الأوساط الأكاديمية بعيدة المنال، خاصة بالنسبة للمرأة العربية.[Read more](https://www.ashrakatelshehawy.com/blog/)
 
+I am honored, to have said a few words recently about the importance of opportunities for refugees to access higher education, also to introduce our great speakers Natasha Kaplinsky OBE and Lord Dubs to the event "Stepping up for Refugees" organized by [Somerville College](https://www.some.ox.ac.uk/) and [Mansfield College](https://www.mansfield.ox.ac.uk/) of the [University of Oxford](http://www.ox.ac.uk/about).  [Read more and access the video](https://www.ashrakatelshehawy.com/blog/)
+
 Other posts include: Andalusia, Art and Architecture - الأندلس، الفن والعمارة
 
 
