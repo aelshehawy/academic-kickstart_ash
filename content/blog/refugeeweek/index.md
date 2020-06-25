@@ -19,8 +19,6 @@ weight = 1
 
 {{< figure library="1" src="refugee.png" >}}
 
-
-
 ## Event organized by Somerville and Mansfield Colleges of the University of Oxford
 I am so honored and humbled to be able to say a few words about the importance of providing refugees with opportunities to access higher education at an event organized by [Somerville College](https://www.some.ox.ac.uk/) and [Mansfield College](https://www.mansfield.ox.ac.uk/) of the [University of Oxford](www.ox.ac.uk).
 
