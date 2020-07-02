@@ -50,4 +50,5 @@ hero_media ="colonization.jpg"
 
 More information on my dissertation project will be updated soon. 
 
+{{< figure library="true" src="alexandria_map.png" title="Alexandria Map - Bibliothèque nationale de France" lightbox="true" >}}
 
