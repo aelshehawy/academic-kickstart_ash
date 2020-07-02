@@ -1,6 +1,6 @@
 +++
 title = "American Political Science Association Meeting - APSA"
-date = 2019-02-21T00:00:00  # Schedule page publish date.
+date = 2020-09-10T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
