@@ -24,13 +24,18 @@
   
 [[main]]
   name = "Research - أبحاثي"
-  url = "#hero"
+  url = "#publications"
   weight = 25
 
 [[main]]
   name = "Data - قواعد بيانات "
   url = "#projects"
   weight = 40
+  
+ [[main]]
+  name = "Dissertation - رسالتي"
+  url = "#hero"
+  weight = 42 
   
  [[main]]
   name = "Events - فعاليات "
