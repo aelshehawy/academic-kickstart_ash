@@ -28,7 +28,7 @@ weight = 70
 
 +++
 
-More information on my dissertation project will be updated soon
+More information on my dissertation project will be updated soon.
 
 {{< figure library="1" src="alexandria_map.png" title="Photo: Alexandria Map - Bibliothèque nationale de France " >}}
 
