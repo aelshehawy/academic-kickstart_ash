@@ -1,14 +1,17 @@
 +++
-# Hero widget.
-widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 70  # Order that this section will appear.
+# Custom widget.
+# An example of using the custom widget to create your own homepage section.
+# To create more sections, duplicate this file and edit the values below as desired.
+widget = "custom"
+active = true
+date = 2016-04-20T00:00:00
 
+# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "My Dissertation Project"
+subtitle = ""
 
-# Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media ="colonization.jpg"
+# Order that this section will appear in.
+weight = 70
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -22,33 +25,14 @@ hero_media ="colonization.jpg"
   # Background gradient.
   #gradient_start = "#4bb4e3"
   #gradient_end = "#2b94c3"
-  
-  # Background image.
-   #image = "colonization.jpg"  # Name of image in `static/img/`.
-   image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
-  # Text color (true=light or false=dark).
-  text_color_light = false
-
-# Call to action links (optional).
-#   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
-#   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = ""
-  label = "Photo: Archival Photo - صوره ارشيفيه"
-  icon_pack = ""
-  icon = ""
-  
-[cta_alt]
-  url = ""
-  label = "Photo: Archival Photo - صوره ارشيفيه"
-
-# Note. An optional note to show underneath the links.
-[cta_note]
-  label = 'Photo: Archival Photo - صوره ارشيفيه'
 +++
 
-More information on my dissertation project will be updated soon. 
+More information on my dissertation project will be updated soon
 
-{{< figure library="true" src="alexandria_map.png" title="Alexandria Map - Bibliothèque nationale de France" lightbox="true" >}}
+{{< figure library="1" src="alexandria_map.png" title="Photo: Alexandria Map - Bibliothèque nationale de France " >}}
+
+{{< figure library="1" src="tazahor.jpg" title="Photo: Archival Photo - صوره ارشيفيه" >}}
+
+
 
