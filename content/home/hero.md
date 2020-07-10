@@ -32,7 +32,7 @@ More information on my dissertation project will be updated soon.
 
 {{< figure library="1" src="alexandria_map.png" title="Photo: Alexandria Map - Bibliothèque nationale de France " >}}
 
-{{< figure library="1" src="tazahor.jpg" title="Photo: Archival Photo - صوره ارشيفيه" >}}
+{{< figure library="1" src="featured.jpg" title="Photo: Archival Photo - صوره ارشيفيه" >}}
 
 
 
