@@ -30,9 +30,9 @@ weight = 70
 
 More information on my dissertation project will be updated soon.
 
-{{< figure library="1" src="alex_map_bl.jpg" width="200" title="Photo: Alexandria Map - Bibliothèque nationale de France " >}}
+{{< figure library="1" src="alex_map_bl.jpg" width="500" title="Photo: Alexandria Map - Bibliothèque nationale de France " >}}
 
-{{< figure library="1" src="featured.jpg" width="200" title="Photo: Archival Photo - صوره ارشيفيه" >}}
+{{< figure library="1" src="featured.jpg" width="500" title="Photo: Archival Photo - صوره ارشيفيه" >}}
 
 
 
