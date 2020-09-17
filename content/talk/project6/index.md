@@ -9,15 +9,15 @@ draft = false
 #time_end = 2030-06-01T15:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-#authors = ["Ashrakat Elshehawy","Nikolay Marinov","Federico Nanni"]
+#authors = []
 
 # Abstract and optional shortened version.
-#abstract = "We use web-scraping and text-analysis techniques to identify cases in which the U.S. gov- ernment discussed democratization in other states, as well as considered or imposed foreign policy measures to affect liberalism abroad. We focus our search around periods surrounding foreign elections. Elections are important for democratization, and attract intense international scrutiny. We comb through more than 1.2 million documents contained in the Congressional Record and all congressional legislation, as well as the American Presidency Project. We utilize Natural Language Processing (NLP) approaches to extract all instances related to our search. The documents we retrieve represent the first measure of attention by U.S. Congress and the President to democratization and electoral practices abroad. Our approach improves considerably the precision, coverage and granularity of existing data. Democratization has been a prominent U.S. foreign policy goal yet researchers have been hampered by lack of ap- propriate tools to study the topic. Our data can be used as is, or further processed, to relate U.S. policy commitments to policy outcomes. We provide some examples. We utilize a set of best practices that, together with the data and code we supply, can be used by scholars in a wide variety of settings, to collect information on any policy response by a bureaucratic entity."
+#abstract = "
 #abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Tex Meth Conference of the Political Methodology Society"
-#event_url = "https://connect.apsanet.org/apsa2020/?utm_source=website&utm_medium=homepagebanner&utm_campaign=apsa2020virtual"
+event = "American Political Science Association Annual Meeting"
+#event_url = "https://www.apsanet.org/annualmeeting"
 
 # Location of event.
 location = "Virtual Meeting"
