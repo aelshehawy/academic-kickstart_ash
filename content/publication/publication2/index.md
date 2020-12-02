@@ -1,7 +1,7 @@
 
 +++
-title = "Why Obasanjo but Germany: the Leader vs. CountryDebate on the Floor of U.S. Congress"
-date = 2019-05-01T00:00:00
+title = "Why Obasanjo but Germany: the Leader vs. Country Debate on the Floor of U.S. Congress"
+date = 2020-12-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
