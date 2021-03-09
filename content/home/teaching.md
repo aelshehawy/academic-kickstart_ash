@@ -16,7 +16,8 @@ weight = 35
 
 +++
 ### Graduate:<br/>
-- **Applied Statistics for Political Scientists**<br/> Coding Sessions for the Lecture Statistical Methods for the Social Sciences <br/> by Prof. Robin Harding and Prof. Nelson A. Ruiz <br/> Department of Politics and International Relations <br/> University of Oxford <br/> Michaelmas Term 2020&2021<br/> <br/> 
+- - **Quantitative Text Analysis**<br/> Lead Instructure <br/> Department of Politics and International Relations <br/> University of Oxford <br/> Trinity Term (Spring Term) 2021<br/> <br/> 
+- **Applied Statistics for Political Scientists**<br/> Coding Sessions for the Lecture Statistical Methods for the Social Sciences <br/> by Prof. Robin Harding and Prof. Nelson A. Ruiz <br/> Department of Politics and International Relations <br/> University of Oxford <br/> Michaelmas Term (Fall Term) 2020&2021<br/> <br/> 
 - **Computational Text Analysis for Political Science**  <br/> Department of Political Science <br/> University of Houston <br/> [[Syllabus]](https://www.dropbox.com/s/zjeofcbphzgvjfi/Computational.pdf?dl=0)
 
 
