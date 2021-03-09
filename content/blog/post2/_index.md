@@ -11,7 +11,7 @@ title = ""
 subtitle = "Art and Architecture in Andalucia - الفن والعمارة في الأندلس"
 
 # Order that this section will appear in.
-weight = 3
+weight = 4
 
 
 +++
