@@ -18,7 +18,7 @@ authors = ["Ashrakat Elshehawy","Konstantin Gavras", "Nikolay Marinov", "Federic
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Under Review"
+publication = "Revise and Resubmit"
 publication_short = ""
 
 # Abstract and optional shortened version.
