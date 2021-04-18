@@ -19,7 +19,7 @@ authors = ["Ashrakat Elshehawy","Nikolay Marionv", "Federico Nanni","Ines Rehbei
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Working Paper"
+publication = "Under Review"
 publication_short = ""
 
 # Abstract and optional shortened version.
