@@ -23,7 +23,7 @@ featured: true
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Maps sources: On the left, the map is obtained from David Rumsey Map Collection, 1915 Alexandria map by Ministry of Finance Egypt. On the right, the map of 1930 is from New York Public Library by Pincus and Princess Firyal Map Division'
   focal_point: ""
   placement: 1
   preview_only: false
