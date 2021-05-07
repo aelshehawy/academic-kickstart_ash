@@ -11,7 +11,7 @@ title = "My Dissertation Project  "
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 70
+weight = 61
 
 [design.background]
   # Apply a background color, gradient, or image.
