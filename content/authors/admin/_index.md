@@ -22,6 +22,7 @@ bio:  My research interests incorporates prospects of comparative political econ
 
 interests:
 - Comparative Political Economy 
+- Historical Political Economy
 - Local Economic Development
 - Local Public Good Provision
 - Political Economy of Islam
