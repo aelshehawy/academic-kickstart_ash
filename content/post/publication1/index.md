@@ -30,7 +30,8 @@ image:
   preview_only: false
 
 authors:
-- admin
+- ["Ashrakat Elshehawy","Konstantin Gavras", "Nikolay Marinov", "Federico Nanni","Harald Schön"]
+
 
 
 tags:
