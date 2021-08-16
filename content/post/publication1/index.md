@@ -10,10 +10,10 @@ summary:
 projects: []
 
 # Date published
-date: "2021-08-16T00:00:00Z"
+date: "2021-08-15T00:00:00Z"
 
 # Date updated
-lastmod: "2021-08-16T00:00:00Z"
+lastmod: "2021-08-15T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -30,7 +30,7 @@ image:
   preview_only: false
 
 authors:
-- ["Ashrakat Elshehawy","Konstantin Gavras", "Nikolay Marinov", "Federico Nanni","Harald Schön"]
+- admin
 
 
 
