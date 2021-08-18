@@ -1,6 +1,6 @@
 
 +++
-title = "How Hybrid Regimes Use Propaganda for Election Interventions: The Refugee Crisis in Germany"
+title = "Illiberal Communication and Election Intervention During the Refugee Crisis in Germany. Accepted Perspective on Politics"
 date = 2020-05-01T00:00:00
 draft = false
 
@@ -19,11 +19,11 @@ authors = ["Ashrakat Elshehawy","Konstantin Gavras", "Nikolay Marinov", "Federic
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Revise and Resubmit"
-publication_short = ""
+publication = "Illiberal Communication and Election Intervention During the Refugee Crisis in Germany. Accepted Perspective on Politics. Perspective on Politics"
+publication_short = "Populist discourse - which tends to benefit anti-systemic parties - has been on the rise in the world’s democratic states. Powerful non-democratic states have both the means and the incentive to spread such discourse to democratic states. We clarify the incentives illiberal states have to produce such communication, and delineate how this type of political communication fuses traditional state-to-state propaganda with election interventions. We draw on the case of Kremlin- sponsored communication on the issue of refugees in Germany to illustrate the mechanisms though which the discourse operates in target countries. We create a corpus of over a million news stories to identify the prevalence of illiberal discourse and its timing relative to Germany’s elections. We show that the Kremlin intervened in the 2017 Federal elections by promoting refugee stories over and above the rate at which German outlets did. We discuss the broader implications for the use of directed political communication as a form of election intervention."
 
 # Abstract and optional shortened version.
-abstract = "We identify and theorize a new kind of election intervention, by hybrid regimes, in democracies, arising from state-to-state political communication. We argue that instabilities inherent in hybrid regimes cause them to generate a specific type for propaganda for domestic use, one emphasizing illiberal tenets and principles. This discourse is beneficial to populist and anti-systemic parties in democracies. Powerful hybrid regimes send abroad such communication in order to reap the benefits from a non-systemic political ecology in election-holding states. We find evidence for the argument in analysis of the refugee crisis in Germany, where we identify how political communication by Kremlin-sponsored media both aligned with and promoted issues close to the far-right populist AfD party, in a manner dependent on the local election calendar. We discuss the broader implications for this new type of international propaganda on election interventions and the rise of populism."
+abstract = "Populist discourse - which tends to benefit anti-systemic parties - has been on the rise in the world’s democratic states. Powerful non-democratic states have both the means and the incentive to spread such discourse to democratic states. We clarify the incentives illiberal states have to produce such communication, and delineate how this type of political communication fuses traditional state-to-state propaganda with election interventions. We draw on the case of Kremlin- sponsored communication on the issue of refugees in Germany to illustrate the mechanisms though which the discourse operates in target countries. We create a corpus of over a million news stories to identify the prevalence of illiberal discourse and its timing relative to Germany’s elections. We show that the Kremlin intervened in the 2017 Federal elections by promoting refugee stories over and above the rate at which German outlets did. We discuss the broader implications for the use of directed political communication as a form of election intervention."
 
 # Is this a selected publication? (true/false)
 selected = false
