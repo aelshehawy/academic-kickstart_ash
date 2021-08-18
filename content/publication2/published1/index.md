@@ -38,7 +38,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Refugees","NLP","Text-Analysis","Event-Analysis","Conspiracy Theories","Propaganda","Newspaper Articles"]
+tags = ["Refugees","NLP","Computational Text-Analysis","Event-Analysis","Conspiracy Theories","Propaganda","Newspaper Articles"]
 
 # Links (optional).
 url_pdf = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420248"
