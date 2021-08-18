@@ -41,7 +41,7 @@ projects = []
 tags = ["Historical Maps","Geo-Spatial Analysis","GIS"]
 
 # Links (optional).
-url_pdf = "https://apsamena.org/wp-content/uploads/2021/04/10.-Elshehawy_finalcorrections-FINAL.pdf"
+url_pdf = "https://apsamena.org/mena-politics-newsletter-41-spring-2021/"
 url_slides = ""
 url_video = ""
 url_code = ""
