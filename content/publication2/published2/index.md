@@ -66,4 +66,5 @@ math = false
   focal_point = ""
 +++
 
-
+Abstract:
+Historical	maps	contain	a	wealth	of	information.	They	enable	us	to	access	rare	data and	reveal	information that	would	have been	otherwise	lost in the archives.	Access	to	historical	maps	can	equip	scholars	of	the	politics	of	the	Middle	East	with	new	data sources	and	a	toolkit	that	allows	them to	address	many	unique	research	questions, ranging	from	implications	of	historical	conflict	to	the	roots	of	political	and	economic determinants	of	development	in	the	Middle	East.	Historical	maps	can	also	help	us understand	 the	infrastructure	 that	 historically	 helped	 social	movements	 develop	and	 the implications	 of	 different	 repression	 methods	 on	 the	 fabric	 of	 the	 city.	Recovering municipal	 and	 national	 boundaries	 and changes thereof (see Clark’s	contribution	 in	 this	 symposium)	 can	 prove	 extremely	 helpful	 to	 understanding	movement	and	migration	across time	and	space	and	 their	implications.	Historical	maps	can	further	be	highly	beneficial	for	research	in	the	field	of Historical	Political	Economy	when researchers	 face	 the	issue	 of	missing	 or	incomplete	 data	 sources	such	as	censuses
