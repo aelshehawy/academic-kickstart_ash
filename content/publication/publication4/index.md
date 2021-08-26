@@ -1,5 +1,5 @@
 +++
-title = "Heretics or Infedels Economic Sanctions and the Enforcement of Human Rights Standards"
+title = "Enforcement through Coercion: American Economic Sanctions and International Human Rights Standards"
 date = 2019-06-01T00:00:00
 draft = false
 
@@ -22,7 +22,7 @@ publication = "Working Paper"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "The United States uses economic sanctions more than any other power, and American policy makers cite human rights issues as the most frequent justification of sanctions.   International human rights standards, embodied in a range of treaties and institutions,  commit countries to observe a wide gamut of rights and freedoms.  We investigate whether, when and how U.S. sanctions help this emerging human rights regime.  Ideally, sanctions would hold  violators responsible, and would increase the cost of human rights abuses.  We develop a theoretical argument that distinguishes the incentives and capacity of Congress and the Presidency to sanction human rights violations.  We argue that agreement between the branches with an international human right standard is important in setting up the type of enforcement that is optimal for target compliance.  We also argue that international treaties make a difference, even absent such agreement.  We use a new database of U.S. economic sanctions to show that the U.S. has been enforcing international human rights standards in a manner that is perhaps surprisingly robust."
+abstract = "Though centralized enforcement of global human rights standards is weak, powerful states can act unilaterally to punish rights violations. Focusing on the United States, which is the most frequent "sender" of sanctions for human rights, we theorize how the incentives for sanctions differ across the legislative and executive branches of government, as well as how the legal foundation for sanctions vary across issue area. Employing a new fine-grained dataset of US economic coercion, we examine the conditions under which---and the consistency with which---the United States employs sanctions for human rights. We show that certain human rights issues, characterized by interbranch agreement and domestic policy externalities, give rise to systems of "dedicated" enforcement where violations are systematically monitored and punishment is more likely. In other more politically-contentious areas, US human rights enforcement is more ad hoc, but nevertheless responds at the margins to international legal commitments: when countries ratify certain certain global human rights treaties, they are more likely to be targeted by US sanctions in the event of rights violations."
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -41,6 +41,8 @@ tags = ["Sanctions","Text-Analysis"]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+url_pdf = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3790840"
+
 
 # Digital Object Identifier (DOI)
 doi = ""
