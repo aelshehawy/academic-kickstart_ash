@@ -23,7 +23,7 @@ publication = "Under Review"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "International relations research is animated by the notion that leaders matter. Existing approaches rely on proxies such as regime type to infer the importance of individuals. We propose a new measure, one based on leader mentions relative to country mentions in the relevant text. We construct the measure by scraping speeches made on the floor of U.S. Congress. We demonstrate the promise of our proposal by testing propositions developed in the study of election interventions. We show that policy divergence between the positions of candidates running in elections abroad gets them more noticed by Congress. We also show that leader mentions contain words associated with candidate interventions and concern with democracy. We demonstrate that as democracy matures, individual leader salience dims and opposition leaders catch up on visibility with incumbents. We make our software available to be used by researchers. Our method and measure can help advance research on the importance of leaders - and individuals - in politics more broadly."
 
 # Is this a selected publication? (true/false)
 selected = false
