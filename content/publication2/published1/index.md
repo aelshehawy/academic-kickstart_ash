@@ -2,7 +2,7 @@
 +++
 title = "Illiberal Communication and Election Intervention During the Refugee Crisis in Germany."
 date = 2020-05-01T00:00:00
-draft = true
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Ashrakat Elshehawy","Konstantin Gavras", "Nikolay Marinov", "Federico Nanni","Harald Schön"]
