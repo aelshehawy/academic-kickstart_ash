@@ -41,7 +41,6 @@ projects = []
 tags = ["Refugees","NLP","Computational Text-Analysis","Event-Analysis","Conspiracy Theories","Propaganda","Newspaper Articles"]
 
 # Links (optional).
-url_pdf = ""
 url_slides = ""
 url_video = ""
 url_code = ""
@@ -67,4 +66,4 @@ math = false
   focal_point = ""
 +++
 Accepted Perspective on Politics. <br>
-Abstract:  <br> Populist discourse - which tends to benefit anti-systemic parties - has been on the rise in the world’s democratic states. Powerful non-democratic states have both the means and the incentive to spread such discourse to democratic states. We clarify the incentives illiberal states have to produce such communication, and delineate how this type of political communication fuses traditional state-to-state propaganda with election interventions. We draw on the case of Kremlin- sponsored communication on the issue of refugees in Germany to illustrate the mechanisms though which the discourse operates in target countries. We create a corpus of over a million news stories to identify the prevalence of illiberal discourse and its timing relative to Germany’s elections. We show that the Kremlin intervened in the 2017 Federal elections by promoting refugee stories over and above the rate at which German outlets did. We discuss the broader implications for the use of directed political communication as a form of election intervention.
+Abstract: Populist discourse - which tends to benefit anti-systemic parties - has been on the rise in the world’s democratic states. Powerful non-democratic states have both the means and the incentive to spread such discourse to democratic states. We clarify the incentives illiberal states have to produce such communication, and delineate how this type of political communication fuses traditional state-to-state propaganda with election interventions. We draw on the case of Kremlin-sponsored communication on the issue of refugees in Germany to illustrate the mechanisms though which the discourse operates in target countries. We create a corpus of over a million news stories to identify the prevalence of illiberal discourse and its timing relative to Germany’s elections. We show that the Kremlin intervened in the 2017 Federal elections by promoting refugee stories over and above the rate at which German outlets did. We discuss the broader implications for the use of directed political communication as a form of election intervention.
