@@ -1,7 +1,7 @@
 
 +++
 title = "SASCAT: Natural Language Processing Approach to the Study of Economic Sanctions"
-date = 2020-05-01T00:00:00
+date = 2021-09-22T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
