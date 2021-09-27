@@ -24,7 +24,7 @@ external_link = ""
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3790866"
 url_slides = ""
 url_video = ""
 url_code = ""
@@ -48,4 +48,4 @@ url_code = ""
 Our project provides a new measure to be used by researchers interested in a complete and exhaustive data set of economic sanctions by the U.S. We use web-scraping and text-analysis techniques to collect a set of government documents where the U.S. Congress or President issued a sanction-related text on foreign nations or entities.  We employ supervised machine-learning to identify all documents connected to sanctions-activities by the U.S. and their associated violations. 
 We document the precise nature of the data-gathering process and code for each sanctions case a set of variables that provide comprehensive details, for example, about the senders, targets, issues, measures, conditionality, and trajectory. 
 
-
+**Recently, our paper decscribing the data and making it available, has been conditionally accepted at the Journal of Peace Research. You can read it on SSRN here https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3790866.**
