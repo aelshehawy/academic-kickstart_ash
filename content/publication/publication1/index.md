@@ -1,10 +1,10 @@
 +++
-title = "Quantifying Attention to Foreign Elections with Text Analysis of U.S. Congress and the Presidency"
+title = "How the US Electoral Cycle Affects Elections Around the World"
 date = 2019-05-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ashrakat Elshehawy","Nikolay Marionv", "Federico Nanni"]
+authors = ["Johannes Bubeck","Ashrakat Elshehawy","Nikolay Marionv", "Federico Nanni"]
 
 # Publication type.
 # Legend:
@@ -22,7 +22,7 @@ publication = "Working Paper"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "We use web-scraping and text-analysis techniques to identify cases in which the U.S. government discussed democratization in other states, as well as considered or imposed foreign policy measures to affect liberalism abroad. We focus our search around periods surrounding foreign elections. Elections are important for democratization, and attract intense international scrutiny. We comb through more than 1.2 million documents contained in the Congressional Record and all congressional legislation, as well as the American Presidency Project. We utilize Natural Language Processing (NLP) approaches to extract all instances related to our search. The documents we retrieve represent the first measure of attention by U.S. Congress and the President to democratization and electoral practices abroad. Our approach improves considerably the precision, coverage and granularity of existing data. Democratization has been a prominent U.S. foreign policy goal yet researchers have been hampered by lack of appropriate tools to study the topic. Our data can be used as is, or further processed, to relate U.S. policy commitments to policy outcomes. We provide some examples. We utilize a set of best practices that, together with the data and code we supply, can be used by scholars in a wide variety of settings, to collect information on any policy response by a bureaucratic entity."
+abstract = "We probe whether foreign elections held close to US ones feature more bias. We use a game to demonstrate that greater monitoring costs - due to US distractions - result in more cheating by foreign incumbents in equilibrium. Foreign incumbents, however, have no incentive to adjust their election cycle to match the US one. This suggests we can identify the relationship empirically. We proceed to develop a novel measure of monitoring. To that end, we scrape texts from Congress and the Presidency. We demonstrate that there is less attention to foreign elections when American polls are close. Next, we evaluate empirically the equilibrium prediction of more biased elections abroad as a result of less attention. We examine the universe of all 4,200 contests since 1945. We use an index of bias to show the prediction holds - for Presidential, and not midterm elections. We conclude that international pressure helps keep cheating incumbents in check."
 
 # Is this a selected publication? (true/false)
 selected = false
