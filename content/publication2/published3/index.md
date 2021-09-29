@@ -19,11 +19,11 @@ authors = ["Ashrakat Elshehawy", "Nikolay Marinov", "Federico Nanni","Jordan Tam
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Accepted at Journal of Peace Reseach"
+publication = "**Accepted at Journal of Peace Reseach**"
 publication_short = "Existing datasets of economic sanctions do not tend to take full advantage of government documents related to economic coercion.  They may miss some economic sanctions, and do not capture some important details in how measures are threatened, imposed and removed. The latter often have to do with the domestic politics in sender countries, and understanding them may be necessary to fully account for sanctions' effectiveness.  We present a natural-language processing (NLP) approach to retrieving sanctions-related government documents for the US case.  We collect all sanctions events originating in the office of the US President, and all Congressional sanctions, for 1988-2016.  Our approach has three advantages: (1) by design, it captures all sanctions-related documents; (2) the resulting data is disaggregated by imposing branch; (3) the data includes the original language of the measures. These features directly shed light on inter-branch delegation, domestic (partisan) conflict, and policy priorities."
 
 # Abstract and optional shortened version.
-abstract = "Accepted at Journal of Peace Reseach. <br> Existing datasets of economic sanctions do not tend to take full advantage of government documents related to economic coercion.  They may miss some economic sanctions, and do not capture some important details in how measures are threatened, imposed and removed. The latter often have to do with the domestic politics in sender countries, and understanding them may be necessary to fully account for sanctions' effectiveness.  We present a natural-language processing (NLP) approach to retrieving sanctions-related government documents for the US case.  We collect all sanctions events originating in the office of the US President, and all Congressional sanctions, for 1988-2016.  Our approach has three advantages: (1) by design, it captures all sanctions-related documents; (2) the resulting data is disaggregated by imposing branch; (3) the data includes the original language of the measures. These features directly shed light on inter-branch delegation, domestic (partisan) conflict, and policy priorities. "
+abstract = "**Accepted at Journal of Peace Reseach** <br> Existing datasets of economic sanctions do not tend to take full advantage of government documents related to economic coercion.  They may miss some economic sanctions, and do not capture some important details in how measures are threatened, imposed and removed. The latter often have to do with the domestic politics in sender countries, and understanding them may be necessary to fully account for sanctions' effectiveness.  We present a natural-language processing (NLP) approach to retrieving sanctions-related government documents for the US case.  We collect all sanctions events originating in the office of the US President, and all Congressional sanctions, for 1988-2016.  Our approach has three advantages: (1) by design, it captures all sanctions-related documents; (2) the resulting data is disaggregated by imposing branch; (3) the data includes the original language of the measures. These features directly shed light on inter-branch delegation, domestic (partisan) conflict, and policy priorities. "
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -65,7 +65,7 @@ math = false
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-Accepted at Journal of Peace Reseach. <br> 
+**Accepted at Journal of Peace Reseach** <br> 
 Existing datasets of economic sanctions do not tend to take full advantage of government documents related to economic coercion.  
 They may miss some economic sanctions, and do not capture some important details in how measures are threatened, imposed and removed. 
 The latter often have to do with the domestic politics in sender countries, and understanding them may be necessary to fully account for sanctions' effectiveness.
