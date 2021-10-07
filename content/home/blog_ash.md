@@ -3,7 +3,7 @@
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
-active = true
+active = false
 date = 2016-04-20T00:00:00
 weight = 100  # Order that this section will appear in.
 headless = true  # This file represents a page section.
