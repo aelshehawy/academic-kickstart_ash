@@ -1,6 +1,6 @@
 +++
 title = "Women in Political Methodology Speaker Series"
-date = 2021-02-18T00:00:00  # Schedule page publish date.
+date = 2021-10-07T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
