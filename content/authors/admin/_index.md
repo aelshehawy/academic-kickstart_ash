@@ -93,7 +93,7 @@ I am a doctoral student at the Department of Politics and International Relation
 
 My research interests lie in the field of comparative political economy. I focus on aspects related to economic history of state-institutions, local public good provision, informal social-welfare, and the political economy of Islamic institutions, with a regional focus of the Middle East. My research also draws on questions related to the politics of information, and how foreign policy tools, such as economic sanctions, interact with domestic politics. 
 
-I am very interested in generating new sources of data that reveal valuable infromation that would be otherwise lost in the archives. I work on digitizing historical maps and several sources of archival data, other than that I am extremely interested in employing methods of Computational Text Analysis and Natural Language Processing on corpora of Arabic, German, English, and French texts.
+I am very interested in generating new sources of data that reveal valuable infromation that would be otherwise lost in the archives. I work on digitizing historical maps, textual data, and several sources of archival data; other than that I am extremely interested in employing methods of Computational Text Analysis and Natural Language Processing on corpora of Arabic, German, English, and French texts.
 
 I have been born and raised in the beautiful city Alexandria, Egypt. I am a former professional swimmer for the Egyptian Swimming National Team, for which I competed professionally for several years. I still find myself thinking more clearly while doing all those endless laps at the pool. I enjoy reading about Islamic Art and Architecture.
 
