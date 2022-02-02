@@ -14,7 +14,7 @@ role: Doctoral Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Oxford
+- name: University of Oxford & Yale University
   url: "http://www.ox.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
@@ -89,7 +89,7 @@ user_groups:
 
 ---
 
-I am a doctoral student at the Department of Politics and International Relations at the University of Oxford. Before Oxford, I studied at Mannheim and was a pre-doc/visiting scholar at the University of Houston.
+Currently, I am a visiting PhD student at Yale! I am a doctoral student at the Department of Politics and International Relations at the University of Oxford. Before Oxford, I studied at Mannheim and was a pre-doc/visiting scholar at the University of Houston.
 
 My research interests lie in the field of comparative political economy. I focus on aspects related to economic history of state-institutions, local public good provision, informal social-welfare, and the political economy of Islamic institutions, with a regional focus of the Middle East. My research also draws on questions related to the politics of information, and how foreign policy tools, such as economic sanctions, interact with domestic politics. 
 
