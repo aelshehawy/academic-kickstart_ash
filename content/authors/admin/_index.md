@@ -35,6 +35,9 @@ education:
   courses:
   - course: DPhil (PhD) in Politics
     institution: University of Oxford
+    year: 2023
+  - course: Visiting Doctoral Student
+    institution: Yale University
     year: 2022
   - course: MA in Political Science (Advanced Quantitative Methods)
     institution: University of Mannheim 
@@ -45,9 +48,7 @@ education:
   - course: Visiting Undergraduate Student 
     institution: Trinity College Dublin
     year: 2015
-  - course: German Abitur
-    institution: Deutsche Schule der Borromaerinnen Alexandria DSBA
-    year: 2013
+
 
 
 # Social/Academic Networking
