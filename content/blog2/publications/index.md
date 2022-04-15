@@ -22,6 +22,6 @@ weight = 2
 
 2. [SASCAT: Natural Language Processing Approach to the Study of Economic Sanctions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3790866). _Accepted at Journal of Peace Research_. 2021. (with  Federico Nanni, Nikolay Marinov, and Jordan Tama)
 
-# H2 ** Other Published Work**:
+# H2 **Other Published Work**:
 
 1. 
