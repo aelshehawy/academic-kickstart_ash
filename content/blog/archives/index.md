@@ -17,13 +17,14 @@ weight = 1
 +++
 
 
-{{< figure library="1" src="bib_alex.png" >}}
+{{< figure library="1" src="bib_alex.jpg" >}} 
+Bibliotheca Alexandrina, Egypt
 
 
 {{< figure library="1" src="ash_yale.JPG" >}}
+Beincke Library, Yale, New Haven, USA
 
 
 {{< figure library="1" src="alex_map.png" >}}
+Oxford University, Oxford, UK
 
-
-{{< figure library="1" src="harvard_stacks.JPG" >}}
