@@ -25,6 +25,6 @@ Bibliotheca Alexandrina, Egypt
 Beincke Library, Yale, New Haven, USA
 
 
-{{< figure library="1" src="alex_map.png" >}}
+{{< figure library="1" src="alexmap.jpg" >}}
 Oxford University, Oxford, UK
 
