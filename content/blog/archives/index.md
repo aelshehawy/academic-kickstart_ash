@@ -17,6 +17,13 @@ weight = 1
 +++
 
 
-{{< figure library="1" src="bib_alex.HEIC" >}}
+{{< figure library="1" src="bib_alex.png" >}}
 
 
+{{< figure library="1" src="ash_yale.JPG" >}}
+
+
+{{< figure library="1" src="alex_map.png" >}}
+
+
+{{< figure library="1" src="harvard_stacks.JPG" >}}
