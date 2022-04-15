@@ -53,7 +53,7 @@
   weight = 70  # Position of the link in the navigation bar.
   
   [[main]]
-  name = "b "  # Title of the link.
+  name = "hello"  # Title of the link.
   url = "blog2/"  # Widget Page folder name.
   weight = 80  # Position of the link in the navigation bar.
 
