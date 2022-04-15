@@ -16,22 +16,14 @@ weight = 1
 
 +++
 
-
-{{< figure library="1" src="bib_alex.jpg" >}} 
-Bibliotheca Alexandrina, Egypt
-
-
 {{< figure library="1" src="ash_yale.JPG" >}}
 Beinecke Rare Book and Manuscript Library, Yale, New Haven, USA
 
-
-{{< figure library="1" src="alexmap.jpg" >}}
-Weston Library, Oxford University, Oxford, UK
 
 {{< figure library="1" src="harvard_stacks.JPG" >}}
 Widener Library Stacks, Harvard University, Cambrdige, USA
 
 
-Solarized dark             |  Solarized Ocean
+Weston Library, Oxford University, Oxford, UK           |  Bibliotheca Alexandrina, Egypt
 :-------------------------:|:-------------------------:
-![]{{< figure library="1" src="bib_alex.jpg" >}}   |  ![]{{< figure library="1" src="ash_yale.JPG" >}}
+{{< figure library="1" src="bib_alex.jpg" >}}   |  {{< figure library="1" src="alexmap.jpg" >}}
