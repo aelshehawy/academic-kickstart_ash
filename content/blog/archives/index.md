@@ -22,9 +22,11 @@ Bibliotheca Alexandrina, Egypt
 
 
 {{< figure library="1" src="ash_yale.JPG" >}}
-Beincke Library, Yale, New Haven, USA
+Beinecke Rare Book and Manuscript Library, Yale, New Haven, USA
 
 
 {{< figure library="1" src="alexmap.jpg" >}}
-Oxford University, Oxford, UK
+Weston Library, Oxford University, Oxford, UK
 
+{{< figure library="1" src="harvard_stacks.JPG" >}}
+Widener Library Stacks, Harvard University, Cambrdige, USA
