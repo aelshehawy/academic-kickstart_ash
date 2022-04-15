@@ -51,6 +51,11 @@
   name = "Blog مدونتي "  # Title of the link.
   url = "blog/"  # Widget Page folder name.
   weight = 70  # Position of the link in the navigation bar.
+  
+  [[main]]
+  name = "b "  # Title of the link.
+  url = "blog2/"  # Widget Page folder name.
+  weight = 80  # Position of the link in the navigation bar.
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
