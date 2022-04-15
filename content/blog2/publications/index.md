@@ -16,16 +16,13 @@ weight = 2
 
 +++
 
+# H2 **Peer-Reviewed Articles**:
 
-{{< figure library="1" src="refugee.png" >}}
+1. 
+[Illiberal Communication and Election Intervention During the Refugee Crisis in Germany.](https://www.cambridge.org/core/journals/perspectives-on-politics/article/illiberal-communication-and-election-intervention-during-the-refugee-crisis-in-germany/67D75BA42AD1EC04109A80F711A0A882). _Perspectives on Politics_. 2021. (with Konstantin Gavras, Federico Nanni, Nikolay Marinov, and Harald Schoen)
 
-## Event organized by Somerville and Mansfield Colleges of the University of Oxford
-I am so honored and humbled to be able to say a few words about the importance of providing refugees with opportunities to access higher education at an event organized by [Somerville College](https://www.some.ox.ac.uk/) and [Mansfield College](https://www.mansfield.ox.ac.uk/) of the [University of Oxford](www.ox.ac.uk).
+2. [SASCAT: Natural Language Processing Approach to the Study of Economic Sanctions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3790866). _Accepted at Journal of Peace Research_. 2021. (with  Federico Nanni, Nikolay Marinov, and Jordan Tama)
 
-Also honored to be able to introduce our distinguished speakers Natasha Kaplinsky OBE and Lord Dubs. Baroness Jan Royall Principal of Somerville College and Helen Mountfield QC Principal of Mansfield College, Oxford, thank you so much for your great efforts and wonderful words.
+# H2 ** Other Published Work**:
 
-**Watch the video below**
-
-يشرفني كثيرًا أن اتمكن من قول بضع كلمات حول أهمية إتاحة الفرص للاجئين للوصول إلى التعليم العالي في إطار فعالية نظمت من خلال كليات سومرفيل ومانسفيلد في جامعة أكسفورد.
-
-{{< youtube uevVd6ws4b0 >}}
+1. 
