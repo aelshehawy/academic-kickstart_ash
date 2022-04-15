@@ -18,8 +18,7 @@ weight = 2
 
 # H2 **Peer-Reviewed Articles**:
 
-1. 
-[Illiberal Communication and Election Intervention During the Refugee Crisis in Germany.](https://www.cambridge.org/core/journals/perspectives-on-politics/article/illiberal-communication-and-election-intervention-during-the-refugee-crisis-in-germany/67D75BA42AD1EC04109A80F711A0A882). _Perspectives on Politics_. 2021. (with Konstantin Gavras, Federico Nanni, Nikolay Marinov, and Harald Schoen)
+1. [Illiberal Communication and Election Intervention During the Refugee Crisis in Germany.](https://www.cambridge.org/core/journals/perspectives-on-politics/article/illiberal-communication-and-election-intervention-during-the-refugee-crisis-in-germany/67D75BA42AD1EC04109A80F711A0A882). _Perspectives on Politics_. 2021. (with Konstantin Gavras, Federico Nanni, Nikolay Marinov, and Harald Schoen)
 
 2. [SASCAT: Natural Language Processing Approach to the Study of Economic Sanctions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3790866). _Accepted at Journal of Peace Research_. 2021. (with  Federico Nanni, Nikolay Marinov, and Jordan Tama)
 
