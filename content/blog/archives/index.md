@@ -30,3 +30,8 @@ Weston Library, Oxford University, Oxford, UK
 
 {{< figure library="1" src="harvard_stacks.JPG" >}}
 Widener Library Stacks, Harvard University, Cambrdige, USA
+
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![]{{< figure library="1" src="bib_alex.jpg" >}}   |  ![]{{< figure library="1" src="ash_yale.JPG" >}}
