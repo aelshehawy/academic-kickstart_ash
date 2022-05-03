@@ -1,5 +1,5 @@
 +++
-title = "Legislating Coercion: Congress, the President and the Design of U.S. Sanctions"
+title = "Binding Hands or Granting Discretion: Congress, the President, and the Design of Economic Sanctions"
 date = 2019-06-01T00:00:00
 draft = false
 
@@ -22,7 +22,7 @@ publication = "Working Paper"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "In this paper, we study how Congress makes its voice heard in American foreign policy in the area of economic statecraft. Unlike the President, who can alter sanctions policy with the stroke of a pen, Congress cannot change legislation easily in the face of difficulty to anticipate future contingencies. Congress may be able to craft detailed legislation. Congress can also try to allow the President more discretion on the final decision on sanctions. We would predict that when legislation involves more future uncertainty, Congress is more likely to build-in clauses allowing the President flexibility. We also predict that in cases Congress wants to deter future challenges to policy, and to send a signal to governments contemplating some behavior, it will be less likely to offer discretion to the President. Finally, where undermining Presidential bargaining powers can have grave consequences, such as in issues of terrorism, Congress is more likely to defer to the President. We use web-scraping and text-analysis techniques to identify cases where the U.S. Congress or President discussed or imposed sanctions on foreign nations or entities. We use this dataset to study how Congress designs economic sanctions."
+abstract = "Prior scholarship on the role of the U.S. Congress in sanctions policy making has highlighted how sanctions legislating is shaped by domestic political pressures. We move beyond a focus on interest groups, public opinion, and electoral incentives while investigating an important but underappreciated dimension of sanctions legislation – whether and how legislation grants the executive branch discretion regarding its implementation. We explain how deterrence objectives, treaty commitments, signaling concerns, and the uncertainties and trade-offs associated with different issues influence the degree and type of flexibility provided to the executive branch in sanctions legislation. We test hypotheses derived from this argument with evidence from a novel data set, created directly from the complete corpus of U.S. government documents dealing with sanctions from 1988-2016. Our analysis also has important implications for research on the effectiveness of sanctions, high- lighting the importance of taking into account underappreciated legislative design features when evaluating the success or failure of this commonly used policy tool."
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -43,6 +43,7 @@ tags = ["Sanctions","Text-Analysis"]
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 
 # Digital Object Identifier (DOI)
+pdf ="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3708586"
 doi = ""
 
 # Does this page contain LaTeX math? (true/false)
