@@ -1,6 +1,6 @@
 +++
-title = "How the US Electoral Cycle Affects Elections Around the World"
-date = 2019-05-01T00:00:00
+title = "The Importance of a Liberal Power’s Attention to Democratic Elections Around the World"
+date = 2022-05-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -22,7 +22,7 @@ publication = "Working Paper"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "We probe whether foreign elections held close to US ones feature more bias. We use a game to demonstrate that greater monitoring costs - due to US distractions - result in more cheating by foreign incumbents in equilibrium. Foreign incumbents, however, have no incentive to adjust their election cycle to match the US one. This suggests we can identify the relationship empirically. We proceed to develop a novel measure of monitoring. To that end, we scrape texts from Congress and the Presidency. We demonstrate that there is less attention to foreign elections when American polls are close. Next, we evaluate empirically the equilibrium prediction of more biased elections abroad as a result of less attention. We examine the universe of all 4,200 contests since 1945. We use an index of bias to show the prediction holds - for Presidential, and not midterm elections. We conclude that international pressure helps keep cheating incumbents in check."
+abstract = "We introduce the concept of monitoring costs to the study of international affairs: when the agenda of powerful states is crowded, other states can get away with behavior the powerful state would otherwise sanction. Our example focuses on the US as a liberal power promoting democratic elections. We use a game to demonstrate that greater monitoring costs by the `supervising' liberal power result in more cheating by foreign incumbents. The relationship holds as long as the US cares at least to some extent about democracy and the foreign state depends on the US. We proceed to develop a novel measure of monitoring by scraping relevant texts from Congress and the Presidency. We use the US domestic election cycle as a source of variation to monitoring costs. Because they need to focus on re-election, American policy-makers have less effort to devote to other policy objectives. We use our novel measure to demonstrate that there is less attention to foreign elections when American polls are proximate in time. We evaluate empirically the equilibrium prediction of more biased elections abroad as a result of less attention. We examine the universe of all 4,200 contests held between 1945 and 2020. We construct an index of bias to show the prediction holds: Presidential elections in the US are associated with more biased elections abroad. We conclude that international pressure may keep cheating incumbents in check."
 
 # Is this a selected publication? (true/false)
 selected = false
