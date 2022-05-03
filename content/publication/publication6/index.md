@@ -43,7 +43,7 @@ tags = ["Sanctions","Text-Analysis"]
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 
 # Digital Object Identifier (DOI)
-pdf ="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3708586"
+url_pdf  ="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3708586"
 doi = ""
 
 # Does this page contain LaTeX math? (true/false)
