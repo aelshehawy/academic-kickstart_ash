@@ -18,7 +18,8 @@ organizations:
   url: "http://www.ox.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio:  My research interests incorporates prospects of comparative political economy of the Middle East.  I focus on aspects related to economic history of state-institutions, local public good provision, informal social-welfare, and the political economy of Islamic institutions, with a regional focus of the Middle East. My research also draws on questions about how foreign policy tools, such as economic sanctions, interact with domestic politics. I am extremely interested in investigating aspects of the politics of information using methods of NLP and computational text analysis. 
+bio:  
+My research focuses on two topics 1) Political Economy of Development and 2) the Foreign Influence on Domestic Politics. I focus on aspects related to economic history of the local development of public good provision, informal social-welfare, and the political economy of Islamic institutions. My research also draws on questions related to the politics of information, and how foreign policy tools, such as economic sanctions, interact with domestic politics. Methodologically, I am very interested in generating new sources of quantitative data that reveal valuable infromation that would be otherwise lost in the archives. My work incorporates retrieval and digitalization of historical maps, textual data, and several other sources of archival data; other than that my work employs methods of Computational Text Analysis and Natural Language Processing on corpora of Arabic, German, English, and French texts.
 
 interests:
 - Comparative Political Economy 
@@ -90,7 +91,7 @@ user_groups:
 
 Currently, I am a visiting PhD student at Yale! I am a doctoral student at the Department of Politics and International Relations at the University of Oxford. Before Oxford, I studied at Mannheim focusing on Advanced Quantitative Methods in Political Science. I was a pre-doc/visiting scholar at the University of Houston before starting my PhD.
 
-My research focuses on two topics 1) Political Economy of Development and the 2) Foreign Influence on Domestic Politics. I focus on aspects related to economic history of the local development of public good provision, informal social-welfare, and the political economy of Islamic institutions. My research also draws on questions related to the politics of information, and how foreign policy tools, such as economic sanctions, interact with domestic politics. 
+My research focuses on two topics 1) Political Economy of Development and 2) the Foreign Influence on Domestic Politics. I focus on aspects related to economic history of the local development of public good provision, informal social-welfare, and the political economy of Islamic institutions. My research also draws on questions related to the politics of information, and how foreign policy tools, such as economic sanctions, interact with domestic politics. 
 
 Methodologically, I am very interested in generating new sources of quantitative data that reveal valuable infromation that would be otherwise lost in the archives. My work incorporates retrieval and digitalization of historical maps, textual data, and several other sources of archival data; other than that my work employs methods of Computational Text Analysis and Natural Language Processing on corpora of Arabic, German, English, and French texts.
 
