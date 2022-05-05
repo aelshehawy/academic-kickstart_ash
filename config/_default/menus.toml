@@ -26,6 +26,11 @@
   name = "Research أبحاثي"
   url = "#publication2"
   weight = 25
+  
+  [[main]]
+  name = "Teaching التدريس"
+  url = "#teaching"
+  weight = 30
 
 [[main]]
   name = "Data قواعد بيانات "
