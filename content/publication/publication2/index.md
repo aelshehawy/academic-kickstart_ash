@@ -1,6 +1,6 @@
 
 +++
-title = "Seeing the Person for the Country? Foreign Leader Salience on the US Congress Floor"
+title = "Named-Entity Recognition with Application to Foreign Leader Mentions in Congressional Speeches"
 date = 2020-12-01T00:00:00
 draft = false
 
@@ -23,7 +23,7 @@ publication = "Under Review"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Why do country leaders assume greater salience to outsiders in some - but not other, cases in international relations? The election interventions literature has argued that when the policy positions of candidates running in elections grow further apart, outsiders are more likely to back the candidates they find most congruent, by using direct support of a candidate (via promises of aid, for example) or by calibrating support for democratic processes in a country to make the victory of the preferred candidate more likely. We build on this research agenda to argue that policy polarization in a country will increase the salience of individual leaders to outside actors: it now literally makes a difference who will be in power. Noticing - and supporting leaders - becomes important. We test our argument about leader salience by scraping speeches made on the floor of U.S. Congress. We show that policy divergence between the positions of candidates running in elections abroad gets them more personal recognition in Congress. We also show that leader mentions contain words that are associated with an interest in helping foreign leaders get elected. Our method and measure can help advance research on the importance of individuals in politics more broadly."
+abstract = "We introduce Named-Entity Recognition (NER), a semantic tool in Natural Language Pro- cessing (NLP), as an approach to extract leader names from a corpus of political text. Iden- tifying references to named entities allows us to use the significant power of text analysis to advance research how and why these entities matter. We offer an algorithm on how to identify leader names and software to help researchers. As an illustration of our approach, we look at the Congressional record. We identify mentions of political leaders running in foreign elections - incumbent leaders and main opposition candidates. We show that Congressional mentions of foreign leaders reflects the positions foreign leaders assume on relations with the U.S., and convey an interest in supporting candidates and democracy. This confirms and extends exist- ing research, while demonstrating the utility of using NER in political science research more generally."
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -38,7 +38,7 @@ projects = [""]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Sanctions","Text-Analysis"]
+tags = ["Sanctions","Text-Analysis","NER","Quantitative Methods","NLP"]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
