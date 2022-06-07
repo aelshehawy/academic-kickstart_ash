@@ -35,7 +35,7 @@ selected = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Middle East","Political Economy",""]
+tags = ["Middle East","Political Economy"]
 
 # Links (optional).
 #url_pdf = ""
