@@ -27,30 +27,30 @@
   url = "#publication2"
   weight = 25
   
-  [[main]]
-  name = "Teaching التدريس"
-  url = "#teaching"
-  weight = 30
+ [[main]]
+  name = "Dissertation رسالتي"
+  url = "#hero"
+  weight = 30 
 
 [[main]]
   name = "Data قواعد بيانات "
   url = "#projects"
   weight = 40
   
- [[main]]
-  name = "Dissertation رسالتي"
-  url = "#hero"
-  weight = 42 
+    [[main]]
+  name = "Teaching التدريس"
+  url = "#teaching"
+  weight = 45
   
  [[main]]
   name = "Events فعاليات "
   url = "#talks"
-  weight = 45
+  weight = 50
 
 [[main]]
   name = "Contact للتواصل معي "
   url = "#contact"
-  weight = 50
+  weight = 60
   
  [[main]]
   name = "Blog مدونتي "  # Title of the link.
