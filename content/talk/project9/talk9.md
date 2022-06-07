@@ -1,18 +1,18 @@
 +++
 title = "Association of Analytic Learning about Islam and Muslim Societies 2022"
-date = 2021-10-07T00:00:00  # Schedule page publish date.
+date = 2022-04-08T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-#time_start = 2021-10-13T07:00:00
-#time_end = 2021-10-13T10:00:00
+#time_start = 2022-04-08T07:00:00
+#time_end = 2022-04-09T10:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Ashrakat Elshehawy"]
 
 # Abstract and optional shortened version.
-abstract = "Illiberal Communication and Election Intervention During the Refugee Crisis in Germany"
+abstract = ""
 #abstract_short = ""
 
 # Name of event and optional event URL.
