@@ -16,7 +16,7 @@ weight = 1
 
 +++
 
-{{< figure library="1" src="ash_yale.JPG" >}}
+{{< figure library="1" src="ash_yale.JPG" width="100" height="100" >}}
 Beinecke Rare Book and Manuscript Library, Yale, New Haven, USA
 
 
