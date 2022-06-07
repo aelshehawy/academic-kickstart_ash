@@ -20,6 +20,6 @@ weight = 1
 Beinecke Rare Book and Manuscript Library, Yale, New Haven, USA
 
 
-Widener Library Stacks, Harvard |Weston Library, Oxford  |  Bibliotheca Alexandrina, Egypt
+Widener Library Stacks, Harvard |Bibliotheca Alexandrina, Egypt  |  Weston Library, Oxford
 :-------------------------:|:-------------------------:|:-------------------------:
 {{< figure library="1" src="harvard_stacks.JPG">}}| {{< figure library="1" src="bib_alex.jpg" >}}   |  {{< figure library="1" src="alexmap.jpg" >}}
