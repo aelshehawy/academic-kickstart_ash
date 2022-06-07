@@ -1,5 +1,5 @@
 +++
-title = "Women in Political Methodology Speaker Series"
+title = "Association of Analytic Learning about Islam and Muslim Societies 2022"
 date = 2021-10-07T00:00:00  # Schedule page publish date.
 draft = false
 
@@ -9,7 +9,7 @@ draft = false
 #time_end = 2021-10-13T10:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ashrakat Elshehawy", "Konstantin Gavras", "Nikolay Marinov", "Federico Nanni", "Harald Schoen"]
+authors = ["Ashrakat Elshehawy"]
 
 # Abstract and optional shortened version.
 abstract = "Illiberal Communication and Election Intervention During the Refugee Crisis in Germany"
