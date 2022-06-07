@@ -20,7 +20,7 @@ event = "Association of Analytic Learning about Islam and Muslim Societies 2022"
 #event_url = "https://aalims.org/aalims-princeton-conference-on-the-political-economy-of-the-muslim-world-2/"
 
 # Location of event.
-location = "Virtual Event"
+location = "Princeton University"
 
 # Is this a selected talk? (true/false)
 selected = false
