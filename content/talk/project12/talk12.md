@@ -18,7 +18,7 @@ abstract = "**Named-Entity Recognition with Application to Foreign Leader Mentio
 
 # Name of event and optional event URL.
 event = "PolMeth Europe 2022"
-#event_url = ""
+#event_url = "https://polmeth-europe.github.io/"
 
 # Location of event.
 location = "University of Hamburg, Germany"
