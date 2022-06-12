@@ -12,9 +12,14 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Ashrakat Elshehawy"]
 
+
 # Abstract and optional shortened version.
-abstract = "We introduce Named-Entity Recognition (NER), a semantic tool in Natural Language Pro- cessing (NLP), as an approach to extract leader names from a corpus of political text. Iden- tifying references to named entities allows us to use the significant power of text analysis to advance research how and why these entities matter. We offer an algorithm on how to identify leader names and software to help researchers. As an illustration of our approach, we look at the Congressional record. We identify mentions of political leaders running in foreign elections - incumbent leaders and main opposition candidates. We show that Congressional mentions of foreign leaders reflects the positions foreign leaders assume on relations with the U.S., and convey an interest in supporting candidates and democracy. This confirms and extends exist- ing research, while demonstrating the utility of using NER in political science research more generally"
+abstract = "**Named-Entity Recognition with Application to Foreign Leader Mentions in Congressional Speeches** <br> Ashrakat Elshehawy (Oxford), Ines Rehbein (Mannheim), Nikolay Marinov (U Houston), Federico Nanni (Alan Turing Institute) <br> We introduce Named-Entity Recognition (NER), a semantic tool in Natural Language Processing (NLP), as an approach to extract leader names from a corpus of political text. Identifying references to named entities allows us to use the significant power of text analysis to advance research how and why these entities matter. We offer an algorithm on how to identify leader names and software to help researchers. As an illustration of our approach, we look at the Congressional record. We identify mentions of political leaders running in foreign elections - incumbent leaders and main opposition candidates. We show that Congressional mentions of foreign leaders reflects the positions foreign leaders assume on relations with the U.S., and convey an interest in supporting candidates and democracy. This confirms and extends exist- ing research, while demonstrating the utility of using NER in political science research more generally"
 #abstract_short = ""
+
+
+
+
 
 # Name of event and optional event URL.
 event = "Politics and Computational Social Science (PaCSS) Conference 2022"
@@ -22,6 +27,7 @@ event = "Politics and Computational Social Science (PaCSS) Conference 2022"
 
 # Location of event.
 location = "Harvard"
+
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -31,11 +37,11 @@ selected = false
 #   Simply enter your project's filename without extension.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-#projects = [""]
+#projects = ["NER"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["NER","Quantitative Text Analysis","NLP","Machine-Learning"]
+tags = ["NER","Quantitative Text Analysis","NLP","Named-Entity Recognition","Electral Intervention","Congress"]
 
 # Links (optional).
 #url_pdf = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3790847"
