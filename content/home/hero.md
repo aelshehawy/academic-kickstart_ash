@@ -35,4 +35,4 @@ Evidence from 19th & early 20th century Egypt
 
 ![trimmedalex_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/32126519/172069327-c2829164-6905-4c3b-9908-8b77b55ef21e.gif)
 
-<img src="https://user-images.githubusercontent.com/32126519/172069327-c2829164-6905-4c3b-9908-8b77b55ef21e.gif" width="300" height="300" />
+<img src="https://user-images.githubusercontent.com/32126519/172069327-c2829164-6905-4c3b-9908-8b77b55ef21e.gif" width="250" height="250" />
