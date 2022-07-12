@@ -14,7 +14,7 @@ role: Doctoral Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Oxford & Yale University
+- name: University of Oxford 
   url: "http://www.ox.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
@@ -90,11 +90,11 @@ user_groups:
 
 I am a doctoral student at the Department of Politics and International Relations at the University of Oxford. I was recently a visiting PhD student at Yale. Before Oxford, I studied at Mannheim focusing on Advanced Quantitative Methods in Political Science. I was a pre-doc/visiting scholar at the University of Houston before starting my PhD.
 
-My research focuses on the _Political Economy of Development_ and _Foreign Influence on Domestic Politics_. I focus on aspects related to foreign influence on local economic development, economic history of the local development of public good provision, informal social-welfare, and the political economy of Islamic institutions. My research also draws on questions related to the politics of information, and how foreign influence interacts with domestic politics. 
+My research focuses on the _Political Economy of Development_. I focus on aspects related to foreign influence on local economic development, economic history of the local development of public good provision, informal social-welfare, and the political economy of Islamic institutions. My research also draws on questions related to the _Politics of Information_, and _Effects of Foreign Influence on Domestic Politics_. 
 
-Methodologically, I am very interested in generating new sources of quantitative data that reveal valuable infromation that would be otherwise lost in the archives. My work incorporates retrieval and digitalization of historical maps, textual data, and several other sources of archival data; other than that my work employs methods of Computational Text Analysis and Natural Language Processing on corpora of Arabic, German, English, and French texts.
+Methodologically, I am very interested in generating new sources of quantitative data that reveal valuable infromation that would be otherwise lost in the archives. My work incorporates retrieval and digitalization of historical maps, textual data, and several other sources of archival data; other than that my work employs and expands methods of Computational Text Analysis and Natural Language Processing using corpora of Arabic, German, English, and French texts.
 
-My work has been published or is forthcoming at the _Journal of Politics_, _Perspectives on Politics_, and _Journal of Peace Research_.
+My research has been published or is forthcoming at the _Journal of Politics_, _Perspectives on Politics_, and _Journal of Peace Research_.
 
 I am a former professional swimmer for the Egyptian Swimming National Team, for which I competed professionally for several years. I still find myself thinking more clearly while doing all those endless laps at the pool. I enjoy reading about Islamic Art and Architecture.
 
