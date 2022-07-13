@@ -32,6 +32,6 @@ The Political Economy of the Local Origins of Public Service Provision:
 Evidence from 19th & early 20th century Egypt
 
 
-![trimmedalex_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/32126519/172069327-c2829164-6905-4c3b-9908-8b77b55ef21e.gif) ![alt-text-2](parliament.png)
+![trimmedalex_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/32126519/172069327-c2829164-6905-4c3b-9908-8b77b55ef21e.gif) {{< figure library="1" src="parliament.png" width="250" title="Photo Source: Levant Archives" >}}
 
-{{< figure library="1" src="schools.jpg" width="500" title="Photo Source: Levant Archives" >}}
+{{< figure library="1" src="schools.jpg" width="300" title="Photo Source: Levant Archives" >}}
