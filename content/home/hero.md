@@ -34,4 +34,5 @@ Evidence from 19th & early 20th century Egypt
 
 ![trimmedalex_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/32126519/172069327-c2829164-6905-4c3b-9908-8b77b55ef21e.gif) ![](https://github.com/aelshehawy/academic-kickstart_ash/blob/master/static/img/parliament.png | width=200)
 
-{{< figure library="1" src="schools.jpg" width="400" title="Photo Source: Levant Archives" >}}
+{{< figure library="1" src="schools.jpg" width="400" title="Photo Source: Levant Archives" >}} {{< figure library="1" src="kuttab.jpg" width="400" title="Photo Source: Levant Archives" >}}
+
