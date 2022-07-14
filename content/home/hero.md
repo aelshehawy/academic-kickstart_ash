@@ -42,7 +42,4 @@ Foreign Intervention in Schooling | Local Development of Schooling
 
 
 
-<table><tr>
-<td> < figure library="1" src="schools.jpg" width="300" /> </td>
-<td> < figure library="1" src="kuttab.jpg" width="350" /> </td>
-</tr></table>
+
