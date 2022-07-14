@@ -38,7 +38,7 @@ Alexandria Historical Inequality Mapping | Economic History of Parliaments
 
 
 <p align="center">
-  < figure library="1" src="schools.jpg" width="300" >
+ {{< figure library="1" src="schools.jpg" width="300" >}}
 </p>
 
 
