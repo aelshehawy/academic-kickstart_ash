@@ -36,7 +36,7 @@ Alexandria Historical Inequality Mapping | Economic History of Parliaments
 :-------------------------:|:-------------------------:
 ![trimmedalex_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/32126519/172069327-c2829164-6905-4c3b-9908-8b77b55ef21e.gif)  |  {{< figure library="1" src="parliament.png" width="350" >}}
 
-![Alt Text](https://imgflip.com/gif/6mvjq3)
+![Alt Text](https://github.com/aelshehawy/academic-kickstart_ash/blob/master/static/img/Jul-15-2022%2016-33-41.gif)
 
 
 <p align="center" width="100%">
