@@ -35,7 +35,7 @@ Local Provision and Development of Schooling<br/>
 ![alt text](https://github.com/aelshehawy/academic-kickstart_ash/blob/master/static/img/schoolpic.png)
 
 
-Alexandria: Economic History of Inequality Mapping 
+Alexandria: Economic History of Inequality  
 ![Alt Text](https://github.com/aelshehawy/academic-kickstart_ash/blob/master/static/img/Jul-15-2022%2016-33-41.gif)
 
 
