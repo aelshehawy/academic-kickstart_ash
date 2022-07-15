@@ -34,7 +34,8 @@ Evidence from 19th & early 20th century Egypt**
 Local Provision and Development of Schooling<br/>
 {{< figure library="1" src="schoolpic.png" >}}
 
-Alexandria: Economic History of Inequality  
+Alexandria: Economic History of Inequality
+
 ![Alt text for my gif](/img/Jul-15-2022%2016-33-41.gif)
 
 
