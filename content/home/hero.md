@@ -35,7 +35,7 @@ Local Provision and Development of Schooling<br/>
 {{< figure library="1" src="schoolpic.png" >}}
 
 Alexandria: Economic History of Inequality  
-![Alt Text](https://github.com/aelshehawy/academic-kickstart_ash/blob/master/static/img/Jul-15-2022%2016-33-41.gif)
+![](/img/Jul-15-2022%2016-33-41.gif)
 
 
 
