@@ -28,19 +28,14 @@ weight = 45
 
 +++
 
-The Political Economy of the Local Origins of Public Service Provision: 
-Evidence from 19th & early 20th century Egypt
+**The Political Economy of the Local Origins of Public Service Provision: 
+Evidence from 19th & early 20th century Egypt**
 
 
-Alexandria Historical Inequality Mapping | Economic History of Parliaments
-:-------------------------:|:-------------------------:
-![trimmedalex_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/32126519/172069327-c2829164-6905-4c3b-9908-8b77b55ef21e.gif)  |  {{< figure library="1" src="parliament.png" width="350" >}}
 
+Alexandria: Economic History of Inequality Mapping 
 ![Alt Text](https://github.com/aelshehawy/academic-kickstart_ash/blob/master/static/img/Jul-15-2022%2016-33-41.gif)
 
 
-<p align="center" width="100%">
-    <img width="33%" src="https://github.com/aelshehawy/academic-kickstart_ash/blob/master/static/img/schools.jpg">
-</p>
 
 
