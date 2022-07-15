@@ -31,6 +31,8 @@ weight = 45
 **The Political Economy of the Local Origins of Public Service Provision: 
 Evidence from 19th & early 20th century Egypt**
 
+Local Provision and Development of Schooling
+![alt text](https://github.com/aelshehawy/academic-kickstart_ash/blob/master/static/img/schoolpic.png)
 
 
 Alexandria: Economic History of Inequality Mapping 
