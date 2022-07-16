@@ -17,9 +17,9 @@ weight = 50
 +++
 ### Graduate:<br/>
 - **Python and Quantitative Text Analysis for Social Scientists**<br/> Course Convener <br/> Department of Politics and International Relations <br/> University of Oxford <br/>
-- **Text as Data: Computational Text Analysis**<br/> Course Convener <br/> Department of Politics and International Relations <br/> University of Oxford <br/>[[Syllabus]](https://www.dropbox.com/s/39b2by3rb87gspb/Syllabus___Oxford_Text_Analysis.pdf?dl=0) <br/>  [[Material on Github]](https://github.com/aelshehawy/text-as-data-computational-text-analysis-oxford
+- **Text as Data: Computational Text Analysis**<br/> Course Convener <br/> Department of Politics and International Relations <br/> University of Oxford <br/>[[Syllabus]](https://www.dropbox.com/s/39b2by3rb87gspb/Syllabus___Oxford_Text_Analysis.pdf?dl=0)  [[Material on Github]](https://github.com/aelshehawy/text-as-data-computational-text-analysis-oxford
 )<br/>
-- **Applied Statistics for Political Scientists - Lab Sessions**<br/> Department of Politics and International Relations <br/> University of Oxford <br/> <br/> <br/> 
+- **Applied Statistics for Political Scientists - Lab Sessions**<br/> Department of Politics and International Relations <br/> University of Oxford <br/> <br/>
 - **Computational Text Analysis for Political Science**  <br/> Department of Political Science <br/> University of Houston <br/> [[Syllabus]](https://www.dropbox.com/s/zjeofcbphzgvjfi/Computational.pdf?dl=0)
 
 
