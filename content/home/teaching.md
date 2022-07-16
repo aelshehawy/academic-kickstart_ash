@@ -16,19 +16,19 @@ weight = 50
 
 +++
 ### Graduate:<br/>
-- **Python and Quantitative Text Analysis for Social Scientists**<br/> Course Convener <br/> Department of Politics and International Relations <br/> University of Oxford <br/>
+- **Python and Quantitative Text Analysis for Social Scientists**<br/> Course Convener <br/> Department of Politics and International Relations <br/> University of Oxford <br/><br/>
 - **Text as Data: Computational Text Analysis**<br/> Course Convener <br/> Department of Politics and International Relations <br/> University of Oxford <br/>[[Syllabus]](https://www.dropbox.com/s/39b2by3rb87gspb/Syllabus___Oxford_Text_Analysis.pdf?dl=0)  [[Material on Github]](https://github.com/aelshehawy/text-as-data-computational-text-analysis-oxford
-)<br/>
+)<br/><br/> 
 - **Applied Statistics for Political Scientists - Lab Sessions**<br/> Department of Politics and International Relations <br/> University of Oxford <br/> <br/>
-- **Computational Text Analysis for Political Science**  <br/> Department of Political Science <br/> University of Houston <br/> [[Syllabus]](https://www.dropbox.com/s/zjeofcbphzgvjfi/Computational.pdf?dl=0)
+- **Computational Text Analysis for Political Science**  <br/> Department of Political Science <br/> University of Houston <br/> [[Syllabus]](https://www.dropbox.com/s/zjeofcbphzgvjfi/Computational.pdf?dl=0)<br/><br/>
 
 
 
 
 ### Undergraduate:<br/>
 - **211: Politics of the Middle East**  <br/>  PPE (Politics, Philosophy, Economics) Degree<br/> Pembroke, St. Hilda's, and Somerville Colleges<br/> University of Oxford <br/> Trinity Term - April - June 2020<br/> <br/> 
-- **201: Comparative Government**   <br/>  PPE (Politics, Philosophy, Economics) Degree <br/> University of Oxford <br/> Trinity Term Revisions- April - June 2020<br/> <br/> 
-- **Tutorial: Empirical Political Research in Political Science**   <br/> Lecture by: Dr. Sean Carey<br/>  University of Mannheim, Germany<br/>Winter Semester 2017 & 2018 - October 2017 - January 2018 
+- **201: Comparative Government**   <br/>  PPE (Politics, Philosophy, Economics) Degree <br/> University of Oxford <br/> <br/> 
+- **Tutorial: Empirical Political Research in Political Science**   <br/> Lecture by: Dr. Sean Carey<br/>  University of Mannheim, Germany
 
 
 
