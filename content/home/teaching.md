@@ -25,5 +25,5 @@ weight = 50
 
 ### Undergraduate:<br/>
 - **211: Politics of the Middle East**  <br/>  PPE (Politics, Philosophy, Economics) Degree<br/> Pembroke, St. Hilda's, and Somerville Colleges<br/> University of Oxford <br/> Trinity Term - April - June 2020<br/> 
-- **201: Comparative Government**   <br/>  PPE (Politics, Philosophy, Economics) Degree <br/> University of Oxford <br/> <br/> 
+- **201: Comparative Government**   <br/>  PPE (Politics, Philosophy, Economics) Degree <br/> University of Oxford <br/> 
 - **Tutorial: Empirical Political Research in Political Science**   <br/> Lecture by: Dr. Sean Carey<br/>  University of Mannheim, Germany
