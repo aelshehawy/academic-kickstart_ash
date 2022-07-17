@@ -15,6 +15,9 @@ subtitle = ""
 weight = 50
 
 +++
+
+Sample Teaching Evaluations [[Link]](https://www.dropbox.com/s/ajirjrqscnh9kpb/Elshehawy_Teaching_Evaluations.pdf?dl=0) 
+
 ### Graduate:<br/>
 - **Python and Quantitative Text Analysis for Social Scientists**<br/> Course Convener <br/> Department of Politics and International Relations <br/> University of Oxford <br/>
 - **Text as Data: Computational Text Analysis**<br/> Course Convener <br/> Department of Politics and International Relations <br/> University of Oxford <br/>[[Syllabus]](https://www.dropbox.com/s/39b2by3rb87gspb/Syllabus___Oxford_Text_Analysis.pdf?dl=0)  [[Material on Github]](https://github.com/aelshehawy/text-as-data-computational-text-analysis-oxford
