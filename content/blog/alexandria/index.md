@@ -20,6 +20,6 @@ weight = 1
 
 {{< figure library="1" src="fruit.JPG" width="400" height="400" >}}
 
-{{< figure library="1" src="alexandria.jpg" title="Alexandria, the pearl of the Mediterranean - taken by me" >}}
+{{< figure library="1" src="alexandria.jpg" title="Alexandria Anfushy neighborhood - taken by me" width="400" height="400" >}}
 
 
