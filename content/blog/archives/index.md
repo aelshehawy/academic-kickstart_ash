@@ -16,12 +16,12 @@ weight = 1
 
 +++
 
-{{< figure library="1" src="ash_yale.JPG" width="300" height="400" >}}
+{{< figure class="lazy" library="1" src="ash_yale.JPG" width="300" height="400" >}}
 Beinecke Rare Book and Manuscript Library, Yale, New Haven, USA
 
 Divinty School, Yale | Weston Library, Oxford 
 :-------------------------:|:-------------------------:
-{{< figure library="1" src="divinity.png" width="350" height="340">}} | {{< figure library="1" src="alexmap.jpg" width="300" height="200" >}}    
+{{< figure class="lazy" library="1" src="divinity.png" width="350" height="340">}} | {{< figure class="lazy" library="1" src="alexmap.jpg" width="300" height="200" >}}    
 
 Library of Congress | New York Public Library
 :-------------------------:|:-------------------------:
