@@ -16,10 +16,17 @@ weight = 1
 
 +++
 
-{{< figure library="1" src="ash_yale.JPG" width="400" height="400" >}}
+{{< figure library="1" src="ash_yale.JPG" width="200" height="300" >}}
 Beinecke Rare Book and Manuscript Library, Yale, New Haven, USA
 
-
-Widener Library Stacks, Harvard |Bibliotheca Alexandrina, Egypt  |  Weston Library, Oxford
+Divinty School, Yale | Weston Library, Oxford 
 :-------------------------:|:-------------------------:|:-------------------------:
-{{< figure library="1" src="harvard_stacks.JPG" width="400" height="400">}}| {{< figure library="1" src="bib_alex.jpg" width="400" height="400" >}}   |  {{< figure library="1" src="alexmap.jpg"width="400" height="400" >}}
+{{< figure library="1" src="divinity.png" width="400" height="400">}}| {{< figure library="1" src="alexmap.jpg" width="400" height="400" >}}    
+
+Library of Congress | New York Public Library
+:-------------------------:|:-------------------------:
+{{< figure library="1" src="loc.png" width="400" height="400">}}| {{< figure library="1" src="nypl.png" width="400" height="400">}}
+
+Archival Images |  Bibliotheca Alexandrina, Egypt  
+:-------------------------:|:-------------------------:
+{{< figure library="1" src="schoolegybenevolent.png" width="400" height="400">}}| {{< figure library="1" src="bib_alex.jpg"width="400" height="400" >}}
