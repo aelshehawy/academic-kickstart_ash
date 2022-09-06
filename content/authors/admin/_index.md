@@ -18,7 +18,7 @@ organizations:
   url: "http://www.ox.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio:  My research interests incorporates prospects of comparative political economy of the Middle East.  I focus on aspects related to economic history of state-institutions, local public good provision, informal social-welfare, and the political economy of Islamic institutions, with a regional focus of the Middle East. My research also draws on questions about how foreign policy tools, such as economic sanctions, interact with domestic politics. I am extremely interested in investigating aspects of the politics of information using methods of NLP and computational text analysis. 
+bio:  My research interests incorporates apects of Political Economy of Development and the Political Economy of Information.  My research focuses on the economic history of state-institutions, local public good provision, informal social-welfare, and the political economy of Islamic institutions, with a regional focus of the Middle East. My research also evaluates effects of foreign interventions on domestic politics, in regions that span beyond the Middle East, employing advanced methods of Natural Language processing and computational text analysis. 
 
 interests:
 - Comparative Political Economy 
