@@ -90,12 +90,14 @@ user_groups:
 
 I am a doctoral candidate at the Department of Politics and International Relations at the University of Oxford. I was recently a visiting PhD student at Yale. Before Oxford, I studied at Mannheim focusing on Advanced Quantitative Methods in Political Science. I was a pre-doc/visiting scholar at th University of Houston before starting my PhD.
 
-My research focuses on the _Political Economy of Development_ and _Foreign Influence on Domestic Political Economy_. I focus on evaluating effects of foreign influence on domestic politics, local governance, and public service provision, with a regional focus on the Middle East.  In a further research agenda, I focus on the political economy of information. My published work underlines my strong interest in evaluating the impact of past and present foreign interventions on how societies operate, in applications that span beyond the region of the Middle East. 
+My research focuses on the _Political Economy of Development_ and _Foreign Influence on Domestic Political Economy_. I focus on evaluating effects of foreign influence on domestic politics, local governance, and public service provision, with a regional focus on the Middle East.  
 
-Methodologically, I work on generating new sources of quantitative data that reveal valuable infromation that would be otherwise lost in the archives. 
-My work incorporates retrieval and digitalization of historical maps, textual data, and several other sources of archival data; other than that my work employs and expands methods of Computational Text Analysis and Natural Language Processing using corpora of Arabic, German, English, and French texts.
+My methodological expertise lies in the field of Computational Social Sciences. I employ and advance methods of Natural Language Processing (NLP) and Computational Text Analysis in a multilingual setting, working with a variety of Roman and Arabic languages. 
+My work incorporates retrieval and digitalization of historical maps, textual data, and several other sources of archival data. 
+I am passionate about using my computational skills to generate new sources of quantitative data that reveal valuable information that would be otherwise lost in the archives. 
 
 My research has been published or is forthcoming at the _Journal of Politics_, _Perspectives on Politics_, and _Journal of Peace Research_.
+My published work underlines my strong interest in evaluating the impact of past and present foreign interventions on how societies operate, in applications that span beyond the region of the Middle East. 
 
 I am a former professional swimmer for the Egyptian Swimming National Team, for which I competed professionally for several years. I still find myself thinking more clearly while doing all those endless laps at the pool. I enjoy reading about Islamic Art and Architecture.
 
