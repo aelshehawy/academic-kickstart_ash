@@ -87,8 +87,7 @@ user_groups:
 - Visitors
 
 ---
-
-I am a doctoral candidate at the Department of Politics and International Relations at the University of Oxford. I was recently a visiting PhD student at Yale. Before Oxford, I studied at Mannheim focusing on Advanced Quantitative Methods in Political Science. I was a pre-doc/visiting scholar at th University of Houston before starting my PhD.
+<p style='text-align: justify;'> I am a doctoral candidate at the Department of Politics and International Relations at the University of Oxford. I was recently a visiting PhD student at Yale. Before Oxford, I studied at Mannheim focusing on Advanced Quantitative Methods in Political Science. I was a pre-doc/visiting scholar at th University of Houston before starting my PhD.
 
 My research focuses on the _Political Economy of Development_ and _Foreign Influence on Domestic Political Economy_. I focus on evaluating effects of foreign influence on domestic politics, local governance, and public service provision, with a regional focus on the Middle East.  
 
@@ -99,7 +98,5 @@ I am passionate about using my computational skills to generate new sources of q
 My research has been published or is forthcoming at the _Journal of Politics_, _Perspectives on Politics_, and _Journal of Peace Research_.
 My published work underlines my strong interest in evaluating the impact of past and present foreign interventions on how societies operate, in applications that span beyond the region of the Middle East. 
 
-I am a former professional swimmer for the Egyptian Swimming National Team, for which I competed professionally for several years. I still find myself thinking more clearly while doing all those endless laps at the pool. I enjoy reading about Islamic Art and Architecture.
-
-
+I am a former professional swimmer for the Egyptian Swimming National Team, for which I competed professionally for several years. I still find myself thinking more clearly while doing all those endless laps at the pool. I enjoy reading about Islamic Art and Architecture. </p>
 
