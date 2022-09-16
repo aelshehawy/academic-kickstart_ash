@@ -12,7 +12,7 @@ title =""
 subtitle = "Middle Eastern Food"
 
 # Order that this section will appear in.
-weight = 0.7
+weight = 1
 
 
 +++
