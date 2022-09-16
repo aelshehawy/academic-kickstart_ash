@@ -12,7 +12,7 @@ title =""
 subtitle = "Views of Egypt"
 
 # Order that this section will appear in.
-weight = 1
+weight = 2
 
 
 +++
