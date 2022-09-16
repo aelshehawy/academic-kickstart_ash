@@ -89,8 +89,7 @@ user_groups:
 ---
 <p style='text-align: justify;'> I am a doctoral candidate at the Department of Politics and International Relations at the University of Oxford. I was recently a visiting PhD student at Yale. Before Oxford, I studied at Mannheim focusing on Advanced Quantitative Methods in Political Science. I was a pre-doc/visiting scholar at th University of Houston before starting my PhD.<br><br>
 
-My research focuses on the Political Economy of Development and Foreign Influence on Domestic Political Economy. My work centers on examining interactions between foreigners and locals that determine the economic development of local geographies.
-I focus on evaluating effects of historical and contemorary foreign intervention on domestic politics, local governance, and public service provision, with a regional focus on the Middle East.  <br><br>
+My research focuses on the Political Economy of Development and Foreign Influence on Domestic Political Economy. My research examines interactions between foreigners and locals that shape the economic development of local geographies and institutions. I focus on evaluating effects of historical and contemorary foreign interventions on domestic politics, local governance, and public service provision, with a regional focus on the Middle East.  <br><br>
 
 My methodological expertise lies in the field of Computational Social Sciences. I employ and advance methods of Natural Language Processing (NLP) and Computational Text Analysis in a multilingual setting, working with a variety of Western and Arabic languages. 
 My work incorporates retrieval and digitalization of historical maps, textual data, and several other sources of archival data. 
