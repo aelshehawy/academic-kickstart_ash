@@ -17,7 +17,14 @@ weight = 1.5
 
 +++
 
-Famous Elshehawy Baba Ghanoush recipe. بجد أحلى بابا غنوج!
+Replication Archive of the  Elshehawy Famous Baba Ghanoush recipe. بجد أحلى بابا غنوج!
+
+- Cut Aubergine in half, drizzle some olive oil, and roast it on 200 C for 40 minutes.
+- Carve out the flesh and try to keep the skin of the aubergine in tact
+- In a food processor mix it with 2 table spoons of tahini, 2 tea spoons of cumin, some salt, and paper, 2 cloves of pressed garlic, 1/4 cup lemon juice
+- Put the mixture back in the aubergine skin
+- garnish with anything you like, coriander, yogurt, pomegranate molasses/seeds
+
 
 {{< figure library="1" src="babaghanous.jpeg" width="400" height="400" >}}
 
