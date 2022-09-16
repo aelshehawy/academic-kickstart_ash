@@ -23,6 +23,6 @@ weight = 1
 
 {{< figure library="1" src="babaghanous.jpeg" width="400" height="400" >}}
 
-{{< figure library="1" src="grill.JPG" width="400" height="400" >}}
+{{< figure library="1" src="IMG_8875.JPG" width="400" height="400" >}}
 
 
