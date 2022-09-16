@@ -9,15 +9,15 @@ date = 2021-02-24T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title =""
-subtitle = "Food"
+subtitle = "Middle Eastern Food"
 
 # Order that this section will appear in.
-weight = 1.5
+weight = 0.7
 
 
 +++
 
-Replication Archive of the  Elshehawy Famous Baba Ghanoush recipe. بجد أحلى بابا غنوج!
+**Replication Archive of the  Elshehawy Famous Baba Ghanoush recipe. - بجد أحلى بابا غنوج!**
 
 - Cut Aubergine in half, drizzle some olive oil, and roast it on 200 C for 40 minutes.
 - Carve out the flesh and try to keep the skin of the aubergine in tact
