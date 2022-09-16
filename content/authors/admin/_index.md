@@ -91,7 +91,7 @@ user_groups:
 
 My research focuses on the Political Economy of Development and Foreign Influence on Domestic Political Economy. I focus on evaluating effects of foreign influence on domestic politics, local governance, and public service provision, with a regional focus on the Middle East.  <br><br>
 
-My methodological expertise lies in the field of Computational Social Sciences. I employ and advance methods of Natural Language Processing (NLP) and Computational Text Analysis in a multilingual setting, working with a variety of Roman and Arabic languages. 
+My methodological expertise lies in the field of Computational Social Sciences. I employ and advance methods of Natural Language Processing (NLP) and Computational Text Analysis in a multilingual setting, working with a variety of Western and Arabic languages. 
 My work incorporates retrieval and digitalization of historical maps, textual data, and several other sources of archival data. 
 I am passionate about using my computational skills to generate new sources of quantitative data that reveal valuable information that would be otherwise lost in the archives. <br><br>
 
