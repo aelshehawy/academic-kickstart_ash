@@ -16,9 +16,8 @@ weight = 1
 
 +++
 
-I love finding unique raw data, bringing them to life, and employing them in cool research designs! 
+I love archives. I enjoy finding unique raw data, bringing them to life, and employing them in cool research designs! 
 
 {{< figure library="1" src="ash_yale.JPG" width="300" height="400" >}}
 Beinecke Rare Book and Manuscript Library, Yale, New Haven, USA
 
-{{< figure library="1" src="mapblog.png" width="300" height="400" >}}
