@@ -12,13 +12,13 @@ title =""
 subtitle = "Views of Egypt"
 
 # Order that this section will appear in.
-weight = 2
+weight = 3
 
 
 +++
 
 
-{{< figure library="1" src="fruit.JPG" width="400" height="400" >}}
+{{< figure library="1" src="fruit.JPG" title="Next time I will take pictures during Mango season yum" width="400" height="400" >}}
 
 {{< figure library="1" src="alexandria.jpg" title="Alexandria Anfushy neighborhood - taken by me" width="400" height="400" >}}
 
