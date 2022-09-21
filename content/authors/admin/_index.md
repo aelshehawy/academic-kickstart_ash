@@ -90,7 +90,7 @@ user_groups:
 <p style='text-align: justify;'> I am a doctoral candidate at the Department of Politics and International Relations at the University of Oxford. I was recently a visiting PhD student at Yale. Before Oxford, I studied at Mannheim focusing on Advanced Quantitative Methods in Political Science. I was a pre-doc/visiting scholar at th University of Houston before starting my PhD.<br><br>
 
 My research focuses on the Political Economy of Development and Foreign Influence on Domestic Political Economy.
-I focus on evaluating effects of foreign interventions on domestic politics, local governance, and public service provision, with a regional focus on the Middle East. My dissertation focuses on the economic development of local geographies in 19th and 20th century Egypt. I exploit historical socio-economic shocks to investigate how interactions between foreigners and locals shape local public service provision and long-term
+My work evaluates effects of foreign interventions on domestic politics, local governance, and public service provision, with a regional focus on the Middle East. My dissertation focuses on the economic development of local geographies in 19th and 20th century Egypt. I exploit historical socio-economic shocks to investigate how interactions between foreigners and locals shape local public service provision and long-term
 economic inequalities.  <br><br>
 
 My methodological expertise lies in the field of Computational Social Sciences. I employ and advance methods of Natural Language Processing (NLP) and Computational Text Analysis in a multilingual setting, working with a variety of Western and Arabic languages. 
@@ -100,5 +100,9 @@ I am passionate about using my computational skills to generate new sources of q
 My research has been published or is forthcoming at the <em>Journal of Politics, Perspectives on Politics, and Journal of Peace Research</em>.
 My published work underlines my strong interest in evaluating the impact of past and present foreign interventions on how societies operate, in applications that span beyond the region of the Middle East. <br><br>
 
-I am a former professional swimmer for the Egyptian Swimming National Team, for which I competed professionally for several years. I still find myself thinking more clearly while doing all those endless laps at the pool. I enjoy reading about Islamic Art and Architecture. </p>
+I am a former professional swimmer for the Egyptian Swimming National Team, for which I competed professionally for several years. I still find myself thinking more clearly while doing all those endless laps at the pool. I enjoy reading about Islamic Art and Architecture. <br><br>
+  
+You can find a copy of a short CV here </p>
+
+
 
