@@ -100,9 +100,7 @@ I am passionate about using my computational skills to generate new sources of q
 My research has been published or is forthcoming at the <em>Journal of Politics, Perspectives on Politics, and Journal of Peace Research</em>.
 My published work underlines my strong interest in evaluating the impact of past and present foreign interventions on how societies operate, in applications that span beyond the region of the Middle East. <br><br>
 
-I am a former professional swimmer for the Egyptian Swimming National Team, for which I competed professionally for several years. I still find myself thinking more clearly while doing all those endless laps at the pool. I enjoy reading about Islamic Art and Architecture. <br><br>
-  
-You can find a copy of a short CV here </p>
+I am a former professional swimmer for the Egyptian Swimming National Team, for which I competed professionally for several years. I still find myself thinking more clearly while doing all those endless laps at the pool. I enjoy reading about Islamic Art and Architecture. </p>
 
 
 
