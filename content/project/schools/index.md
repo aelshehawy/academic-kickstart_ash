@@ -45,6 +45,5 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-The data collection is a collaborative effort with [Mohamed Saleh (LSE)](https://sites.google.com/site/mohamedsalehecon/home?authuser=0)
 
 More information about the project will be updated soon!
