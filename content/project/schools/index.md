@@ -47,3 +47,8 @@ url_code = ""
 
 
 More information about the project will be updated soon!
+The majority of the data for this project comes from a collaborative effort for the working paper "Religious Minorities and Public Service Provision:
+Evidence from 19th and early 20th Century Egypt" with [Mohamed Saleh (LSE)](https://sites.google.com/site/mohamedsalehecon/home?authuser=0).
+
+
+
