@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "A century of Historical Egyptian Schooling Data (w/Mohamed Saleh)"
+title = "A century of Historical Egyptian Schooling Data "
 
 # Date this page was created.
 date = 2022-07-13T00:00:00
 
 # Project summary to display on homepage.
-summary = "Data Collection Project of Egyptian Schools [more info soon :open_hands:!]"
+summary = "Data Collection Project of Egyptian Schools (w/ Mohamed Saleh) [more info soon :open_hands:!]"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["royalties", "pcr"]`
