@@ -31,14 +31,10 @@ weight = 45
 **The Political Economy of the Local Origins of Public Service Provision: 
 Evidence from 19th & early 20th century Egypt**
 
-Local Provision and Development of Schooling<br/>
 {{< figure library="1" src="schoolpic.png" >}}
-
-Alexandria: Economic History of Inequality under Colonization<br/>
-<sub><sup>watch the GIF below, for an overlay of historical maps of Alexandria in the 19th century on current geographical coordinates. Part of my project mapping the economic history of inequality :bowtie: :boom: </sup></sub>
 
 ![Alt text for my gif](/img/Jul-15-2022%2016-33-41.gif)
 
-
+<sub><sup>Alexandria: Economic History of Inequality under Colonization<br/>watch the GIF below, for an overlay of historical maps of Alexandria in the 19th century on current geographical coordinates. Part of my project mapping the economic history of inequality :bowtie: :boom: </sup></sub>
 
 
