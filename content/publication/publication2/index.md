@@ -42,7 +42,7 @@ tags = ["Sanctions","Text-Analysis","NER","Quantitative Methods","NLP"]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_pdf = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3790847" 
+url_pdf = "" 
 
 # Digital Object Identifier (DOI)
 doi = ""
