@@ -16,7 +16,6 @@ weight = 50
 
 +++
 
-Sample Teaching Evaluations [[Link]](https://www.dropbox.com/s/ajirjrqscnh9kpb/Elshehawy_Teaching_Evaluations.pdf?dl=0) 
 
 ### Graduate:<br/>
 - **Python and Quantitative Text Analysis for Social Scientists**<br/> Course Convener <br/> Department of Politics and International Relations <br/> University of Oxford <br/>
