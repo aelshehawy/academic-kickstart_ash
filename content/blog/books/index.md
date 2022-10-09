@@ -26,4 +26,4 @@ This graphic novel is a gem. It is written by [Malaka Gharib](https://twitter.co
 
 
 {{< figure library="1" src="novel.jpeg" width="400" height="400" >}}
-<sub><sup>Picture by me Production</sup></sub>
+<sub><sup>Picture by me </sup></sub>
