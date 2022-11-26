@@ -1,6 +1,6 @@
 
 +++
-title = "Gender and Money in Politics: Evidence from Local Elections"
+title = "Gender and Money in Politics: Evidence from Colombian Local Elections"
 date = 2022-06-01T00:00:00
 draft = false
 
