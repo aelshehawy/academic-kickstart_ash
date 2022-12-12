@@ -42,7 +42,7 @@ tags = ["Sanctions","Text-Analysis","NER","Quantitative Methods","NLP"]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_pdf = "" 
+url_pdf = "https://www.dropbox.com/s/898y6igtvgzfcni/Elshehawy_writingsample3here.pdf?dl=0" 
 
 # Digital Object Identifier (DOI)
 doi = ""
