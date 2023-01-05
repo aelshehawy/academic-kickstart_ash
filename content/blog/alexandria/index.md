@@ -22,4 +22,5 @@ weight = 3
 
 {{< figure library="1" src="alexandria.jpg" title="Alexandria Anfushy neighborhood - taken by me" width="400" height="400" >}}
 
+{{< figure library="1" src="alexandria2.png" title="I am obsessed with Alexandria in the winter" width="400" height="400" >}}
 
