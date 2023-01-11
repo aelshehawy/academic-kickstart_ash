@@ -61,5 +61,5 @@ math = false
   focal_point = "Center"
 +++
 
-Read more [here]([https://www.google.com](https://www.dropbox.com/s/tjqcu6lnnypfs36/ElshehawyAshrakat_NER.pdf?dl=0))
+Read more [here](https://www.dropbox.com/s/tjqcu6lnnypfs36/ElshehawyAshrakat_NER.pdf?dl=0)
 
