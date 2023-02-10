@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "A century of Historical Egyptian Schooling Data "
+title = "A Century of Historical Egyptian Schooling Data "
 
 # Date this page was created.
 date = 2022-07-13T00:00:00
