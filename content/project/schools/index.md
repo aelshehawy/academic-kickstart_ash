@@ -6,7 +6,7 @@ title = "A century of Historical Egyptian Schooling Data "
 date = 2022-07-13T00:00:00
 
 # Project summary to display on homepage.
-summary = "Data Collection Project of Egyptian Schools (w/ Mohamed Saleh) [more info soon :open_hands:!]"
+summary = "Data Collection of Egyptian Modern Schools (w/ Mohamed Saleh, LSE) [more info soon :open_hands:!]"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["royalties", "pcr"]`
@@ -45,8 +45,7 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-
-More information about the project will be updated soon!
+Data Collection of Egyptian Modern Schools (w/ Mohamed Saleh) (more info soon 👐)!
 
 
 
