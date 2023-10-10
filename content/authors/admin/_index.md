@@ -88,16 +88,8 @@ user_groups:
 - Visitors
 
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-CF1RPVWZXS"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-CF1RPVWZXS');
-</script>
-<p style='text-align: justify;'> I am a postdoctoral fellow at Stanford's King Center on Global Development. I hold a PhD from the University of Oxford. I was recently a visitor at Yale. Before Oxford, I studied at Mannheim focusing on Advanced Quantitative Methods in Political Science. I was a pre-doc/visiting scholar at the University of Houston before starting my PhD.<br><br>
+<p style='text-align: justify;'> I am a postdoctoral fellow at Stanford's King Center on Global Development. I hold a PhD in Politics from the University of Oxford. I was recently a visitor at Yale and before Oxford, I studied at Mannheim focusing on Advanced Quantitative Methods in Political Science. I was also a pre-doc/visiting scholar at the University of Houston before starting my PhD.<br><br>
 
 My research focuses on the Political Economy of Development and Foreign Influence on Domestic Political Economy.
 My work evaluates effects of foreign interventions on domestic politics, local governance, and public service provision. My PhD dissertation focused on the economic development of local geographies in 19th and 20th century Egypt. I use computational and causal inference methods exploiting historical socio-economic shocks to investigate how interactions between foreigners and locals shape local public service provision and long-term
