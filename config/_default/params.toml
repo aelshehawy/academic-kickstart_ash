@@ -93,8 +93,8 @@ map = 2
 map_api_key = ""
 #latitude = "37.4441" 
 #longitude = "-122.1612"
-latitude = "51.75222"	
-longitude = "-1.25596"
+latitude = "37.4441"	
+longitude = "-122.1612"
 zoom = 12
 
 ############################
