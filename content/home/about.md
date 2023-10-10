@@ -1,4 +1,3 @@
-+++
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-CF1RPVWZXS"></script>
 <script>
@@ -8,6 +7,8 @@
 
   gtag('config', 'G-CF1RPVWZXS');
 </script>
++++
+
 # About widget.
 widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
