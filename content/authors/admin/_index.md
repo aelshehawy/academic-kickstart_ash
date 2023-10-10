@@ -1,13 +1,5 @@
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-CF1RPVWZXS"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-CF1RPVWZXS');
-</script>
 # Display name
 name: Ashrakat Elshehawy
 
@@ -96,6 +88,15 @@ user_groups:
 - Visitors
 
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CF1RPVWZXS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-CF1RPVWZXS');
+</script>
 <p style='text-align: justify;'> I am a postdoctoral fellow at Stanford's King Center on Global Development. I hold a PhD from the University of Oxford. I was recently a visitor at Yale. Before Oxford, I studied at Mannheim focusing on Advanced Quantitative Methods in Political Science. I was a pre-doc/visiting scholar at the University of Houston before starting my PhD.<br><br>
 
 My research focuses on the Political Economy of Development and Foreign Influence on Domestic Political Economy.
