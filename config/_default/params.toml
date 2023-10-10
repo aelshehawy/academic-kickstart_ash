@@ -54,9 +54,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "ashrakat.elshehawy@politics.ox.ac.uk"
+email = "ashrakat@stanford.edu"
 phone = ""
-address = "Somerville College, Woodstock Road, Oxford, Oxfordshire, OX2 6HD"
+address = "366 Galvez Street, Stanford, California, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
@@ -91,8 +91,8 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 2
 map_api_key = ""
-#latitude = "29.7604" 
-#longitude = "95.3698"
+#latitude = "37.4441" 
+#longitude = "-122.1612"
 latitude = "51.75222"	
 longitude = "-1.25596"
 zoom = 12
