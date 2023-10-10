@@ -11,6 +11,8 @@ day_night = true
 #   Choose from `default`, `classic`, or `playfair`.
 font = "default"
 
+GoogleAnalyticsID = "G-CF1RPVWZXS"
+
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
 
