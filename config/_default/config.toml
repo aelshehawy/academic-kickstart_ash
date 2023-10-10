@@ -17,6 +17,8 @@ copyright = "&copy; {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-141108574-1"
+googleAnalyticsID = "G-CF1RPVWZXS"
+
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
