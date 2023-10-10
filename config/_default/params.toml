@@ -39,6 +39,10 @@ math = true
 #   Anonymize IP in Google Analytics (if enabled)
 privacy_pack = false
 
+marketing:
+  analytics:
+    google_tag_manager: 'G-CF1RPVWZXS'
+    
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
 date_format = "Jan 2, 2006"
