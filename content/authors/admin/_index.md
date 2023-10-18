@@ -104,5 +104,8 @@ My published work underlines my strong interest in evaluating the impact of past
 
 I am a former professional swimmer for the Egyptian Swimming National Team, for which I competed professionally for several years. I still find myself thinking more clearly while doing all those endless laps at the pool. I enjoy reading about Islamic Art and Architecture. </p>
 
+<code style="color : gray">Photo Credits: Rod Searcey</code>
+
+
 
 
