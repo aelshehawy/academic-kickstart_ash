@@ -1,7 +1,7 @@
 
 +++
 title = "Religious Minorities and Public Service Provision in 19th and 20th Century Egypt"
-date = 2022-07-01T00:00:00
+date = 2020-07-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
