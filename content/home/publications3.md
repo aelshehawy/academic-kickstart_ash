@@ -65,3 +65,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+![Alt text for my gif](/img/Jul-15-2022%2016-33-41.gif)
