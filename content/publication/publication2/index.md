@@ -1,5 +1,5 @@
 
-+++
+---
 title = "Named-Entity Recognition with Application to Foreign Leader Mentions in Congressional Speeches"
 date = 2022-07-12T00:00:00
 draft = false
@@ -59,7 +59,7 @@ math = false
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
-+++
+---
 
 
 
