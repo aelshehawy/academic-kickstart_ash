@@ -1,8 +1,7 @@
 
 +++
-title = "Missionaries on the Nile: Exposure to Protestant
-Missionaries and Women’s Developmental Outcomes and Social Norms in Egypt "
-date = 2022-05-01T00:00:00
+title = "Missionaries on the Nile: Exposure to Protestant Missionaries and Women’s Developmental Outcomes and Social Norms in Egypt "
+date = 2023-05-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
