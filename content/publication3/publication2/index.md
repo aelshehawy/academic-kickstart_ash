@@ -1,6 +1,6 @@
 
 +++
-title = "Religious Minorities and Public Service Provision"
+title = "Religious Minorities and Public Service Provision in 19th and 20th Century Egypt"
 date = 2022-07-01T00:00:00
 draft = false
 
