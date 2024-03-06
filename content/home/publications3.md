@@ -72,7 +72,7 @@ I work on the political economy of development focusing on the role of religion,
 
  ![Alt text for my gif](/img/Jul-15-2022%2016-33-41.gif)
  
- <img src="/img/Jul-15-2022%2016-33-41.gif" width="100" height="100" alt="Alt text for my gif">
+ <img src="/img/Jul-15-2022%2016-33-41.gif" width="400" height="400" alt="Alt text for my gif" style="border:2px solid #000000;">
 
 
 <sub><sup>watch the GIF below, for an overlay of historical maps of Alexandria in the 19th century on current geographical coordinates. Part of my project mapping the economic history of inequality  </sup></sub>
