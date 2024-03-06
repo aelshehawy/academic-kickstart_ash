@@ -66,4 +66,10 @@ subtitle = ""
  css_class = ""
 +++
 
+I work on the political economy of development focusing on the role of religion, culture, and identity on inequality and public service provision. I employ computational methods of text analysis and GIS to bring data to life!
+
+<sub><sup>See example of Alexandria: Economic History of Inequality under Colonization<br/>watch the GIF below, for an overlay of historical maps of Alexandria in the 19th century on current geographical coordinates. Part of my project mapping the economic history of inequality :bowtie: :boom: </sup></sub>
+
 ![Alt text for my gif](/img/Jul-15-2022%2016-33-41.gif)
+
+
