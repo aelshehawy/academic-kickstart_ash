@@ -22,7 +22,7 @@ publication = "Working Paper"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Prior scholarship on the role of the U.S. Congress in sanctions policy making has highlighted how sanctions legislating is shaped by domestic political pressures. We move beyond a focus on interest groups, public opinion, and electoral incentives while investigating an important but underappreciated dimension of sanctions legislation – whether and how legislation grants the executive branch discretion regarding its implementation. We explain how deterrence objectives, treaty commitments, signaling concerns, and the uncertainties and trade-offs associated with different issues influence the degree and type of flexibility provided to the executive branch in sanctions legislation. We test hypotheses derived from this argument with evidence from a novel data set, created directly from the complete corpus of U.S. government documents dealing with sanctions from 1988-2016. Our analysis also has important implications for research on the effectiveness of sanctions, high- lighting the importance of taking into account underappreciated legislative design features when evaluating the success or failure of this commonly used policy tool."
+abstract = ""
 
 # Is this a selected publication? (true/false)
 selected = false
