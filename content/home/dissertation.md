@@ -31,7 +31,7 @@ weight = 45
 **The Political Economy of the Local Origins of Public Service Provision: 
 Evidence from 19th & early 20th century Egypt**
 
-{{< figure library="1" src="schoolpic.png" style="float: right;" >}}
+{{< figure library="1" src="schoolpic.png" style="float: center;" >}}
 
 ![Alt text for my gif](/img/Jul-15-2022%2016-33-41.gif)
 
