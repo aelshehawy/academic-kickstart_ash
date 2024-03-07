@@ -17,7 +17,7 @@ weight = 1
 
 +++
 
-**Replication Archive of a simple Baba Ghanoush recipe coming soon!. - بجد أحلى بابا غنوج!**
+**I love cooking Middle Eastern food. Replication Archive of a simple Baba Ghanoush recipe coming soon!**
 
 
 
