@@ -66,13 +66,13 @@ subtitle = ""
  css_class = ""
 +++
 
-I work on the political economy of development focusing on the role of religion, culture, and identity on inequality and public service provision. I employ computational methods of text analysis and GIS to quantify archival data and bring it to life :boom:!
 
  
- <img src="/img/Jul-15-2022%2016-33-41.gif" align="right" width="600" height="600" alt="Alt text for my gif" style="border:2px solid #000000;">
+ <img src="/img/Jul-15-2022%2016-33-41.gif" align="right" width="400" height="400" alt="Alt text for my gif" style="border:2px solid #000000;">
+I work on the political economy of development focusing on the role of religion, culture, and identity on inequality and public service provision. I employ computational methods of text analysis and GIS to quantify archival data and bring it to life :boom:!
 
 
-<sub><sup>watch the GIF below, for an overlay of historical maps of Alexandria in the 19th century on current geographical coordinates. Part of my project mapping the economic history of inequality  </sup></sub>
+<sub><sup>watch the GIF above, for an overlay of historical maps of Alexandria in the 19th century on current geographical coordinates. Part of my project mapping the economic history of inequality  </sup></sub>
 
 **Below an overview of some of my ongoing projects:**
 
