@@ -1,6 +1,6 @@
 
 +++
-title = "Agrarian Colonial Politics and Public Health: Evidence from 19th Century Egypt"
+title = "Agrarian Colonial Policies and Public Health: Evidence from 19th Century Egypt"
 date = 2021-06-01T00:00:00
 draft = false
 
