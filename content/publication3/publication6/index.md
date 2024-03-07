@@ -1,7 +1,7 @@
 
 +++
 title = "Mapping Economic History of Inequality and Service Provision"
-date = 2022-05-01T00:00:00
+date = 2021-07-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
