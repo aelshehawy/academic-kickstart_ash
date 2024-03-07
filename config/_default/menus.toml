@@ -23,13 +23,13 @@
 #  weight = 15  # The position of your page in the menu.
   
 [[main]]
-  name = "Research أبحاثي"
+  name = "Published Work البحوث المنشورة"
   url = "#publication2"
   weight = 25
   
  [[main]]
-  name = "Dissertation رسالتي"
-  url = "#dissertation"
+  name = "Ongoing Work البحث الجاري"
+  url = "#publication3"
   weight = 30 
 
 [[main]]
