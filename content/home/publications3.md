@@ -74,5 +74,8 @@ I work on the political economy of development focusing on the role of religion,
 
 <sub><sup>watch the GIF above, for an overlay of historical maps of Alexandria in the 19th century on current geographical coordinates. Part of my project mapping the economic history of inequality  </sup></sub>
 
+
+
+
 **Below an overview of some of my ongoing projects:**
 
