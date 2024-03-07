@@ -1,6 +1,6 @@
 
 +++
-title = "Missionaries on the Nile: Exposure to Protestant Missionaries and Women’s Developmental Outcomes and Social Norms in Egypt "
+title = "Missionaries on the Nile: Exposure to Foreign Missions and Women’s Developmental Outcomes and Social Norms in Egypt "
 date = 2021-05-01T00:00:00
 draft = false
 
