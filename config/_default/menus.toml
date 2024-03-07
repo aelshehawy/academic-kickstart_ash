@@ -33,7 +33,7 @@
   weight = 30 
 
 [[main]]
-  name = "Data قواعد بيانات "
+  name = "Data بيانات "
   url = "#projects"
   weight = 40
   
