@@ -1,6 +1,6 @@
 
 +++
-title = "Religious Minorities and Public Service Provision in 19th and 20th Century Egypt"
+title = "Religious Minorities and Public Service Provision: Education in 19th and 20th Century Egypt (w/ Mohamed Saleh)"
 date = 2020-07-01T00:00:00
 draft = false
 
