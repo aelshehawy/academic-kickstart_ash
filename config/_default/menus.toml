@@ -4,12 +4,12 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home عني "
+  name = "Home"
   url = "#about"
   weight = 10
   
 #[[main]]
-#  name = "Academic positions - وظائف أكاديمية"
+#  name = "Academic positions"
  # url = "#experience"
  # weight = 20
 
@@ -23,37 +23,37 @@
 #  weight = 15  # The position of your page in the menu.
   
 [[main]]
-  name = "Published Work البحوث المنشورة"
+  name = "Published Work"
   url = "#publication2"
   weight = 25
   
  [[main]]
-  name = "Ongoing Work البحث الجاري"
+  name = "Ongoing Work"
   url = "#publications3"
   weight = 30 
 
 [[main]]
-  name = "Data بيانات "
+  name = "Data"
   url = "#projects"
   weight = 40
   
     [[main]]
-  name = "Teaching التدريس"
+  name = "Teaching"
   url = "#teaching"
   weight = 45
   
  [[main]]
-  name = "Events فعاليات "
+  name = "Events"
   url = "#talks"
   weight = 50
 
 [[main]]
-  name = "Contact للتواصل معي "
+  name = "Contact"
   url = "#contact"
   weight = 60
   
  [[main]]
-  name = "Blog مدونتي "  # Title of the link.
+  name = "Blog"  # Title of the link.
   url = "blog/"  # Widget Page folder name.
   weight = 70  # Position of the link in the navigation bar.
   
