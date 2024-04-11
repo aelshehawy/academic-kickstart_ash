@@ -23,10 +23,10 @@ abstract = ""
 # Name of event and optional event URL.
 event = "Missionaries on the Nile: Exposure to Protestant Missionaries and Women’s Developmental
 Outcomes and Social Values in Egypt @ AALIMS 2024"
-#event_url = "https://www.asrec.org/"
+event_url = "https://www.asrec.org/"
 
 # Location of event.
-location = "Chicago"
+location = "Harvard"
 
 
 # Is this a selected talk? (true/false)
@@ -41,7 +41,7 @@ selected = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["schooling","religious minorities"]
+tags = ["gender","economic history","missions","religion"]
 
 # Links (optional).
 #url_pdf = ""
