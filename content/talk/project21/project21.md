@@ -1,7 +1,6 @@
 
 +++
-title = "Missionaries on the Nile: Exposure to Protestant Missionaries and Women’s Developmental
-Outcomes and Social Values in Egypt @ AALIMS 2024"
+title = "Missionaries on the Nile: Exposure to Protestant Missionaries and Women’s Developmental Outcomes and Social Values in Egypt @ AALIMS 2024"
 date = 2024-04-19T9:00:00  # Schedule page publish date.
 draft = false
 
@@ -21,8 +20,7 @@ abstract = ""
 
 
 # Name of event and optional event URL.
-event = "Missionaries on the Nile: Exposure to Protestant Missionaries and Women’s Developmental
-Outcomes and Social Values in Egypt @ AALIMS 2024"
+event = "Missionaries on the Nile: Exposure to Protestant Missionaries and Women’s Developmental Outcomes and Social Values in Egypt @ AALIMS 2024"
 #event_url = "https://aalims.org/"
 
 # Location of event.
