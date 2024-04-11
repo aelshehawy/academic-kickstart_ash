@@ -1,13 +1,13 @@
 
 +++
 title = "Religious Minorities and Public Service Provision @ ASREC 2024"
-date = 2024-02-22T00:00:00  # Schedule page publish date.
+date = 2024-03-01T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-#time_start = 2024-02-22T07:00:00
-#time_end = 2024-02-22T10:00:01
+#time_start = 2024-03-01T07:00:00
+#time_end = 2024-03-02T10:00:01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Ashrakat Elshehawy"]
