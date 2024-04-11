@@ -23,7 +23,7 @@ abstract = ""
 # Name of event and optional event URL.
 event = "Missionaries on the Nile: Exposure to Protestant Missionaries and Women’s Developmental
 Outcomes and Social Values in Egypt @ AALIMS 2024"
-event_url = "https://www.asrec.org/"
+#event_url = "https://aalims.org/"
 
 # Location of event.
 location = "Harvard"
