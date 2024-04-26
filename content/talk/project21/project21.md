@@ -1,13 +1,13 @@
 
 +++
 title = "Missionaries on the Nile: Exposure to Protestant Missionaries and Women’s Developmental Outcomes and Social Values in Egypt @ AALIMS 2024"
-date = 2024-04-10T9:00:00  # Schedule page publish date.
+date = 2024-04-06T11:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 #time_start = 2024-04-19T07:11:00
-#time_end = 2024-04-20T10:13:01
+#time_end = 2024-04-19T10:13:01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Ashrakat Elshehawy"]
