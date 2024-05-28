@@ -88,7 +88,7 @@ user_groups:
 
 <p style='text-align: justify;'> I am a postdoctoral fellow at Stanford's King Center on Global Development. I hold a PhD in Politics from the University of Oxford. I visited Yale during my PhD and before Oxford, I studied at Mannheim focusing on Advanced Quantitative Methods in Political Science. <br><br>
 
-My research focuses on topics related to the Political Economy of Development and Economic History, with a focus on identity and inequality.
+My research focuses on topics related to the Political Economy, Development, and Historical Political Economy, with a focus on identity and inequality.
  <br><br>
 
 My methodological expertise lies in the field of Computational Social Sciences. I employ and advance methods of Natural Language Processing (NLP) and Computational Text Analysis in a multilingual setting, working with a variety of Western and Arabic languages.  <br><br>
