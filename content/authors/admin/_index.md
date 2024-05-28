@@ -19,16 +19,13 @@ organizations:
   url: "https://kingcenter.stanford.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio:  My research interests incorporates apects of Political Economy of Development and the Political Economy of Information.  My research focuses on the economic history of state-institutions, local public good provision, informal social-welfare, and the political economy of Islamic institutions, with a regional focus of the Middle East. My research also evaluates effects of foreign interventions on domestic politics, in regions that span beyond the Middle East, employing advanced methods of Natural Language processing and computational text analysis. 
+bio:  My research interests incorporates apects of Political Economy of Development and the Political Economy of Information.  My research focuses on the economic history of state-institutions, local public good provision, and informal social-welfare. My research also evaluates effects of foreign interventions on domestic politics, employing advanced methods of Natural Language processing and computational text analysis. 
 
 interests:
 - Comparative Political Economy 
 - Historical Political Economy
-- Local Public Good Provision 
 - Politics of Information
-- Foreign Influence in Domestic Politics
-- Economic Sanctions
-- Computational Text Analysis and NLP
+- Natural Language Processing
 - Information Retrieval
 
 
@@ -89,18 +86,18 @@ user_groups:
 
 ---
 
-<p style='text-align: justify;'> I am a postdoctoral fellow at Stanford's King Center on Global Development. I hold a PhD in Politics from the University of Oxford. I was recently a visitor at Yale and before Oxford, I studied at Mannheim focusing on Advanced Quantitative Methods in Political Science. <br><br>
+<p style='text-align: justify;'> I am a postdoctoral fellow at Stanford's King Center on Global Development. I hold a PhD in Politics from the University of Oxford. I visited Yale during my PhD and before Oxford, I studied at Mannheim focusing on Advanced Quantitative Methods in Political Science. <br><br>
 
-My research focuses on the Political Economy of Development and Foreign Influence on Domestic Political Economy.
-My work evaluates effects of foreign interventions on domestic politics, local governance, and public service provision. My PhD dissertation focused on the economic development of local geographies in 19th and 20th century Egypt. I use computational and causal inference methods exploiting historical socio-economic shocks to investigate how interactions between foreigners and locals shape local public service provision and long-term
-economic inequalities.  <br><br>
+My research focuses on topics related to the Political Economy of Development and Economic History, with a focus on identity and inequality.
+ <br><br>
 
-My methodological expertise lies in the field of Computational Social Sciences. I employ and advance methods of Natural Language Processing (NLP) and Computational Text Analysis in a multilingual setting, working with a variety of Western and Arabic languages. 
+My methodological expertise lies in the field of Computational Social Sciences. I employ and advance methods of Natural Language Processing (NLP) and Computational Text Analysis in a multilingual setting, working with a variety of Western and Arabic languages.  <br><br>
+
 My work incorporates retrieval and digitalization of historical maps, textual data, and several other sources of archival data. 
 I am passionate about using my computational skills to generate new sources of quantitative data that reveal valuable information that would be otherwise lost in the archives. <br><br>
 
 My research has been published or is forthcoming at the <em>Journal of Politics, Perspectives on Politics, and Journal of Peace Research</em>.
-My published work underlines my strong interest in evaluating the impact of past and present foreign interventions on how societies operate, in applications that span beyond the region of the Middle East. <br><br>
+ <br><br>
 
 I am a former professional swimmer for the Egyptian Swimming National Team, for which I competed professionally for several years. I still find myself thinking more clearly while doing all those endless laps at the pool. I enjoy reading about Islamic Art and Architecture. </p>
 
