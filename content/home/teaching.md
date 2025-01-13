@@ -17,7 +17,7 @@ weight = 50
 +++
 
 
-### Graduate:<br/>
+### Graduate Teaching:<br/>
 - **Python for Social Data Science**<br/> Course Convener <br/> Department of Politics and International Relations <br/> University of Oxford <br/>
 - **Python and Quantitative Text Analysis for Social Scientists**<br/> Course Convener <br/> Department of Politics and International Relations <br/> University of Oxford <br/>
 - **Text as Data: Computational Text Analysis**<br/> Course Convener <br/> Department of Politics and International Relations <br/> University of Oxford <br/>[[Syllabus]](https://www.dropbox.com/s/39b2by3rb87gspb/Syllabus___Oxford_Text_Analysis.pdf?dl=0)  [[Material on Github]](https://github.com/aelshehawy/text-as-data-computational-text-analysis-oxford
@@ -26,7 +26,7 @@ weight = 50
 - **Computational Text Analysis for Political Science**  <br/> Department of Political Science <br/> University of Houston <br/> [[Syllabus]](https://www.dropbox.com/s/zjeofcbphzgvjfi/Computational.pdf?dl=0)<br/>
 
 
-### Undergraduate:<br/>
+### Undergraduate Teaching:<br/>
 - **211: Politics of the Middle East**  <br/>  PPE (Politics, Philosophy, Economics) Degree<br/> Pembroke, St. Hilda's, and Somerville Colleges<br/> University of Oxford <br/> 
 - **201: Comparative Government**   <br/>  PPE (Politics, Philosophy, Economics) Degree <br/> University of Oxford <br/> 
 - **Tutorial: Empirical Political Research in Political Science**   <br/> Lecture by: Dr. Sean Carey<br/>  University of Mannheim, Germany
