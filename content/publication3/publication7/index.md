@@ -1,6 +1,6 @@
 
 +++
-title = "How Biased Police Reporting Shapes Misperceptions of Out-GroupCrim"
+title = "How Biased Police Reporting Shapes Misperceptions of Out-Group Crime"
 date = 2021-06-02T00:00:00
 draft = false
 
