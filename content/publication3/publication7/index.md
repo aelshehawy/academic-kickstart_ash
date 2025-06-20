@@ -1,7 +1,7 @@
 
 +++
 title = "How Biased Police Reporting Shapes Misperceptions of Out-Group Crime"
-date = 2021-06-02T00:00:00
+date = 2021-07-02T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
