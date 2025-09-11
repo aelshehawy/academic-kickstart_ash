@@ -15,8 +15,8 @@ role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University 
-  url: "https://kingcenter.stanford.edu/"
+- name: University College London
+  url: "https://www.ucl.ac.uk/social-historical-sciences/political-science"
 
 # Short bio (displayed in user profile at end of posts)
 bio:  My research interests incorporates apects of Political Economy of Development and the Political Economy of Information.  My research focuses on the economic history of state-institutions, local public good provision, and informal social-welfare. My research also evaluates effects of foreign interventions on domestic politics, employing advanced methods of Natural Language processing and computational text analysis. 
