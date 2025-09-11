@@ -24,7 +24,7 @@ twitter = "AshElshehawy"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = "oxford.png"
+logo = ""
 
 # Enable global source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
@@ -54,7 +54,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "ashrakat@stanford.edu"
+email = "a.elshehawy@ucl.ac.uk"
 phone = ""
 address = "366 Galvez Street, Stanford, California, USA"
 
