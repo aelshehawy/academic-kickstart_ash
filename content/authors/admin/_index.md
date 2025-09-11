@@ -56,7 +56,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:ashrakat@stanford.edu"
+  link: "mailto:a.elshehawy@ucl.ac.uk"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AshElshehawy
