@@ -86,7 +86,7 @@ user_groups:
 
 ---
 
-<p style='text-align: justify;'> I an Assistant Professor at University College London (UCL). I hold a PhD in Politics from the University of Oxford. I was a postdoctoral fellow at Stanford's King Center on Global Development. I visited Yale during my PhD and before Oxford, I studied at Mannheim, focusing on Advanced Quantitative Methods in Political Science. <br><br>
+<p style='text-align: justify;'> I am an Assistant Professor at University College London (UCL). I hold a PhD in Politics from the University of Oxford. I was a postdoctoral fellow at Stanford's King Center on Global Development. I visited Yale during my PhD, and before Oxford, I studied at Mannheim, focusing on Advanced Quantitative Methods in Political Science. <br><br>
 
 My research focuses on topics related to the Political Economy, Development, and Historical Political Economy, with a focus on identity and inequality.
  <br><br>
