@@ -1,6 +1,6 @@
 
 +++
-title = "How Biased Police Reporting Shapes Misperceptions of Out-Group Crime (w/ Arun Frey, Violeta Haas, Tobias Roemer, Sascha Riaz)"
+title = "The Police as Gatekeepers of Information: Immigration Salience and Selective Crime Reporting (w/ Arun Frey, Violeta Haas, Tobias Roemer, Sascha Riaz)"
 date = 2021-07-02T00:00:00
 draft = false
 
