@@ -1,21 +1,32 @@
-/* Make base font smaller everywhere */
+/* Reduce base font size */
 html {
-  font-size: 14px;   /* default browser is 16px – this makes everything ~12.5% smaller */
+  font-size: 16px; /* Default is usually 18-20px, adjust as needed */
 }
 
-/* Optional: slightly tweak body text & headings */
+/* Reduce body text */
 body {
+  font-size: 0.9rem; /* Multiply base font by 0.9 */
+}
+
+/* Reduce heading sizes */
+h1 { font-size: 2rem; }    /* Default ~2.5rem */
+h2 { font-size: 1.6rem; }  /* Default ~2rem */
+h3 { font-size: 1.3rem; }  /* Default ~1.75rem */
+h4 { font-size: 1.1rem; }  /* Default ~1.5rem */
+h5 { font-size: 1rem; }
+h6 { font-size: 0.9rem; }
+
+/* Reduce paragraph text */
+p {
   font-size: 0.9rem;
 }
 
-h1, .h1 {
-  font-size: 2.1rem;
+/* Reduce navigation font */
+.navbar {
+  font-size: 0.9rem;
 }
 
-h2, .h2 {
-  font-size: 1.6rem;
-}
-
-h3, .h3 {
-  font-size: 1.3rem;
+/* Reduce widget/section text */
+.home-section {
+  font-size: 0.9rem;
 }
