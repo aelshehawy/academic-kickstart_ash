@@ -1,0 +1,21 @@
+/* Make base font smaller everywhere */
+html {
+  font-size: 14px;   /* default browser is 16px – this makes everything ~12.5% smaller */
+}
+
+/* Optional: slightly tweak body text & headings */
+body {
+  font-size: 0.9rem;
+}
+
+h1, .h1 {
+  font-size: 2.1rem;
+}
+
+h2, .h2 {
+  font-size: 1.6rem;
+}
+
+h3, .h3 {
+  font-size: 1.3rem;
+}
