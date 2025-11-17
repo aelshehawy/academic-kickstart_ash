@@ -99,7 +99,7 @@ I am passionate about using my computational skills to generate new sources of q
 My research has been published or is forthcoming at the <em>Journal of Politics, Perspectives on Politics, and Journal of Peace Research</em>.
  <br><br>
  
-I am currently a Faculty Fellow at the Association for Analytic Learning about Islam and Muslim Societies ([AALIMS](https://aalims.org/)) and the Governance and Local Development Institute ([GLD](https://gld.gu.se/en/)) of the University of Gothenburg.
+I am currently a Faculty Fellow at the Association for Analytic Learning about Islam and Muslim Societies (<a href="https://aalims.org/">AALIMS</a>) and the Governance and Local Development Institute (<a href="https://gld.gu.se/en/">GLD</a>) of the University of Gothenburg.
  <br><br>
 
 I am a former professional swimmer for the Egyptian Swimming National Team, for which I competed professionally for several years. I still find myself thinking more clearly while doing all those endless laps at the pool. I enjoy reading about Islamic Art and Architecture. </p>
