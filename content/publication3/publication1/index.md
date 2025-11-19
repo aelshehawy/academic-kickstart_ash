@@ -2,7 +2,7 @@
 +++
 title = "Gender and Money in Politics: Evidence from Colombian Local Elections (w/ Miguel Rueda, Nelson Ruiz)"
 date = 2023-05-01T00:00:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Ashrakat Elshehawy","Miguel Rueda","Nelson Ruiz"]
