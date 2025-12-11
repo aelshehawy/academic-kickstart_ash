@@ -1,7 +1,7 @@
 
 +++
 title = "University of Konstanz -  Comparative Politics and Political Economy Colloquium"
-date = 2024-04-06T11:00:00  # Schedule page publish date.
+date = 2025-11-17T11:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
