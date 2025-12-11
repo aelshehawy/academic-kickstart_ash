@@ -1,7 +1,7 @@
 
 +++
 title = "EUI Political Behavior Colloquium"
-date = 2024-04-06T11:00:00  # Schedule page publish date.
+date = 2025-10-13T11:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
@@ -24,7 +24,7 @@ event = "EUI Political Behavior Colloquium"
 #event_url = "https://www.eui.eu/research-hub?id=political-behaviour-colloquium"
 
 # Location of event.
-location = "Harvard"
+location = "Florence"
 
 
 # Is this a selected talk? (true/false)
@@ -39,7 +39,7 @@ selected = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["gender","economic history","missions","religion"]
+tags = []
 
 # Links (optional).
 #url_pdf = ""
