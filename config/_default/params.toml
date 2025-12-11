@@ -56,7 +56,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "a.elshehawy@ucl.ac.uk"
 phone = ""
-address = "366 Galvez Street, Stanford, California, USA"
+address = "29-31 Tavistock Square, London WC1H 9QU, UK"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
