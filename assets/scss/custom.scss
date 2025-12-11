@@ -1,80 +1,82 @@
-/* Custom font-size overrides (cleaned & responsive) */
+/* Custom font-size overrides (targeted, no heavy !important use) */
 
-/* Base: keep browser default (16px) for accessibility — change if you intentionally want smaller base */
-:root {
-  /* Optionally set a single variable if you want to scale everything later */
-  --base-font-size: 16px;
+/* Keep base at browser default for accessibility */
+:root { --base-font-size: 16px; }
+
+html { font-size: 100%; } /* 16px baseline */
+
+/* Body / main content */
+body,
+.site-main,
+.main-content,
+.content {
+  font-size: 0.95rem; /* ~15.2px */
+  line-height: 1.55;
+  color: #222;
 }
 
-/* Body text */
-html {
-  font-size: 100%; /* 16px in most browsers */
-}
-
-body {
-  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: 0.95rem; /* ≈15.2px - adjust to taste */
+/* Sidebar / profile (smaller, like your example) */
+.sidebar,
+.page-sidebar,
+.profile,
+.widget,
+.author-box {
+  font-size: 0.85rem; /* ~13.6px */
   line-height: 1.45;
-  color: #111;
+  color: #444;
 }
 
-/* Headings: responsive and reduced scale using clamp() */
-h1 {
-  font-size: clamp(1.6rem, 3.2vw, 2.0rem); /* ~25.6px down to 16px base-anchored */
-  margin: 0.67em 0;
+/* Headings inside the main content — reduced scale and responsive */
+.site-main h1,
+.main-content h1,
+.content h1 {
+  font-size: clamp(1.6rem, 3.0vw, 1.9rem); /* ~25.6px → 30px max */
+  margin: 0 0 0.6rem 0;
+  font-weight: 700;
 }
 
-h2 {
-  font-size: clamp(1.375rem, 2.6vw, 1.6rem); /* ~22px → 16px */
-  margin: 0.75em 0;
+.site-main h2,
+.main-content h2,
+.content h2 {
+  font-size: clamp(1.25rem, 2.2vw, 1.4rem); /* ~20px */
+  margin: 0 0 0.6rem 0;
+  font-weight: 600;
 }
 
-h3 {
-  font-size: clamp(1.2rem, 2.1vw, 1.25rem); /* ~19.2px → 20px */
-  margin: 0.85em 0;
+.site-main h3,
+.main-content h3,
+.content h3 {
+  font-size: 1.05rem; /* ~16.8px */
+  margin: 0 0 0.5rem 0;
 }
 
-h4 {
-  font-size: 1.0rem; /* ~16px — changed from 0.0rem */
-  margin: 1em 0;
-}
-
-h5 {
+/* Smaller paragraph sizing so large blocks don't appear huge */
+.site-main p,
+.main-content p,
+.content p {
   font-size: 0.95rem;
-  margin: 1em 0;
-}
-
-h6 {
-  font-size: 0.85rem;
-  margin: 1em 0;
-}
-
-/* Paragraphs and smaller utilities */
-p {
-  font-size: 0.95rem; /* keep body and paragraphs close */
   margin-bottom: 1rem;
 }
 
-.small-text {
-  font-size: 0.875rem; /* ~14px */
-}
-
-/* If you need to target nav or specific theme areas, be more specific instead of !important */
+/* Smaller nav/brand text */
+.site-header .brand,
+.site-nav a,
 .navbar,
-.nav {
-  font-size: 0.9rem;
+.header-nav {
+  font-size: 0.95rem;
 }
 
-/* Example: if the theme's selector is stronger you can increase specificity
-   (only do this where necessary): */
-.site-content h1,
-.main-content h1 {
-  /* Use the same heading sizes here if the theme overrides plain h1 */
-  font-size: clamp(1.6rem, 3.2vw, 2.0rem);
-}
+/* Utility classes */
+.small-text { font-size: 0.85rem; }
+.lead { font-size: 1rem; }
 
-/* Small-screen tweak (optional) */
-@media (max-width: 420px) {
-  html { font-size: 93%; } /* slightly smaller base on tiny phones */
-  body { font-size: 0.95rem; }
+/* If your theme uses very specific selectors like .theme-name .content h1,
+   you can either add those selectors here or increase specificity by adding
+   a parent selector (body .site-main h1). */
+
+/* Small screens */
+@media (max-width: 768px) {
+  html { font-size: 95%; }
+  .sidebar,
+  .page-sidebar { font-size: 0.9rem; } /* make sidebar slightly bigger on phones */
 }
