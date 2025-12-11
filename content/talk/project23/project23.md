@@ -24,7 +24,7 @@ event = "University of Konstanz -  Comparative Politics and Political Economy Co
 #event_url = ""
 
 # Location of event.
-location = "Harvard"
+location = "Konstanz"
 
 
 # Is this a selected talk? (true/false)
