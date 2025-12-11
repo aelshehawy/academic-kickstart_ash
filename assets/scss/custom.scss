@@ -1,32 +1,32 @@
 /* Reduce base font size */
 html {
-  font-size: 12px; /* Default is usually 18-20px, adjust as needed */
+  font-size: 12px !important; /* Default is usually 18-20px, adjust as needed */
 }
 
 /* Reduce body text */
 body {
-  font-size: 0.9rem; /* Multiply base font by 0.9 */
+  font-size: 0.9rem !important; /* Multiply base font by 0.9 */
 }
 
 /* Reduce heading sizes */
-h1 { font-size: 1,.5rem; }    /* Default ~2.5rem */
-h2 { font-size: 1.2rem; }  /* Default ~2rem */
-h3 { font-size: 1.rem; }  /* Default ~1.75rem */
-h4 { font-size: 0.0rem; }  /* Default ~1.5rem */
-h5 { font-size: 0.8rem; }
-h6 { font-size: 0.7rem; }
+h1 { font-size: 1,.5rem !important; }    /* Default ~2.5rem */
+h2 { font-size: 1.2rem !important; }  /* Default ~2rem */
+h3 { font-size: 1rem !important; }  /* Default ~1.75rem */
+h4 { font-size: 0.0rem !important; }  /* Default ~1.5rem */
+h5 { font-size: 0.8rem !important; }
+h6 { font-size: 0.7rem !important; }
 
 /* Reduce paragraph text */
 p {
-  font-size: 0.7rem;
+  font-size: 0.7rem !important;
 }
 
 /* Reduce navigation font */
 .navbar {
-  font-size: 0.7rem;
+  font-size: 0.7rem !important;
 }
 
 /* Reduce widget/section text */
 .home-section {
-  font-size: 0.7rem;
+  font-size: 0.7rem !important;
 }
