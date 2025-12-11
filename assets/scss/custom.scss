@@ -1,32 +1,80 @@
-/* Reduce base font size */
+/* Custom font-size overrides (cleaned & responsive) */
+
+/* Base: keep browser default (16px) for accessibility — change if you intentionally want smaller base */
+:root {
+  /* Optionally set a single variable if you want to scale everything later */
+  --base-font-size: 16px;
+}
+
+/* Body text */
 html {
-  font-size: 12px !important; /* Default is usually 18-20px, adjust as needed */
+  font-size: 100%; /* 16px in most browsers */
 }
 
-/* Reduce body text */
 body {
-  font-size: 0.9rem !important; /* Multiply base font by 0.9 */
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 0.95rem; /* ≈15.2px - adjust to taste */
+  line-height: 1.45;
+  color: #111;
 }
 
-/* Reduce heading sizes */
-h1 { font-size: 1,.5rem !important; }    /* Default ~2.5rem */
-h2 { font-size: 1.2rem !important; }  /* Default ~2rem */
-h3 { font-size: 1rem !important; }  /* Default ~1.75rem */
-h4 { font-size: 0.0rem !important; }  /* Default ~1.5rem */
-h5 { font-size: 0.8rem !important; }
-h6 { font-size: 0.7rem !important; }
+/* Headings: responsive and reduced scale using clamp() */
+h1 {
+  font-size: clamp(1.6rem, 3.2vw, 2.0rem); /* ~25.6px down to 16px base-anchored */
+  margin: 0.67em 0;
+}
 
-/* Reduce paragraph text */
+h2 {
+  font-size: clamp(1.375rem, 2.6vw, 1.6rem); /* ~22px → 16px */
+  margin: 0.75em 0;
+}
+
+h3 {
+  font-size: clamp(1.2rem, 2.1vw, 1.25rem); /* ~19.2px → 20px */
+  margin: 0.85em 0;
+}
+
+h4 {
+  font-size: 1.0rem; /* ~16px — changed from 0.0rem */
+  margin: 1em 0;
+}
+
+h5 {
+  font-size: 0.95rem;
+  margin: 1em 0;
+}
+
+h6 {
+  font-size: 0.85rem;
+  margin: 1em 0;
+}
+
+/* Paragraphs and smaller utilities */
 p {
-  font-size: 0.7rem !important;
+  font-size: 0.95rem; /* keep body and paragraphs close */
+  margin-bottom: 1rem;
 }
 
-/* Reduce navigation font */
-.navbar {
-  font-size: 0.7rem !important;
+.small-text {
+  font-size: 0.875rem; /* ~14px */
 }
 
-/* Reduce widget/section text */
-.home-section {
-  font-size: 0.7rem !important;
+/* If you need to target nav or specific theme areas, be more specific instead of !important */
+.navbar,
+.nav {
+  font-size: 0.9rem;
+}
+
+/* Example: if the theme's selector is stronger you can increase specificity
+   (only do this where necessary): */
+.site-content h1,
+.main-content h1 {
+  /* Use the same heading sizes here if the theme overrides plain h1 */
+  font-size: clamp(1.6rem, 3.2vw, 2.0rem);
+}
+
+/* Small-screen tweak (optional) */
+@media (max-width: 420px) {
+  html { font-size: 93%; } /* slightly smaller base on tiny phones */
+  body { font-size: 0.95rem; }
 }
